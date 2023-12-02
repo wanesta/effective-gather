@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gaosm/Downloads/dev/effective-gather/effective-c++/item-14.cc
+mutex
+-
+iostream
+-
+pthread.h
+-
+thread
+-
+

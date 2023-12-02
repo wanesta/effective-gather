@@ -1,0 +1,8 @@
+add_executable(effective_stl_01 effective_stl_01.cc)
+add_executable(effective_stl_02 effective_stl_02.cc)
+add_executable(effective_stl_03 effective_stl_03.cc)
+add_executable(effective_stl_04 effective_stl_04.cc)
+add_executable(effective_stl_05 effective_stl_05.cc)
+add_executable(effective_stl_06 effective_stl_06.cc)
+add_executable(effective_stl_07 effective_stl_07.cc)
+

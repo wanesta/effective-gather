@@ -1,0 +1,6 @@
+add_executable(more_effective_c++_01 more_effective_c++_01.cc)
+add_executable(more_effective_c++_02 more_effective_c++_02.cc)
+add_executable(more_effective_c++_03 more_effective_c++_03.cc)
+add_executable(more_effective_c++_04 more_effective_c++_04.cc)
+add_executable(more_effective_c++_05 more_effective_c++_05.cc)
+add_executable(more_effective_c++_06 more_effective_c++_06.cc)

@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/effective_modern_c++_01.cc
+iostream
+-
+vector
+-
+

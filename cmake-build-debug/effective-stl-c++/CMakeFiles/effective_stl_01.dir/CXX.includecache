@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gaosm/Downloads/dev/effective-gather/effective-stl-c++/effective_stl_01.cc
+iostream
+-
+fstream
+-
+vector
+-
+list
+-
+algorithm
+-
+set
+-
+iterator
+-
+

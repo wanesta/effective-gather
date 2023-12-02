@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/more_effective_c++_01.dir/more_effective_c++_01.cc.o -o ../bin/more_effective_c++_01 
