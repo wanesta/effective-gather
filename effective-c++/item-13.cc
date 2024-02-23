@@ -1,45 +1,73 @@
-/*
- *  item13 ：以对象管理资源
- *
- */
 #include <iostream>
 #include <memory>
-class Investment{
+class Investment {
 public:
-    Investment(){
-        std::cout << "构造一个 Investment 对象" << std::endl;
-    }
-    ~Investment(){
-        std::cout << "销毁一个 Investment 对象" <<std::endl;
-    }
+    Investment() {}
+    virtual ~Investment() {}
+    static Investment *CreateInvestment(int type);
+    virtual void Print() = 0;
+};
+
+class YaWenInvestment : public Investment {
+
+public:
+    YaWenInvestment() {}
+    ~YaWenInvestment() {}
+    void AddYaWenInvestment(const int n) { money_ += n; }
+    void Print() { std::cout << "Yawen's money:£¤" << money_ << ".00" << std::endl; }
 
 private:
-    //data
+    static int money_;
 };
-Investment* createInvestment(){
 
-    return new Investment();
-};
-//void f(){
-//    Investment* pInv = createInvestment();
-//    return ;
-//    delete pInv;
-//}
+int YaWenInvestment::money_;
 
-void f_unique(){
-    std::unique_ptr<Investment> pInv(createInvestment());
-    std::unique_ptr<Investment> pInv2(std::make_unique<Investment>(*pInv));
-    //std::unique_ptr<Investment> pInv2(pInv);
-    //pInv = pInv2;
+Investment *Investment::CreateInvestment(int type) {
+    switch (type) {
+        case 1:
+            return new YaWenInvestment;
+        default:
+            break;
+    }
+    return nullptr;
 }
-void f_shared(){
-    std::shared_ptr<Investment> pInv1(createInvestment());
-    std::shared_ptr<Investment> pInv2(pInv1);
-    Investment *p = pInv2.get();
-    //std::cout << "" << *p << std::endl;
-}
+int main() {
+    std::cout << "Item 13: Use objects to manage resources." << std::endl;
 
-int main(){
-    f_unique();
-    f_shared();
+    {
+        /*
+        auto pInv = std::make_shared<Investment>();
+        std::cout
+            << "size: " << sizeof(pInv)
+            << std::endl; // Do you know why the size is 16 bytes on 64bit system.
+        auto p = (YaWenInvestment *)pInv->CreateInvestment(1);
+        p->AddYaWenInvestment(100);
+        delete p;
+        */
+    }
+
+    {
+        std::auto_ptr<YaWenInvestment> pInv1(
+                (YaWenInvestment *)Investment::CreateInvestment(1));
+        std::cout << "pInv1 point to: " << pInv1.get() << std::endl;
+        std::auto_ptr<YaWenInvestment> pInv2(pInv1);
+        std::cout << "pInv1 point to: " << pInv1.get()
+                  << std::endl;
+        std::cout << "pInv2 point to: " << pInv2.get() << std::endl;
+        pInv2->AddYaWenInvestment(1000000);
+        pInv1 = pInv2;
+    }
+
+    {
+        std::shared_ptr<YaWenInvestment> pInv3(
+                (YaWenInvestment *)Investment::CreateInvestment(1));
+        std::cout << "shared_ptr pInv3 point to: " << pInv3.get() << std::endl;
+        std::shared_ptr<YaWenInvestment> pInv4(pInv3);
+        std::cout << "shared_ptr pInv3 point to: " << pInv3.get() << std::endl;
+        pInv4->AddYaWenInvestment(1000000);
+        pInv4->Print();
+        std::cout << "shared_ptr pInv4 point to: " << pInv4.get() << std::endl;
+    }
+
+    return 0;
 }

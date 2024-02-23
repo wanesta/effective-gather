@@ -1,28 +1,31 @@
-#include <iostream>
-
-class Rational
-{
+#include<iostream>
+class Rational {
 public:
-    Rational(int numerator = 0, int denominator = 1):n{numerator},d{denominator}{
-
-    }
-
-    int numerator() const {return n;}
-    int denominator() const {return d;}
-
-    //const Rational operator*(const Rational& rhs) const{ return Rational(this->n * rhs.n,this->d * rhs.d);}
+    Rational(int n = 0, int d = 1):n_(n),d_(d) {}
+    ~Rational() {}
+    //const Rational operator*(const Rational& rhs) const;
+    int numerator() const { return n_; }
+    int denominator() const { return d_; }
 private:
-    int n, d; //分子和分母
+    int n_;
+    int d_;
 };
+
+//const Rational Rational::operator*(const Rational& rhs) const {
+//	return Rational(rhs.n_ * this->n_, rhs.d_ * this->d_);
+//}
+
 const Rational operator*(const Rational& lhs, const Rational& rhs) {
     return Rational(lhs.numerator() * rhs.numerator(), lhs.denominator() * rhs.denominator());
 }
-int main(){
+int main() {
+    std::cout << "Item 24: Declare non-member functions when type conversions should apply to all parameters." << std::endl;
 
-    Rational oneEight(1, 8);
-    Rational oneHalf(1, 2);
-    Rational result = oneEight * oneHalf;
-    result = result * oneEight;
-    result = oneHalf * 2;    //result = oneHalf.operator*(2) 正确;
-    result = 2 * oneHalf; //报错  result = 2.operator*(oneHalf)
+    Rational yawen(1, 8);
+    Rational hangyu(1, 2);
+    Rational result = hangyu * yawen;
+    Rational one_fourth(1, 4);
+    result = one_fourth * 2;
+    result = 2 * one_fourth;
+    return 0;
 }

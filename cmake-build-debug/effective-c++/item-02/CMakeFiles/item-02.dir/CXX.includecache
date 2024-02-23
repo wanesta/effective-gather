@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gaosm/Downloads/dev/effective-gather/effective-c++/item-02/header.h
+
+/home/gaosm/Downloads/dev/effective-gather/effective-c++/item-02/item-02.cc
+iostream
+-
+cstring
+-
+header.h
+/home/gaosm/Downloads/dev/effective-gather/effective-c++/item-02/header.h
+

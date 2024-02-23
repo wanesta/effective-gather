@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/item-31.dir/item-31.cc.o CMakeFiles/item-31.dir/Address.cc.o CMakeFiles/item-31.dir/Date.cc.o CMakeFiles/item-31.dir/Person.cc.o CMakeFiles/item-31.dir/PersonImpl.cc.o -o ../../bin/item-31 

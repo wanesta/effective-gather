@@ -1,53 +1,53 @@
-/*
- * item 15: 有时候许多API直接引用资源，所以有时候你将不得不绕过资源管理对象，直接处理原始资源。
- * 问题引出: std::shared_ptr<Investment>pInv(createInvestment()); //item-13
- *          int daysHeld(const Investment *pi); //返回投资已有天数
- *          int days = daysHeld(pInv);  //错误，参数类型不匹配
- *          //int days = daysHeld(pInv.get())   //正确，把pInv中原始指针传递给daysHeld
- *          一般有两种方式，隐式和显式转换
- *
- */
 #include <iostream>
-
-struct FontHandle{
-    int ID;
-    bool isoccupied = false;
-    int size = 8;
-};
-
-FontHandle getFont(FontHandle fh){
-    fh.isoccupied = true;
-    std::cout << "获取FontHandle对象， ID为" << fh.ID << std::endl;
-    return fh;
-}
-
-void releaseFont(FontHandle fh){
-    fh.isoccupied = true;
-    std::cout << "获取FontHandle对象， ID为" << fh.ID << std::endl;
-}
-class Font{ //RAII
+class FontHandle {
 public:
-    explicit Font(FontHandle fh): fh(fh){ //获取资源   使用pass-by-value
-
+    FontHandle():font_size_(0) {}
+    ~FontHandle() {}
+    void SetFontSize(int fontSize) {
+        if (fontSize < 0)
+        {
+            return;
+        }
+        font_size_ = fontSize;
     }
-    ~Font(){
-        releaseFont(fh);    //释放资源
-    }
-    FontHandle get() const {return fh;} //显示转换函数
-    operator FontHandle () const {return fh;}   //隐式转换函数
 private:
-    FontHandle fh;   //原始字体资源
+    int font_size_;
 };
-void changeFontSize(FontHandle f, int newSize){
-    f.size = newSize;
-    std::cout << "ID为" << f.ID << "size改变为" << f.size << std::endl;
-}
-FontHandle fontHandle;
 
-int main(){
-    Font font(getFont(fontHandle));
-    int newFontSize = 10;
-    changeFontSize(font.get(), newFontSize); //明确将Font转换为FontHandle
-    newFontSize = 12; //第二步加入
-    changeFontSize(font, newFontSize); //隐式调用
+class Font { // RAII class
+public:
+    explicit Font(FontHandle fh) // acquire resource;
+            : f(fh) // use pass-by-value, because the
+    {} // C API does
+    ~Font() { releaseFont(f); } // release resource // handle copying (see Item14)
+    void releaseFont(FontHandle f) {
+        f.~FontHandle();
+    }
+    operator FontHandle() const { return f; } // implicitly conversion function
+    FontHandle get() const { return f; } // explicit conversion function
+    void changeFontSize(FontHandle f, int newSize) {
+        f.SetFontSize(newSize);
+    }
+private:
+    FontHandle f; // the raw font resource
+};
+
+FontHandle getFont() {
+    FontHandle f;
+    return f;
+}
+int main() {
+    std::cout << "Item 15: Provide access to raw resources in resource managing classes." << std::endl;
+    {
+        Font f(getFont());
+        int newFontSize = 10;
+        f.changeFontSize(f, newFontSize);
+    }
+    {
+        Font f1(getFont());
+        FontHandle f2 = f1;
+        f1.~Font();
+        f2.SetFontSize(12);
+    }
+    return 0;
 }

@@ -1,0 +1,1 @@
+add_executable(function_strategy_pattern function_strategy_pattern.cc classic_strategy_pattern.cc)

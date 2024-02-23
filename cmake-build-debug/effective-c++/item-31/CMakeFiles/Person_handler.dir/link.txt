@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Person_handler.dir/Person_handler.cc.o CMakeFiles/Person_handler.dir/Address.cc.o CMakeFiles/Person_handler.dir/Date.cc.o CMakeFiles/Person_handler.dir/Person.cc.o CMakeFiles/Person_handler.dir/PersonImpl.cc.o -o ../../bin/Person_handler 

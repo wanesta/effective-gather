@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gaosm/Downloads/dev/effective-gather/effective-c++/item-31/Address.h
+string
+-
+
+/home/gaosm/Downloads/dev/effective-gather/effective-c++/item-31/Date.h
+string
+-
+
+/home/gaosm/Downloads/dev/effective-gather/effective-c++/item-31/Person.h
+PersonImpl.h
+/home/gaosm/Downloads/dev/effective-gather/effective-c++/item-31/PersonImpl.h
+
+/home/gaosm/Downloads/dev/effective-gather/effective-c++/item-31/PersonImpl.h
+iostream
+-
+Address.h
+/home/gaosm/Downloads/dev/effective-gather/effective-c++/item-31/Address.h
+Date.h
+/home/gaosm/Downloads/dev/effective-gather/effective-c++/item-31/Date.h
+memory
+-
+
+/home/gaosm/Downloads/dev/effective-gather/effective-c++/item-31/main.cc
+Person.h
+/home/gaosm/Downloads/dev/effective-gather/effective-c++/item-31/Person.h
+

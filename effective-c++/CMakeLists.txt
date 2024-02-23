@@ -1,17 +1,31 @@
-add_executable(effective_c++_01 effective_c++_01.cc)
-add_executable(effective_c++_02 effective_c++_02.cc)
-add_executable(effective_c++_03 effective_c++_03.cc)
-add_executable(effective_c++_04 effective_c++_04.cc)
-add_executable(effective_c++_05 effective_c++_05.cc)
-add_executable(effective_c++_06 effective_c++_06.cc)
-add_executable(effective_c++_07 effective_c++_07.cc)
-add_executable(effective_c++_08 effective_c++_08.cc)
-add_executable(effective_c++_09 effective_c++_09.cc)
-add_executable(effective_c++_10 effective_c++_10.cc)
-add_executable(item-13 item-13.cc)
-add_executable(item-14 item-14.cc)
-add_executable(item-15 item-15.cc)
-add_executable(item-18 item-18.cc)
-add_executable(item-19 item-19.cc)
-add_executable(item-20 item-20.cc)
-add_executable(item-24 item-24.cc)
+cmake_minimum_required(VERSION 3.19.2)
+
+set(SUBTMP 02 04 23 31 35) #设置要编译一个目录的名称
+
+foreach(i RANGE 2 40)
+    if(${i} GREATER 10)
+        list(APPEND SINGALF "item-${i}")
+    elseif(${i} EQUAL 10)
+        list(APPEND SINGALF "item-${i}")
+    else()
+        list(APPEND SINGALF "item-0${i}")
+    endif()
+endforeach()
+
+foreach(i ${SUBTMP})
+    list(APPEND SUBD "item-${i}")
+endforeach()
+
+foreach(it ${SUBD})
+    list(REMOVE_ITEM SINGALF ${it})
+endforeach()
+
+
+foreach(i ${SINGALF})
+    add_executable(${i} "${i}.cc")
+endforeach()
+
+foreach(i ${SUBD})
+    add_subdirectory(${i})
+endforeach()
+

@@ -130,169 +130,64 @@ depend:
 .PHONY : depend
 
 # Convenience name for target.
-effective-c++/CMakeFiles/item-24.dir/rule:
-	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-c++/CMakeFiles/item-24.dir/rule
-.PHONY : effective-c++/CMakeFiles/item-24.dir/rule
+effective-c++/CMakeFiles/item-37.dir/rule:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-c++/CMakeFiles/item-37.dir/rule
+.PHONY : effective-c++/CMakeFiles/item-37.dir/rule
 
 # Convenience name for target.
-item-24: effective-c++/CMakeFiles/item-24.dir/rule
+item-37: effective-c++/CMakeFiles/item-37.dir/rule
 
-.PHONY : item-24
+.PHONY : item-37
 
 # fast build rule for target.
-item-24/fast:
-	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-24.dir/build.make effective-c++/CMakeFiles/item-24.dir/build
-.PHONY : item-24/fast
+item-37/fast:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-37.dir/build.make effective-c++/CMakeFiles/item-37.dir/build
+.PHONY : item-37/fast
 
 # Convenience name for target.
-effective-c++/CMakeFiles/item-20.dir/rule:
-	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-c++/CMakeFiles/item-20.dir/rule
-.PHONY : effective-c++/CMakeFiles/item-20.dir/rule
+effective-c++/CMakeFiles/item-33.dir/rule:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-c++/CMakeFiles/item-33.dir/rule
+.PHONY : effective-c++/CMakeFiles/item-33.dir/rule
 
 # Convenience name for target.
-item-20: effective-c++/CMakeFiles/item-20.dir/rule
+item-33: effective-c++/CMakeFiles/item-33.dir/rule
 
-.PHONY : item-20
+.PHONY : item-33
 
 # fast build rule for target.
-item-20/fast:
-	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-20.dir/build.make effective-c++/CMakeFiles/item-20.dir/build
-.PHONY : item-20/fast
+item-33/fast:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-33.dir/build.make effective-c++/CMakeFiles/item-33.dir/build
+.PHONY : item-33/fast
 
 # Convenience name for target.
-effective-c++/CMakeFiles/item-19.dir/rule:
-	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-c++/CMakeFiles/item-19.dir/rule
-.PHONY : effective-c++/CMakeFiles/item-19.dir/rule
+effective-c++/CMakeFiles/item-29.dir/rule:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-c++/CMakeFiles/item-29.dir/rule
+.PHONY : effective-c++/CMakeFiles/item-29.dir/rule
 
 # Convenience name for target.
-item-19: effective-c++/CMakeFiles/item-19.dir/rule
+item-29: effective-c++/CMakeFiles/item-29.dir/rule
 
-.PHONY : item-19
+.PHONY : item-29
 
 # fast build rule for target.
-item-19/fast:
-	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-19.dir/build.make effective-c++/CMakeFiles/item-19.dir/build
-.PHONY : item-19/fast
+item-29/fast:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-29.dir/build.make effective-c++/CMakeFiles/item-29.dir/build
+.PHONY : item-29/fast
 
 # Convenience name for target.
-effective-c++/CMakeFiles/item-15.dir/rule:
-	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-c++/CMakeFiles/item-15.dir/rule
-.PHONY : effective-c++/CMakeFiles/item-15.dir/rule
+effective-c++/CMakeFiles/item-27.dir/rule:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-c++/CMakeFiles/item-27.dir/rule
+.PHONY : effective-c++/CMakeFiles/item-27.dir/rule
 
 # Convenience name for target.
-item-15: effective-c++/CMakeFiles/item-15.dir/rule
+item-27: effective-c++/CMakeFiles/item-27.dir/rule
 
-.PHONY : item-15
+.PHONY : item-27
 
 # fast build rule for target.
-item-15/fast:
-	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-15.dir/build.make effective-c++/CMakeFiles/item-15.dir/build
-.PHONY : item-15/fast
-
-# Convenience name for target.
-effective-c++/CMakeFiles/effective_c++_04.dir/rule:
-	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-c++/CMakeFiles/effective_c++_04.dir/rule
-.PHONY : effective-c++/CMakeFiles/effective_c++_04.dir/rule
-
-# Convenience name for target.
-effective_c++_04: effective-c++/CMakeFiles/effective_c++_04.dir/rule
-
-.PHONY : effective_c++_04
-
-# fast build rule for target.
-effective_c++_04/fast:
-	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_04.dir/build.make effective-c++/CMakeFiles/effective_c++_04.dir/build
-.PHONY : effective_c++_04/fast
-
-# Convenience name for target.
-effective-c++/CMakeFiles/effective_c++_06.dir/rule:
-	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-c++/CMakeFiles/effective_c++_06.dir/rule
-.PHONY : effective-c++/CMakeFiles/effective_c++_06.dir/rule
-
-# Convenience name for target.
-effective_c++_06: effective-c++/CMakeFiles/effective_c++_06.dir/rule
-
-.PHONY : effective_c++_06
-
-# fast build rule for target.
-effective_c++_06/fast:
-	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_06.dir/build.make effective-c++/CMakeFiles/effective_c++_06.dir/build
-.PHONY : effective_c++_06/fast
-
-# Convenience name for target.
-effective-c++/CMakeFiles/effective_c++_03.dir/rule:
-	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-c++/CMakeFiles/effective_c++_03.dir/rule
-.PHONY : effective-c++/CMakeFiles/effective_c++_03.dir/rule
-
-# Convenience name for target.
-effective_c++_03: effective-c++/CMakeFiles/effective_c++_03.dir/rule
-
-.PHONY : effective_c++_03
-
-# fast build rule for target.
-effective_c++_03/fast:
-	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_03.dir/build.make effective-c++/CMakeFiles/effective_c++_03.dir/build
-.PHONY : effective_c++_03/fast
-
-# Convenience name for target.
-effective-c++/CMakeFiles/effective_c++_02.dir/rule:
-	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-c++/CMakeFiles/effective_c++_02.dir/rule
-.PHONY : effective-c++/CMakeFiles/effective_c++_02.dir/rule
-
-# Convenience name for target.
-effective_c++_02: effective-c++/CMakeFiles/effective_c++_02.dir/rule
-
-.PHONY : effective_c++_02
-
-# fast build rule for target.
-effective_c++_02/fast:
-	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_02.dir/build.make effective-c++/CMakeFiles/effective_c++_02.dir/build
-.PHONY : effective_c++_02/fast
-
-# Convenience name for target.
-effective-c++/CMakeFiles/effective_c++_01.dir/rule:
-	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-c++/CMakeFiles/effective_c++_01.dir/rule
-.PHONY : effective-c++/CMakeFiles/effective_c++_01.dir/rule
-
-# Convenience name for target.
-effective_c++_01: effective-c++/CMakeFiles/effective_c++_01.dir/rule
-
-.PHONY : effective_c++_01
-
-# fast build rule for target.
-effective_c++_01/fast:
-	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_01.dir/build.make effective-c++/CMakeFiles/effective_c++_01.dir/build
-.PHONY : effective_c++_01/fast
-
-# Convenience name for target.
-effective-c++/CMakeFiles/item-18.dir/rule:
-	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-c++/CMakeFiles/item-18.dir/rule
-.PHONY : effective-c++/CMakeFiles/item-18.dir/rule
-
-# Convenience name for target.
-item-18: effective-c++/CMakeFiles/item-18.dir/rule
-
-.PHONY : item-18
-
-# fast build rule for target.
-item-18/fast:
-	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-18.dir/build.make effective-c++/CMakeFiles/item-18.dir/build
-.PHONY : item-18/fast
-
-# Convenience name for target.
-effective-c++/CMakeFiles/effective_c++_08.dir/rule:
-	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-c++/CMakeFiles/effective_c++_08.dir/rule
-.PHONY : effective-c++/CMakeFiles/effective_c++_08.dir/rule
-
-# Convenience name for target.
-effective_c++_08: effective-c++/CMakeFiles/effective_c++_08.dir/rule
-
-.PHONY : effective_c++_08
-
-# fast build rule for target.
-effective_c++_08/fast:
-	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_08.dir/build.make effective-c++/CMakeFiles/effective_c++_08.dir/build
-.PHONY : effective_c++_08/fast
+item-27/fast:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-27.dir/build.make effective-c++/CMakeFiles/item-27.dir/build
+.PHONY : item-27/fast
 
 # Convenience name for target.
 effective-c++/CMakeFiles/item-13.dir/rule:
@@ -310,49 +205,214 @@ item-13/fast:
 .PHONY : item-13/fast
 
 # Convenience name for target.
-effective-c++/CMakeFiles/effective_c++_05.dir/rule:
-	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-c++/CMakeFiles/effective_c++_05.dir/rule
-.PHONY : effective-c++/CMakeFiles/effective_c++_05.dir/rule
+effective-c++/CMakeFiles/item-12.dir/rule:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-c++/CMakeFiles/item-12.dir/rule
+.PHONY : effective-c++/CMakeFiles/item-12.dir/rule
 
 # Convenience name for target.
-effective_c++_05: effective-c++/CMakeFiles/effective_c++_05.dir/rule
+item-12: effective-c++/CMakeFiles/item-12.dir/rule
 
-.PHONY : effective_c++_05
+.PHONY : item-12
 
 # fast build rule for target.
-effective_c++_05/fast:
-	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_05.dir/build.make effective-c++/CMakeFiles/effective_c++_05.dir/build
-.PHONY : effective_c++_05/fast
+item-12/fast:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-12.dir/build.make effective-c++/CMakeFiles/item-12.dir/build
+.PHONY : item-12/fast
 
 # Convenience name for target.
-effective-c++/CMakeFiles/effective_c++_07.dir/rule:
-	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-c++/CMakeFiles/effective_c++_07.dir/rule
-.PHONY : effective-c++/CMakeFiles/effective_c++_07.dir/rule
+effective-c++/CMakeFiles/item-09.dir/rule:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-c++/CMakeFiles/item-09.dir/rule
+.PHONY : effective-c++/CMakeFiles/item-09.dir/rule
 
 # Convenience name for target.
-effective_c++_07: effective-c++/CMakeFiles/effective_c++_07.dir/rule
+item-09: effective-c++/CMakeFiles/item-09.dir/rule
 
-.PHONY : effective_c++_07
+.PHONY : item-09
 
 # fast build rule for target.
-effective_c++_07/fast:
-	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_07.dir/build.make effective-c++/CMakeFiles/effective_c++_07.dir/build
-.PHONY : effective_c++_07/fast
+item-09/fast:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-09.dir/build.make effective-c++/CMakeFiles/item-09.dir/build
+.PHONY : item-09/fast
 
 # Convenience name for target.
-effective-c++/CMakeFiles/effective_c++_09.dir/rule:
-	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-c++/CMakeFiles/effective_c++_09.dir/rule
-.PHONY : effective-c++/CMakeFiles/effective_c++_09.dir/rule
+effective-c++/CMakeFiles/item-11.dir/rule:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-c++/CMakeFiles/item-11.dir/rule
+.PHONY : effective-c++/CMakeFiles/item-11.dir/rule
 
 # Convenience name for target.
-effective_c++_09: effective-c++/CMakeFiles/effective_c++_09.dir/rule
+item-11: effective-c++/CMakeFiles/item-11.dir/rule
 
-.PHONY : effective_c++_09
+.PHONY : item-11
 
 # fast build rule for target.
-effective_c++_09/fast:
-	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_09.dir/build.make effective-c++/CMakeFiles/effective_c++_09.dir/build
-.PHONY : effective_c++_09/fast
+item-11/fast:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-11.dir/build.make effective-c++/CMakeFiles/item-11.dir/build
+.PHONY : item-11/fast
+
+# Convenience name for target.
+effective-c++/CMakeFiles/item-38.dir/rule:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-c++/CMakeFiles/item-38.dir/rule
+.PHONY : effective-c++/CMakeFiles/item-38.dir/rule
+
+# Convenience name for target.
+item-38: effective-c++/CMakeFiles/item-38.dir/rule
+
+.PHONY : item-38
+
+# fast build rule for target.
+item-38/fast:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-38.dir/build.make effective-c++/CMakeFiles/item-38.dir/build
+.PHONY : item-38/fast
+
+# Convenience name for target.
+effective-c++/CMakeFiles/item-18.dir/rule:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-c++/CMakeFiles/item-18.dir/rule
+.PHONY : effective-c++/CMakeFiles/item-18.dir/rule
+
+# Convenience name for target.
+item-18: effective-c++/CMakeFiles/item-18.dir/rule
+
+.PHONY : item-18
+
+# fast build rule for target.
+item-18/fast:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-18.dir/build.make effective-c++/CMakeFiles/item-18.dir/build
+.PHONY : item-18/fast
+
+# Convenience name for target.
+effective-c++/CMakeFiles/item-08.dir/rule:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-c++/CMakeFiles/item-08.dir/rule
+.PHONY : effective-c++/CMakeFiles/item-08.dir/rule
+
+# Convenience name for target.
+item-08: effective-c++/CMakeFiles/item-08.dir/rule
+
+.PHONY : item-08
+
+# fast build rule for target.
+item-08/fast:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-08.dir/build.make effective-c++/CMakeFiles/item-08.dir/build
+.PHONY : item-08/fast
+
+# Convenience name for target.
+effective-c++/CMakeFiles/item-32.dir/rule:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-c++/CMakeFiles/item-32.dir/rule
+.PHONY : effective-c++/CMakeFiles/item-32.dir/rule
+
+# Convenience name for target.
+item-32: effective-c++/CMakeFiles/item-32.dir/rule
+
+.PHONY : item-32
+
+# fast build rule for target.
+item-32/fast:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-32.dir/build.make effective-c++/CMakeFiles/item-32.dir/build
+.PHONY : item-32/fast
+
+# Convenience name for target.
+effective-c++/CMakeFiles/item-07.dir/rule:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-c++/CMakeFiles/item-07.dir/rule
+.PHONY : effective-c++/CMakeFiles/item-07.dir/rule
+
+# Convenience name for target.
+item-07: effective-c++/CMakeFiles/item-07.dir/rule
+
+.PHONY : item-07
+
+# fast build rule for target.
+item-07/fast:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-07.dir/build.make effective-c++/CMakeFiles/item-07.dir/build
+.PHONY : item-07/fast
+
+# Convenience name for target.
+effective-c++/CMakeFiles/item-05.dir/rule:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-c++/CMakeFiles/item-05.dir/rule
+.PHONY : effective-c++/CMakeFiles/item-05.dir/rule
+
+# Convenience name for target.
+item-05: effective-c++/CMakeFiles/item-05.dir/rule
+
+.PHONY : item-05
+
+# fast build rule for target.
+item-05/fast:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-05.dir/build.make effective-c++/CMakeFiles/item-05.dir/build
+.PHONY : item-05/fast
+
+# Convenience name for target.
+effective-c++/CMakeFiles/item-24.dir/rule:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-c++/CMakeFiles/item-24.dir/rule
+.PHONY : effective-c++/CMakeFiles/item-24.dir/rule
+
+# Convenience name for target.
+item-24: effective-c++/CMakeFiles/item-24.dir/rule
+
+.PHONY : item-24
+
+# fast build rule for target.
+item-24/fast:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-24.dir/build.make effective-c++/CMakeFiles/item-24.dir/build
+.PHONY : item-24/fast
+
+# Convenience name for target.
+effective-c++/CMakeFiles/item-30.dir/rule:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-c++/CMakeFiles/item-30.dir/rule
+.PHONY : effective-c++/CMakeFiles/item-30.dir/rule
+
+# Convenience name for target.
+item-30: effective-c++/CMakeFiles/item-30.dir/rule
+
+.PHONY : item-30
+
+# fast build rule for target.
+item-30/fast:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-30.dir/build.make effective-c++/CMakeFiles/item-30.dir/build
+.PHONY : item-30/fast
+
+# Convenience name for target.
+effective-c++/CMakeFiles/item-06.dir/rule:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-c++/CMakeFiles/item-06.dir/rule
+.PHONY : effective-c++/CMakeFiles/item-06.dir/rule
+
+# Convenience name for target.
+item-06: effective-c++/CMakeFiles/item-06.dir/rule
+
+.PHONY : item-06
+
+# fast build rule for target.
+item-06/fast:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-06.dir/build.make effective-c++/CMakeFiles/item-06.dir/build
+.PHONY : item-06/fast
+
+# Convenience name for target.
+effective-c++/CMakeFiles/item-40.dir/rule:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-c++/CMakeFiles/item-40.dir/rule
+.PHONY : effective-c++/CMakeFiles/item-40.dir/rule
+
+# Convenience name for target.
+item-40: effective-c++/CMakeFiles/item-40.dir/rule
+
+.PHONY : item-40
+
+# fast build rule for target.
+item-40/fast:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-40.dir/build.make effective-c++/CMakeFiles/item-40.dir/build
+.PHONY : item-40/fast
+
+# Convenience name for target.
+effective-c++/CMakeFiles/item-16.dir/rule:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-c++/CMakeFiles/item-16.dir/rule
+.PHONY : effective-c++/CMakeFiles/item-16.dir/rule
+
+# Convenience name for target.
+item-16: effective-c++/CMakeFiles/item-16.dir/rule
+
+.PHONY : item-16
+
+# fast build rule for target.
+item-16/fast:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-16.dir/build.make effective-c++/CMakeFiles/item-16.dir/build
+.PHONY : item-16/fast
 
 # Convenience name for target.
 effective-c++/CMakeFiles/item-14.dir/rule:
@@ -370,289 +430,457 @@ item-14/fast:
 .PHONY : item-14/fast
 
 # Convenience name for target.
-effective-c++/CMakeFiles/effective_c++_10.dir/rule:
-	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-c++/CMakeFiles/effective_c++_10.dir/rule
-.PHONY : effective-c++/CMakeFiles/effective_c++_10.dir/rule
+effective-c++/CMakeFiles/item-39.dir/rule:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-c++/CMakeFiles/item-39.dir/rule
+.PHONY : effective-c++/CMakeFiles/item-39.dir/rule
 
 # Convenience name for target.
-effective_c++_10: effective-c++/CMakeFiles/effective_c++_10.dir/rule
+item-39: effective-c++/CMakeFiles/item-39.dir/rule
 
-.PHONY : effective_c++_10
+.PHONY : item-39
 
 # fast build rule for target.
-effective_c++_10/fast:
-	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_10.dir/build.make effective-c++/CMakeFiles/effective_c++_10.dir/build
-.PHONY : effective_c++_10/fast
+item-39/fast:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-39.dir/build.make effective-c++/CMakeFiles/item-39.dir/build
+.PHONY : item-39/fast
 
-effective_c++_01.o: effective_c++_01.cc.o
+# Convenience name for target.
+effective-c++/CMakeFiles/item-15.dir/rule:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-c++/CMakeFiles/item-15.dir/rule
+.PHONY : effective-c++/CMakeFiles/item-15.dir/rule
 
-.PHONY : effective_c++_01.o
+# Convenience name for target.
+item-15: effective-c++/CMakeFiles/item-15.dir/rule
+
+.PHONY : item-15
+
+# fast build rule for target.
+item-15/fast:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-15.dir/build.make effective-c++/CMakeFiles/item-15.dir/build
+.PHONY : item-15/fast
+
+# Convenience name for target.
+effective-c++/CMakeFiles/item-36.dir/rule:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-c++/CMakeFiles/item-36.dir/rule
+.PHONY : effective-c++/CMakeFiles/item-36.dir/rule
+
+# Convenience name for target.
+item-36: effective-c++/CMakeFiles/item-36.dir/rule
+
+.PHONY : item-36
+
+# fast build rule for target.
+item-36/fast:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-36.dir/build.make effective-c++/CMakeFiles/item-36.dir/build
+.PHONY : item-36/fast
+
+# Convenience name for target.
+effective-c++/CMakeFiles/item-17.dir/rule:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-c++/CMakeFiles/item-17.dir/rule
+.PHONY : effective-c++/CMakeFiles/item-17.dir/rule
+
+# Convenience name for target.
+item-17: effective-c++/CMakeFiles/item-17.dir/rule
+
+.PHONY : item-17
+
+# fast build rule for target.
+item-17/fast:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-17.dir/build.make effective-c++/CMakeFiles/item-17.dir/build
+.PHONY : item-17/fast
+
+# Convenience name for target.
+effective-c++/CMakeFiles/item-25.dir/rule:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-c++/CMakeFiles/item-25.dir/rule
+.PHONY : effective-c++/CMakeFiles/item-25.dir/rule
+
+# Convenience name for target.
+item-25: effective-c++/CMakeFiles/item-25.dir/rule
+
+.PHONY : item-25
+
+# fast build rule for target.
+item-25/fast:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-25.dir/build.make effective-c++/CMakeFiles/item-25.dir/build
+.PHONY : item-25/fast
+
+# Convenience name for target.
+effective-c++/CMakeFiles/item-34.dir/rule:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-c++/CMakeFiles/item-34.dir/rule
+.PHONY : effective-c++/CMakeFiles/item-34.dir/rule
+
+# Convenience name for target.
+item-34: effective-c++/CMakeFiles/item-34.dir/rule
+
+.PHONY : item-34
+
+# fast build rule for target.
+item-34/fast:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-34.dir/build.make effective-c++/CMakeFiles/item-34.dir/build
+.PHONY : item-34/fast
+
+# Convenience name for target.
+effective-c++/CMakeFiles/item-20.dir/rule:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-c++/CMakeFiles/item-20.dir/rule
+.PHONY : effective-c++/CMakeFiles/item-20.dir/rule
+
+# Convenience name for target.
+item-20: effective-c++/CMakeFiles/item-20.dir/rule
+
+.PHONY : item-20
+
+# fast build rule for target.
+item-20/fast:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-20.dir/build.make effective-c++/CMakeFiles/item-20.dir/build
+.PHONY : item-20/fast
+
+# Convenience name for target.
+effective-c++/CMakeFiles/item-10.dir/rule:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-c++/CMakeFiles/item-10.dir/rule
+.PHONY : effective-c++/CMakeFiles/item-10.dir/rule
+
+# Convenience name for target.
+item-10: effective-c++/CMakeFiles/item-10.dir/rule
+
+.PHONY : item-10
+
+# fast build rule for target.
+item-10/fast:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-10.dir/build.make effective-c++/CMakeFiles/item-10.dir/build
+.PHONY : item-10/fast
+
+# Convenience name for target.
+effective-c++/CMakeFiles/item-21.dir/rule:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-c++/CMakeFiles/item-21.dir/rule
+.PHONY : effective-c++/CMakeFiles/item-21.dir/rule
+
+# Convenience name for target.
+item-21: effective-c++/CMakeFiles/item-21.dir/rule
+
+.PHONY : item-21
+
+# fast build rule for target.
+item-21/fast:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-21.dir/build.make effective-c++/CMakeFiles/item-21.dir/build
+.PHONY : item-21/fast
+
+# Convenience name for target.
+effective-c++/CMakeFiles/item-28.dir/rule:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-c++/CMakeFiles/item-28.dir/rule
+.PHONY : effective-c++/CMakeFiles/item-28.dir/rule
+
+# Convenience name for target.
+item-28: effective-c++/CMakeFiles/item-28.dir/rule
+
+.PHONY : item-28
+
+# fast build rule for target.
+item-28/fast:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-28.dir/build.make effective-c++/CMakeFiles/item-28.dir/build
+.PHONY : item-28/fast
+
+# Convenience name for target.
+effective-c++/CMakeFiles/item-19.dir/rule:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-c++/CMakeFiles/item-19.dir/rule
+.PHONY : effective-c++/CMakeFiles/item-19.dir/rule
+
+# Convenience name for target.
+item-19: effective-c++/CMakeFiles/item-19.dir/rule
+
+.PHONY : item-19
+
+# fast build rule for target.
+item-19/fast:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-19.dir/build.make effective-c++/CMakeFiles/item-19.dir/build
+.PHONY : item-19/fast
+
+# Convenience name for target.
+effective-c++/CMakeFiles/item-22.dir/rule:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-c++/CMakeFiles/item-22.dir/rule
+.PHONY : effective-c++/CMakeFiles/item-22.dir/rule
+
+# Convenience name for target.
+item-22: effective-c++/CMakeFiles/item-22.dir/rule
+
+.PHONY : item-22
+
+# fast build rule for target.
+item-22/fast:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-22.dir/build.make effective-c++/CMakeFiles/item-22.dir/build
+.PHONY : item-22/fast
+
+# Convenience name for target.
+effective-c++/CMakeFiles/item-03.dir/rule:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-c++/CMakeFiles/item-03.dir/rule
+.PHONY : effective-c++/CMakeFiles/item-03.dir/rule
+
+# Convenience name for target.
+item-03: effective-c++/CMakeFiles/item-03.dir/rule
+
+.PHONY : item-03
+
+# fast build rule for target.
+item-03/fast:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-03.dir/build.make effective-c++/CMakeFiles/item-03.dir/build
+.PHONY : item-03/fast
+
+# Convenience name for target.
+effective-c++/CMakeFiles/item-26.dir/rule:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-c++/CMakeFiles/item-26.dir/rule
+.PHONY : effective-c++/CMakeFiles/item-26.dir/rule
+
+# Convenience name for target.
+item-26: effective-c++/CMakeFiles/item-26.dir/rule
+
+.PHONY : item-26
+
+# fast build rule for target.
+item-26/fast:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-26.dir/build.make effective-c++/CMakeFiles/item-26.dir/build
+.PHONY : item-26/fast
+
+item-03.o: item-03.cc.o
+
+.PHONY : item-03.o
 
 # target to build an object file
-effective_c++_01.cc.o:
-	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_01.dir/build.make effective-c++/CMakeFiles/effective_c++_01.dir/effective_c++_01.cc.o
-.PHONY : effective_c++_01.cc.o
+item-03.cc.o:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-03.dir/build.make effective-c++/CMakeFiles/item-03.dir/item-03.cc.o
+.PHONY : item-03.cc.o
 
-effective_c++_01.i: effective_c++_01.cc.i
+item-03.i: item-03.cc.i
 
-.PHONY : effective_c++_01.i
+.PHONY : item-03.i
 
 # target to preprocess a source file
-effective_c++_01.cc.i:
-	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_01.dir/build.make effective-c++/CMakeFiles/effective_c++_01.dir/effective_c++_01.cc.i
-.PHONY : effective_c++_01.cc.i
+item-03.cc.i:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-03.dir/build.make effective-c++/CMakeFiles/item-03.dir/item-03.cc.i
+.PHONY : item-03.cc.i
 
-effective_c++_01.s: effective_c++_01.cc.s
+item-03.s: item-03.cc.s
 
-.PHONY : effective_c++_01.s
+.PHONY : item-03.s
 
 # target to generate assembly for a file
-effective_c++_01.cc.s:
-	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_01.dir/build.make effective-c++/CMakeFiles/effective_c++_01.dir/effective_c++_01.cc.s
-.PHONY : effective_c++_01.cc.s
+item-03.cc.s:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-03.dir/build.make effective-c++/CMakeFiles/item-03.dir/item-03.cc.s
+.PHONY : item-03.cc.s
 
-effective_c++_02.o: effective_c++_02.cc.o
+item-05.o: item-05.cc.o
 
-.PHONY : effective_c++_02.o
+.PHONY : item-05.o
 
 # target to build an object file
-effective_c++_02.cc.o:
-	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_02.dir/build.make effective-c++/CMakeFiles/effective_c++_02.dir/effective_c++_02.cc.o
-.PHONY : effective_c++_02.cc.o
+item-05.cc.o:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-05.dir/build.make effective-c++/CMakeFiles/item-05.dir/item-05.cc.o
+.PHONY : item-05.cc.o
 
-effective_c++_02.i: effective_c++_02.cc.i
+item-05.i: item-05.cc.i
 
-.PHONY : effective_c++_02.i
+.PHONY : item-05.i
 
 # target to preprocess a source file
-effective_c++_02.cc.i:
-	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_02.dir/build.make effective-c++/CMakeFiles/effective_c++_02.dir/effective_c++_02.cc.i
-.PHONY : effective_c++_02.cc.i
+item-05.cc.i:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-05.dir/build.make effective-c++/CMakeFiles/item-05.dir/item-05.cc.i
+.PHONY : item-05.cc.i
 
-effective_c++_02.s: effective_c++_02.cc.s
+item-05.s: item-05.cc.s
 
-.PHONY : effective_c++_02.s
+.PHONY : item-05.s
 
 # target to generate assembly for a file
-effective_c++_02.cc.s:
-	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_02.dir/build.make effective-c++/CMakeFiles/effective_c++_02.dir/effective_c++_02.cc.s
-.PHONY : effective_c++_02.cc.s
+item-05.cc.s:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-05.dir/build.make effective-c++/CMakeFiles/item-05.dir/item-05.cc.s
+.PHONY : item-05.cc.s
 
-effective_c++_03.o: effective_c++_03.cc.o
+item-06.o: item-06.cc.o
 
-.PHONY : effective_c++_03.o
+.PHONY : item-06.o
 
 # target to build an object file
-effective_c++_03.cc.o:
-	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_03.dir/build.make effective-c++/CMakeFiles/effective_c++_03.dir/effective_c++_03.cc.o
-.PHONY : effective_c++_03.cc.o
+item-06.cc.o:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-06.dir/build.make effective-c++/CMakeFiles/item-06.dir/item-06.cc.o
+.PHONY : item-06.cc.o
 
-effective_c++_03.i: effective_c++_03.cc.i
+item-06.i: item-06.cc.i
 
-.PHONY : effective_c++_03.i
+.PHONY : item-06.i
 
 # target to preprocess a source file
-effective_c++_03.cc.i:
-	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_03.dir/build.make effective-c++/CMakeFiles/effective_c++_03.dir/effective_c++_03.cc.i
-.PHONY : effective_c++_03.cc.i
+item-06.cc.i:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-06.dir/build.make effective-c++/CMakeFiles/item-06.dir/item-06.cc.i
+.PHONY : item-06.cc.i
 
-effective_c++_03.s: effective_c++_03.cc.s
+item-06.s: item-06.cc.s
 
-.PHONY : effective_c++_03.s
+.PHONY : item-06.s
 
 # target to generate assembly for a file
-effective_c++_03.cc.s:
-	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_03.dir/build.make effective-c++/CMakeFiles/effective_c++_03.dir/effective_c++_03.cc.s
-.PHONY : effective_c++_03.cc.s
+item-06.cc.s:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-06.dir/build.make effective-c++/CMakeFiles/item-06.dir/item-06.cc.s
+.PHONY : item-06.cc.s
 
-effective_c++_04.o: effective_c++_04.cc.o
+item-07.o: item-07.cc.o
 
-.PHONY : effective_c++_04.o
+.PHONY : item-07.o
 
 # target to build an object file
-effective_c++_04.cc.o:
-	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_04.dir/build.make effective-c++/CMakeFiles/effective_c++_04.dir/effective_c++_04.cc.o
-.PHONY : effective_c++_04.cc.o
+item-07.cc.o:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-07.dir/build.make effective-c++/CMakeFiles/item-07.dir/item-07.cc.o
+.PHONY : item-07.cc.o
 
-effective_c++_04.i: effective_c++_04.cc.i
+item-07.i: item-07.cc.i
 
-.PHONY : effective_c++_04.i
+.PHONY : item-07.i
 
 # target to preprocess a source file
-effective_c++_04.cc.i:
-	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_04.dir/build.make effective-c++/CMakeFiles/effective_c++_04.dir/effective_c++_04.cc.i
-.PHONY : effective_c++_04.cc.i
+item-07.cc.i:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-07.dir/build.make effective-c++/CMakeFiles/item-07.dir/item-07.cc.i
+.PHONY : item-07.cc.i
 
-effective_c++_04.s: effective_c++_04.cc.s
+item-07.s: item-07.cc.s
 
-.PHONY : effective_c++_04.s
+.PHONY : item-07.s
 
 # target to generate assembly for a file
-effective_c++_04.cc.s:
-	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_04.dir/build.make effective-c++/CMakeFiles/effective_c++_04.dir/effective_c++_04.cc.s
-.PHONY : effective_c++_04.cc.s
+item-07.cc.s:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-07.dir/build.make effective-c++/CMakeFiles/item-07.dir/item-07.cc.s
+.PHONY : item-07.cc.s
 
-effective_c++_05.o: effective_c++_05.cc.o
+item-08.o: item-08.cc.o
 
-.PHONY : effective_c++_05.o
+.PHONY : item-08.o
 
 # target to build an object file
-effective_c++_05.cc.o:
-	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_05.dir/build.make effective-c++/CMakeFiles/effective_c++_05.dir/effective_c++_05.cc.o
-.PHONY : effective_c++_05.cc.o
+item-08.cc.o:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-08.dir/build.make effective-c++/CMakeFiles/item-08.dir/item-08.cc.o
+.PHONY : item-08.cc.o
 
-effective_c++_05.i: effective_c++_05.cc.i
+item-08.i: item-08.cc.i
 
-.PHONY : effective_c++_05.i
+.PHONY : item-08.i
 
 # target to preprocess a source file
-effective_c++_05.cc.i:
-	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_05.dir/build.make effective-c++/CMakeFiles/effective_c++_05.dir/effective_c++_05.cc.i
-.PHONY : effective_c++_05.cc.i
+item-08.cc.i:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-08.dir/build.make effective-c++/CMakeFiles/item-08.dir/item-08.cc.i
+.PHONY : item-08.cc.i
 
-effective_c++_05.s: effective_c++_05.cc.s
+item-08.s: item-08.cc.s
 
-.PHONY : effective_c++_05.s
+.PHONY : item-08.s
 
 # target to generate assembly for a file
-effective_c++_05.cc.s:
-	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_05.dir/build.make effective-c++/CMakeFiles/effective_c++_05.dir/effective_c++_05.cc.s
-.PHONY : effective_c++_05.cc.s
+item-08.cc.s:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-08.dir/build.make effective-c++/CMakeFiles/item-08.dir/item-08.cc.s
+.PHONY : item-08.cc.s
 
-effective_c++_06.o: effective_c++_06.cc.o
+item-09.o: item-09.cc.o
 
-.PHONY : effective_c++_06.o
+.PHONY : item-09.o
 
 # target to build an object file
-effective_c++_06.cc.o:
-	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_06.dir/build.make effective-c++/CMakeFiles/effective_c++_06.dir/effective_c++_06.cc.o
-.PHONY : effective_c++_06.cc.o
+item-09.cc.o:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-09.dir/build.make effective-c++/CMakeFiles/item-09.dir/item-09.cc.o
+.PHONY : item-09.cc.o
 
-effective_c++_06.i: effective_c++_06.cc.i
+item-09.i: item-09.cc.i
 
-.PHONY : effective_c++_06.i
+.PHONY : item-09.i
 
 # target to preprocess a source file
-effective_c++_06.cc.i:
-	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_06.dir/build.make effective-c++/CMakeFiles/effective_c++_06.dir/effective_c++_06.cc.i
-.PHONY : effective_c++_06.cc.i
+item-09.cc.i:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-09.dir/build.make effective-c++/CMakeFiles/item-09.dir/item-09.cc.i
+.PHONY : item-09.cc.i
 
-effective_c++_06.s: effective_c++_06.cc.s
+item-09.s: item-09.cc.s
 
-.PHONY : effective_c++_06.s
+.PHONY : item-09.s
 
 # target to generate assembly for a file
-effective_c++_06.cc.s:
-	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_06.dir/build.make effective-c++/CMakeFiles/effective_c++_06.dir/effective_c++_06.cc.s
-.PHONY : effective_c++_06.cc.s
+item-09.cc.s:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-09.dir/build.make effective-c++/CMakeFiles/item-09.dir/item-09.cc.s
+.PHONY : item-09.cc.s
 
-effective_c++_07.o: effective_c++_07.cc.o
+item-10.o: item-10.cc.o
 
-.PHONY : effective_c++_07.o
+.PHONY : item-10.o
 
 # target to build an object file
-effective_c++_07.cc.o:
-	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_07.dir/build.make effective-c++/CMakeFiles/effective_c++_07.dir/effective_c++_07.cc.o
-.PHONY : effective_c++_07.cc.o
+item-10.cc.o:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-10.dir/build.make effective-c++/CMakeFiles/item-10.dir/item-10.cc.o
+.PHONY : item-10.cc.o
 
-effective_c++_07.i: effective_c++_07.cc.i
+item-10.i: item-10.cc.i
 
-.PHONY : effective_c++_07.i
+.PHONY : item-10.i
 
 # target to preprocess a source file
-effective_c++_07.cc.i:
-	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_07.dir/build.make effective-c++/CMakeFiles/effective_c++_07.dir/effective_c++_07.cc.i
-.PHONY : effective_c++_07.cc.i
+item-10.cc.i:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-10.dir/build.make effective-c++/CMakeFiles/item-10.dir/item-10.cc.i
+.PHONY : item-10.cc.i
 
-effective_c++_07.s: effective_c++_07.cc.s
+item-10.s: item-10.cc.s
 
-.PHONY : effective_c++_07.s
+.PHONY : item-10.s
 
 # target to generate assembly for a file
-effective_c++_07.cc.s:
-	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_07.dir/build.make effective-c++/CMakeFiles/effective_c++_07.dir/effective_c++_07.cc.s
-.PHONY : effective_c++_07.cc.s
+item-10.cc.s:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-10.dir/build.make effective-c++/CMakeFiles/item-10.dir/item-10.cc.s
+.PHONY : item-10.cc.s
 
-effective_c++_08.o: effective_c++_08.cc.o
+item-11.o: item-11.cc.o
 
-.PHONY : effective_c++_08.o
+.PHONY : item-11.o
 
 # target to build an object file
-effective_c++_08.cc.o:
-	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_08.dir/build.make effective-c++/CMakeFiles/effective_c++_08.dir/effective_c++_08.cc.o
-.PHONY : effective_c++_08.cc.o
+item-11.cc.o:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-11.dir/build.make effective-c++/CMakeFiles/item-11.dir/item-11.cc.o
+.PHONY : item-11.cc.o
 
-effective_c++_08.i: effective_c++_08.cc.i
+item-11.i: item-11.cc.i
 
-.PHONY : effective_c++_08.i
+.PHONY : item-11.i
 
 # target to preprocess a source file
-effective_c++_08.cc.i:
-	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_08.dir/build.make effective-c++/CMakeFiles/effective_c++_08.dir/effective_c++_08.cc.i
-.PHONY : effective_c++_08.cc.i
+item-11.cc.i:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-11.dir/build.make effective-c++/CMakeFiles/item-11.dir/item-11.cc.i
+.PHONY : item-11.cc.i
 
-effective_c++_08.s: effective_c++_08.cc.s
+item-11.s: item-11.cc.s
 
-.PHONY : effective_c++_08.s
+.PHONY : item-11.s
 
 # target to generate assembly for a file
-effective_c++_08.cc.s:
-	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_08.dir/build.make effective-c++/CMakeFiles/effective_c++_08.dir/effective_c++_08.cc.s
-.PHONY : effective_c++_08.cc.s
+item-11.cc.s:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-11.dir/build.make effective-c++/CMakeFiles/item-11.dir/item-11.cc.s
+.PHONY : item-11.cc.s
 
-effective_c++_09.o: effective_c++_09.cc.o
+item-12.o: item-12.cc.o
 
-.PHONY : effective_c++_09.o
+.PHONY : item-12.o
 
 # target to build an object file
-effective_c++_09.cc.o:
-	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_09.dir/build.make effective-c++/CMakeFiles/effective_c++_09.dir/effective_c++_09.cc.o
-.PHONY : effective_c++_09.cc.o
+item-12.cc.o:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-12.dir/build.make effective-c++/CMakeFiles/item-12.dir/item-12.cc.o
+.PHONY : item-12.cc.o
 
-effective_c++_09.i: effective_c++_09.cc.i
+item-12.i: item-12.cc.i
 
-.PHONY : effective_c++_09.i
-
-# target to preprocess a source file
-effective_c++_09.cc.i:
-	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_09.dir/build.make effective-c++/CMakeFiles/effective_c++_09.dir/effective_c++_09.cc.i
-.PHONY : effective_c++_09.cc.i
-
-effective_c++_09.s: effective_c++_09.cc.s
-
-.PHONY : effective_c++_09.s
-
-# target to generate assembly for a file
-effective_c++_09.cc.s:
-	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_09.dir/build.make effective-c++/CMakeFiles/effective_c++_09.dir/effective_c++_09.cc.s
-.PHONY : effective_c++_09.cc.s
-
-effective_c++_10.o: effective_c++_10.cc.o
-
-.PHONY : effective_c++_10.o
-
-# target to build an object file
-effective_c++_10.cc.o:
-	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_10.dir/build.make effective-c++/CMakeFiles/effective_c++_10.dir/effective_c++_10.cc.o
-.PHONY : effective_c++_10.cc.o
-
-effective_c++_10.i: effective_c++_10.cc.i
-
-.PHONY : effective_c++_10.i
+.PHONY : item-12.i
 
 # target to preprocess a source file
-effective_c++_10.cc.i:
-	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_10.dir/build.make effective-c++/CMakeFiles/effective_c++_10.dir/effective_c++_10.cc.i
-.PHONY : effective_c++_10.cc.i
+item-12.cc.i:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-12.dir/build.make effective-c++/CMakeFiles/item-12.dir/item-12.cc.i
+.PHONY : item-12.cc.i
 
-effective_c++_10.s: effective_c++_10.cc.s
+item-12.s: item-12.cc.s
 
-.PHONY : effective_c++_10.s
+.PHONY : item-12.s
 
 # target to generate assembly for a file
-effective_c++_10.cc.s:
-	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_10.dir/build.make effective-c++/CMakeFiles/effective_c++_10.dir/effective_c++_10.cc.s
-.PHONY : effective_c++_10.cc.s
+item-12.cc.s:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-12.dir/build.make effective-c++/CMakeFiles/item-12.dir/item-12.cc.s
+.PHONY : item-12.cc.s
 
 item-13.o: item-13.cc.o
 
@@ -735,6 +963,60 @@ item-15.cc.s:
 	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-15.dir/build.make effective-c++/CMakeFiles/item-15.dir/item-15.cc.s
 .PHONY : item-15.cc.s
 
+item-16.o: item-16.cc.o
+
+.PHONY : item-16.o
+
+# target to build an object file
+item-16.cc.o:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-16.dir/build.make effective-c++/CMakeFiles/item-16.dir/item-16.cc.o
+.PHONY : item-16.cc.o
+
+item-16.i: item-16.cc.i
+
+.PHONY : item-16.i
+
+# target to preprocess a source file
+item-16.cc.i:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-16.dir/build.make effective-c++/CMakeFiles/item-16.dir/item-16.cc.i
+.PHONY : item-16.cc.i
+
+item-16.s: item-16.cc.s
+
+.PHONY : item-16.s
+
+# target to generate assembly for a file
+item-16.cc.s:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-16.dir/build.make effective-c++/CMakeFiles/item-16.dir/item-16.cc.s
+.PHONY : item-16.cc.s
+
+item-17.o: item-17.cc.o
+
+.PHONY : item-17.o
+
+# target to build an object file
+item-17.cc.o:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-17.dir/build.make effective-c++/CMakeFiles/item-17.dir/item-17.cc.o
+.PHONY : item-17.cc.o
+
+item-17.i: item-17.cc.i
+
+.PHONY : item-17.i
+
+# target to preprocess a source file
+item-17.cc.i:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-17.dir/build.make effective-c++/CMakeFiles/item-17.dir/item-17.cc.i
+.PHONY : item-17.cc.i
+
+item-17.s: item-17.cc.s
+
+.PHONY : item-17.s
+
+# target to generate assembly for a file
+item-17.cc.s:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-17.dir/build.make effective-c++/CMakeFiles/item-17.dir/item-17.cc.s
+.PHONY : item-17.cc.s
+
 item-18.o: item-18.cc.o
 
 .PHONY : item-18.o
@@ -816,6 +1098,60 @@ item-20.cc.s:
 	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-20.dir/build.make effective-c++/CMakeFiles/item-20.dir/item-20.cc.s
 .PHONY : item-20.cc.s
 
+item-21.o: item-21.cc.o
+
+.PHONY : item-21.o
+
+# target to build an object file
+item-21.cc.o:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-21.dir/build.make effective-c++/CMakeFiles/item-21.dir/item-21.cc.o
+.PHONY : item-21.cc.o
+
+item-21.i: item-21.cc.i
+
+.PHONY : item-21.i
+
+# target to preprocess a source file
+item-21.cc.i:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-21.dir/build.make effective-c++/CMakeFiles/item-21.dir/item-21.cc.i
+.PHONY : item-21.cc.i
+
+item-21.s: item-21.cc.s
+
+.PHONY : item-21.s
+
+# target to generate assembly for a file
+item-21.cc.s:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-21.dir/build.make effective-c++/CMakeFiles/item-21.dir/item-21.cc.s
+.PHONY : item-21.cc.s
+
+item-22.o: item-22.cc.o
+
+.PHONY : item-22.o
+
+# target to build an object file
+item-22.cc.o:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-22.dir/build.make effective-c++/CMakeFiles/item-22.dir/item-22.cc.o
+.PHONY : item-22.cc.o
+
+item-22.i: item-22.cc.i
+
+.PHONY : item-22.i
+
+# target to preprocess a source file
+item-22.cc.i:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-22.dir/build.make effective-c++/CMakeFiles/item-22.dir/item-22.cc.i
+.PHONY : item-22.cc.i
+
+item-22.s: item-22.cc.s
+
+.PHONY : item-22.s
+
+# target to generate assembly for a file
+item-22.cc.s:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-22.dir/build.make effective-c++/CMakeFiles/item-22.dir/item-22.cc.s
+.PHONY : item-22.cc.s
+
 item-24.o: item-24.cc.o
 
 .PHONY : item-24.o
@@ -843,6 +1179,384 @@ item-24.cc.s:
 	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-24.dir/build.make effective-c++/CMakeFiles/item-24.dir/item-24.cc.s
 .PHONY : item-24.cc.s
 
+item-25.o: item-25.cc.o
+
+.PHONY : item-25.o
+
+# target to build an object file
+item-25.cc.o:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-25.dir/build.make effective-c++/CMakeFiles/item-25.dir/item-25.cc.o
+.PHONY : item-25.cc.o
+
+item-25.i: item-25.cc.i
+
+.PHONY : item-25.i
+
+# target to preprocess a source file
+item-25.cc.i:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-25.dir/build.make effective-c++/CMakeFiles/item-25.dir/item-25.cc.i
+.PHONY : item-25.cc.i
+
+item-25.s: item-25.cc.s
+
+.PHONY : item-25.s
+
+# target to generate assembly for a file
+item-25.cc.s:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-25.dir/build.make effective-c++/CMakeFiles/item-25.dir/item-25.cc.s
+.PHONY : item-25.cc.s
+
+item-26.o: item-26.cc.o
+
+.PHONY : item-26.o
+
+# target to build an object file
+item-26.cc.o:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-26.dir/build.make effective-c++/CMakeFiles/item-26.dir/item-26.cc.o
+.PHONY : item-26.cc.o
+
+item-26.i: item-26.cc.i
+
+.PHONY : item-26.i
+
+# target to preprocess a source file
+item-26.cc.i:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-26.dir/build.make effective-c++/CMakeFiles/item-26.dir/item-26.cc.i
+.PHONY : item-26.cc.i
+
+item-26.s: item-26.cc.s
+
+.PHONY : item-26.s
+
+# target to generate assembly for a file
+item-26.cc.s:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-26.dir/build.make effective-c++/CMakeFiles/item-26.dir/item-26.cc.s
+.PHONY : item-26.cc.s
+
+item-27.o: item-27.cc.o
+
+.PHONY : item-27.o
+
+# target to build an object file
+item-27.cc.o:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-27.dir/build.make effective-c++/CMakeFiles/item-27.dir/item-27.cc.o
+.PHONY : item-27.cc.o
+
+item-27.i: item-27.cc.i
+
+.PHONY : item-27.i
+
+# target to preprocess a source file
+item-27.cc.i:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-27.dir/build.make effective-c++/CMakeFiles/item-27.dir/item-27.cc.i
+.PHONY : item-27.cc.i
+
+item-27.s: item-27.cc.s
+
+.PHONY : item-27.s
+
+# target to generate assembly for a file
+item-27.cc.s:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-27.dir/build.make effective-c++/CMakeFiles/item-27.dir/item-27.cc.s
+.PHONY : item-27.cc.s
+
+item-28.o: item-28.cc.o
+
+.PHONY : item-28.o
+
+# target to build an object file
+item-28.cc.o:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-28.dir/build.make effective-c++/CMakeFiles/item-28.dir/item-28.cc.o
+.PHONY : item-28.cc.o
+
+item-28.i: item-28.cc.i
+
+.PHONY : item-28.i
+
+# target to preprocess a source file
+item-28.cc.i:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-28.dir/build.make effective-c++/CMakeFiles/item-28.dir/item-28.cc.i
+.PHONY : item-28.cc.i
+
+item-28.s: item-28.cc.s
+
+.PHONY : item-28.s
+
+# target to generate assembly for a file
+item-28.cc.s:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-28.dir/build.make effective-c++/CMakeFiles/item-28.dir/item-28.cc.s
+.PHONY : item-28.cc.s
+
+item-29.o: item-29.cc.o
+
+.PHONY : item-29.o
+
+# target to build an object file
+item-29.cc.o:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-29.dir/build.make effective-c++/CMakeFiles/item-29.dir/item-29.cc.o
+.PHONY : item-29.cc.o
+
+item-29.i: item-29.cc.i
+
+.PHONY : item-29.i
+
+# target to preprocess a source file
+item-29.cc.i:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-29.dir/build.make effective-c++/CMakeFiles/item-29.dir/item-29.cc.i
+.PHONY : item-29.cc.i
+
+item-29.s: item-29.cc.s
+
+.PHONY : item-29.s
+
+# target to generate assembly for a file
+item-29.cc.s:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-29.dir/build.make effective-c++/CMakeFiles/item-29.dir/item-29.cc.s
+.PHONY : item-29.cc.s
+
+item-30.o: item-30.cc.o
+
+.PHONY : item-30.o
+
+# target to build an object file
+item-30.cc.o:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-30.dir/build.make effective-c++/CMakeFiles/item-30.dir/item-30.cc.o
+.PHONY : item-30.cc.o
+
+item-30.i: item-30.cc.i
+
+.PHONY : item-30.i
+
+# target to preprocess a source file
+item-30.cc.i:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-30.dir/build.make effective-c++/CMakeFiles/item-30.dir/item-30.cc.i
+.PHONY : item-30.cc.i
+
+item-30.s: item-30.cc.s
+
+.PHONY : item-30.s
+
+# target to generate assembly for a file
+item-30.cc.s:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-30.dir/build.make effective-c++/CMakeFiles/item-30.dir/item-30.cc.s
+.PHONY : item-30.cc.s
+
+item-32.o: item-32.cc.o
+
+.PHONY : item-32.o
+
+# target to build an object file
+item-32.cc.o:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-32.dir/build.make effective-c++/CMakeFiles/item-32.dir/item-32.cc.o
+.PHONY : item-32.cc.o
+
+item-32.i: item-32.cc.i
+
+.PHONY : item-32.i
+
+# target to preprocess a source file
+item-32.cc.i:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-32.dir/build.make effective-c++/CMakeFiles/item-32.dir/item-32.cc.i
+.PHONY : item-32.cc.i
+
+item-32.s: item-32.cc.s
+
+.PHONY : item-32.s
+
+# target to generate assembly for a file
+item-32.cc.s:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-32.dir/build.make effective-c++/CMakeFiles/item-32.dir/item-32.cc.s
+.PHONY : item-32.cc.s
+
+item-33.o: item-33.cc.o
+
+.PHONY : item-33.o
+
+# target to build an object file
+item-33.cc.o:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-33.dir/build.make effective-c++/CMakeFiles/item-33.dir/item-33.cc.o
+.PHONY : item-33.cc.o
+
+item-33.i: item-33.cc.i
+
+.PHONY : item-33.i
+
+# target to preprocess a source file
+item-33.cc.i:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-33.dir/build.make effective-c++/CMakeFiles/item-33.dir/item-33.cc.i
+.PHONY : item-33.cc.i
+
+item-33.s: item-33.cc.s
+
+.PHONY : item-33.s
+
+# target to generate assembly for a file
+item-33.cc.s:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-33.dir/build.make effective-c++/CMakeFiles/item-33.dir/item-33.cc.s
+.PHONY : item-33.cc.s
+
+item-34.o: item-34.cc.o
+
+.PHONY : item-34.o
+
+# target to build an object file
+item-34.cc.o:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-34.dir/build.make effective-c++/CMakeFiles/item-34.dir/item-34.cc.o
+.PHONY : item-34.cc.o
+
+item-34.i: item-34.cc.i
+
+.PHONY : item-34.i
+
+# target to preprocess a source file
+item-34.cc.i:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-34.dir/build.make effective-c++/CMakeFiles/item-34.dir/item-34.cc.i
+.PHONY : item-34.cc.i
+
+item-34.s: item-34.cc.s
+
+.PHONY : item-34.s
+
+# target to generate assembly for a file
+item-34.cc.s:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-34.dir/build.make effective-c++/CMakeFiles/item-34.dir/item-34.cc.s
+.PHONY : item-34.cc.s
+
+item-36.o: item-36.cc.o
+
+.PHONY : item-36.o
+
+# target to build an object file
+item-36.cc.o:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-36.dir/build.make effective-c++/CMakeFiles/item-36.dir/item-36.cc.o
+.PHONY : item-36.cc.o
+
+item-36.i: item-36.cc.i
+
+.PHONY : item-36.i
+
+# target to preprocess a source file
+item-36.cc.i:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-36.dir/build.make effective-c++/CMakeFiles/item-36.dir/item-36.cc.i
+.PHONY : item-36.cc.i
+
+item-36.s: item-36.cc.s
+
+.PHONY : item-36.s
+
+# target to generate assembly for a file
+item-36.cc.s:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-36.dir/build.make effective-c++/CMakeFiles/item-36.dir/item-36.cc.s
+.PHONY : item-36.cc.s
+
+item-37.o: item-37.cc.o
+
+.PHONY : item-37.o
+
+# target to build an object file
+item-37.cc.o:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-37.dir/build.make effective-c++/CMakeFiles/item-37.dir/item-37.cc.o
+.PHONY : item-37.cc.o
+
+item-37.i: item-37.cc.i
+
+.PHONY : item-37.i
+
+# target to preprocess a source file
+item-37.cc.i:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-37.dir/build.make effective-c++/CMakeFiles/item-37.dir/item-37.cc.i
+.PHONY : item-37.cc.i
+
+item-37.s: item-37.cc.s
+
+.PHONY : item-37.s
+
+# target to generate assembly for a file
+item-37.cc.s:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-37.dir/build.make effective-c++/CMakeFiles/item-37.dir/item-37.cc.s
+.PHONY : item-37.cc.s
+
+item-38.o: item-38.cc.o
+
+.PHONY : item-38.o
+
+# target to build an object file
+item-38.cc.o:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-38.dir/build.make effective-c++/CMakeFiles/item-38.dir/item-38.cc.o
+.PHONY : item-38.cc.o
+
+item-38.i: item-38.cc.i
+
+.PHONY : item-38.i
+
+# target to preprocess a source file
+item-38.cc.i:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-38.dir/build.make effective-c++/CMakeFiles/item-38.dir/item-38.cc.i
+.PHONY : item-38.cc.i
+
+item-38.s: item-38.cc.s
+
+.PHONY : item-38.s
+
+# target to generate assembly for a file
+item-38.cc.s:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-38.dir/build.make effective-c++/CMakeFiles/item-38.dir/item-38.cc.s
+.PHONY : item-38.cc.s
+
+item-39.o: item-39.cc.o
+
+.PHONY : item-39.o
+
+# target to build an object file
+item-39.cc.o:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-39.dir/build.make effective-c++/CMakeFiles/item-39.dir/item-39.cc.o
+.PHONY : item-39.cc.o
+
+item-39.i: item-39.cc.i
+
+.PHONY : item-39.i
+
+# target to preprocess a source file
+item-39.cc.i:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-39.dir/build.make effective-c++/CMakeFiles/item-39.dir/item-39.cc.i
+.PHONY : item-39.cc.i
+
+item-39.s: item-39.cc.s
+
+.PHONY : item-39.s
+
+# target to generate assembly for a file
+item-39.cc.s:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-39.dir/build.make effective-c++/CMakeFiles/item-39.dir/item-39.cc.s
+.PHONY : item-39.cc.s
+
+item-40.o: item-40.cc.o
+
+.PHONY : item-40.o
+
+# target to build an object file
+item-40.cc.o:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-40.dir/build.make effective-c++/CMakeFiles/item-40.dir/item-40.cc.o
+.PHONY : item-40.cc.o
+
+item-40.i: item-40.cc.i
+
+.PHONY : item-40.i
+
+# target to preprocess a source file
+item-40.cc.i:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-40.dir/build.make effective-c++/CMakeFiles/item-40.dir/item-40.cc.i
+.PHONY : item-40.cc.i
+
+item-40.s: item-40.cc.s
+
+.PHONY : item-40.s
+
+# target to generate assembly for a file
+item-40.cc.s:
+	cd /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug && $(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-40.dir/build.make effective-c++/CMakeFiles/item-40.dir/item-40.cc.s
+.PHONY : item-40.cc.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -851,53 +1565,67 @@ help:
 	@echo "... depend"
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
-	@echo "... effective_c++_01"
-	@echo "... effective_c++_02"
-	@echo "... effective_c++_03"
-	@echo "... effective_c++_04"
-	@echo "... effective_c++_05"
-	@echo "... effective_c++_06"
-	@echo "... effective_c++_07"
-	@echo "... effective_c++_08"
-	@echo "... effective_c++_09"
-	@echo "... effective_c++_10"
+	@echo "... item-03"
+	@echo "... item-05"
+	@echo "... item-06"
+	@echo "... item-07"
+	@echo "... item-08"
+	@echo "... item-09"
+	@echo "... item-10"
+	@echo "... item-11"
+	@echo "... item-12"
 	@echo "... item-13"
 	@echo "... item-14"
 	@echo "... item-15"
+	@echo "... item-16"
+	@echo "... item-17"
 	@echo "... item-18"
 	@echo "... item-19"
 	@echo "... item-20"
+	@echo "... item-21"
+	@echo "... item-22"
 	@echo "... item-24"
-	@echo "... effective_c++_01.o"
-	@echo "... effective_c++_01.i"
-	@echo "... effective_c++_01.s"
-	@echo "... effective_c++_02.o"
-	@echo "... effective_c++_02.i"
-	@echo "... effective_c++_02.s"
-	@echo "... effective_c++_03.o"
-	@echo "... effective_c++_03.i"
-	@echo "... effective_c++_03.s"
-	@echo "... effective_c++_04.o"
-	@echo "... effective_c++_04.i"
-	@echo "... effective_c++_04.s"
-	@echo "... effective_c++_05.o"
-	@echo "... effective_c++_05.i"
-	@echo "... effective_c++_05.s"
-	@echo "... effective_c++_06.o"
-	@echo "... effective_c++_06.i"
-	@echo "... effective_c++_06.s"
-	@echo "... effective_c++_07.o"
-	@echo "... effective_c++_07.i"
-	@echo "... effective_c++_07.s"
-	@echo "... effective_c++_08.o"
-	@echo "... effective_c++_08.i"
-	@echo "... effective_c++_08.s"
-	@echo "... effective_c++_09.o"
-	@echo "... effective_c++_09.i"
-	@echo "... effective_c++_09.s"
-	@echo "... effective_c++_10.o"
-	@echo "... effective_c++_10.i"
-	@echo "... effective_c++_10.s"
+	@echo "... item-25"
+	@echo "... item-26"
+	@echo "... item-27"
+	@echo "... item-28"
+	@echo "... item-29"
+	@echo "... item-30"
+	@echo "... item-32"
+	@echo "... item-33"
+	@echo "... item-34"
+	@echo "... item-36"
+	@echo "... item-37"
+	@echo "... item-38"
+	@echo "... item-39"
+	@echo "... item-40"
+	@echo "... item-03.o"
+	@echo "... item-03.i"
+	@echo "... item-03.s"
+	@echo "... item-05.o"
+	@echo "... item-05.i"
+	@echo "... item-05.s"
+	@echo "... item-06.o"
+	@echo "... item-06.i"
+	@echo "... item-06.s"
+	@echo "... item-07.o"
+	@echo "... item-07.i"
+	@echo "... item-07.s"
+	@echo "... item-08.o"
+	@echo "... item-08.i"
+	@echo "... item-08.s"
+	@echo "... item-09.o"
+	@echo "... item-09.i"
+	@echo "... item-09.s"
+	@echo "... item-10.o"
+	@echo "... item-10.i"
+	@echo "... item-10.s"
+	@echo "... item-11.o"
+	@echo "... item-11.i"
+	@echo "... item-11.s"
+	@echo "... item-12.o"
+	@echo "... item-12.i"
+	@echo "... item-12.s"
 	@echo "... item-13.o"
 	@echo "... item-13.i"
 	@echo "... item-13.s"
@@ -907,6 +1635,12 @@ help:
 	@echo "... item-15.o"
 	@echo "... item-15.i"
 	@echo "... item-15.s"
+	@echo "... item-16.o"
+	@echo "... item-16.i"
+	@echo "... item-16.s"
+	@echo "... item-17.o"
+	@echo "... item-17.i"
+	@echo "... item-17.s"
 	@echo "... item-18.o"
 	@echo "... item-18.i"
 	@echo "... item-18.s"
@@ -916,9 +1650,57 @@ help:
 	@echo "... item-20.o"
 	@echo "... item-20.i"
 	@echo "... item-20.s"
+	@echo "... item-21.o"
+	@echo "... item-21.i"
+	@echo "... item-21.s"
+	@echo "... item-22.o"
+	@echo "... item-22.i"
+	@echo "... item-22.s"
 	@echo "... item-24.o"
 	@echo "... item-24.i"
 	@echo "... item-24.s"
+	@echo "... item-25.o"
+	@echo "... item-25.i"
+	@echo "... item-25.s"
+	@echo "... item-26.o"
+	@echo "... item-26.i"
+	@echo "... item-26.s"
+	@echo "... item-27.o"
+	@echo "... item-27.i"
+	@echo "... item-27.s"
+	@echo "... item-28.o"
+	@echo "... item-28.i"
+	@echo "... item-28.s"
+	@echo "... item-29.o"
+	@echo "... item-29.i"
+	@echo "... item-29.s"
+	@echo "... item-30.o"
+	@echo "... item-30.i"
+	@echo "... item-30.s"
+	@echo "... item-32.o"
+	@echo "... item-32.i"
+	@echo "... item-32.s"
+	@echo "... item-33.o"
+	@echo "... item-33.i"
+	@echo "... item-33.s"
+	@echo "... item-34.o"
+	@echo "... item-34.i"
+	@echo "... item-34.s"
+	@echo "... item-36.o"
+	@echo "... item-36.i"
+	@echo "... item-36.s"
+	@echo "... item-37.o"
+	@echo "... item-37.i"
+	@echo "... item-37.s"
+	@echo "... item-38.o"
+	@echo "... item-38.i"
+	@echo "... item-38.s"
+	@echo "... item-39.o"
+	@echo "... item-39.i"
+	@echo "... item-39.s"
+	@echo "... item-40.o"
+	@echo "... item-40.i"
+	@echo "... item-40.s"
 .PHONY : help
 
 
