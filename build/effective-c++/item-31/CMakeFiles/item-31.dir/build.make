@@ -73,71 +73,71 @@ effective-c++/item-31/CMakeFiles/item-31.dir/item-31.cc.o: effective-c++/item-31
 effective-c++/item-31/CMakeFiles/item-31.dir/item-31.cc.o: ../effective-c++/item-31/item-31.cc
 effective-c++/item-31/CMakeFiles/item-31.dir/item-31.cc.o: effective-c++/item-31/CMakeFiles/item-31.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/gaosm/Downloads/dev/effective-gather/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object effective-c++/item-31/CMakeFiles/item-31.dir/item-31.cc.o"
-	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-31 && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT effective-c++/item-31/CMakeFiles/item-31.dir/item-31.cc.o -MF CMakeFiles/item-31.dir/item-31.cc.o.d -o CMakeFiles/item-31.dir/item-31.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-31/item-31.cc
+	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-31 && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT effective-c++/item-31/CMakeFiles/item-31.dir/item-31.cc.o -MF CMakeFiles/item-31.dir/item-31.cc.o.d -o CMakeFiles/item-31.dir/item-31.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-31/item-31.cc
 
 effective-c++/item-31/CMakeFiles/item-31.dir/item-31.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/item-31.dir/item-31.cc.i"
-	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-31 && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-31/item-31.cc > CMakeFiles/item-31.dir/item-31.cc.i
+	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-31 && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-31/item-31.cc > CMakeFiles/item-31.dir/item-31.cc.i
 
 effective-c++/item-31/CMakeFiles/item-31.dir/item-31.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/item-31.dir/item-31.cc.s"
-	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-31 && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-31/item-31.cc -o CMakeFiles/item-31.dir/item-31.cc.s
+	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-31 && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-31/item-31.cc -o CMakeFiles/item-31.dir/item-31.cc.s
 
 effective-c++/item-31/CMakeFiles/item-31.dir/Address.cc.o: effective-c++/item-31/CMakeFiles/item-31.dir/flags.make
 effective-c++/item-31/CMakeFiles/item-31.dir/Address.cc.o: ../effective-c++/item-31/Address.cc
 effective-c++/item-31/CMakeFiles/item-31.dir/Address.cc.o: effective-c++/item-31/CMakeFiles/item-31.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/gaosm/Downloads/dev/effective-gather/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object effective-c++/item-31/CMakeFiles/item-31.dir/Address.cc.o"
-	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-31 && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT effective-c++/item-31/CMakeFiles/item-31.dir/Address.cc.o -MF CMakeFiles/item-31.dir/Address.cc.o.d -o CMakeFiles/item-31.dir/Address.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-31/Address.cc
+	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-31 && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT effective-c++/item-31/CMakeFiles/item-31.dir/Address.cc.o -MF CMakeFiles/item-31.dir/Address.cc.o.d -o CMakeFiles/item-31.dir/Address.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-31/Address.cc
 
 effective-c++/item-31/CMakeFiles/item-31.dir/Address.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/item-31.dir/Address.cc.i"
-	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-31 && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-31/Address.cc > CMakeFiles/item-31.dir/Address.cc.i
+	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-31 && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-31/Address.cc > CMakeFiles/item-31.dir/Address.cc.i
 
 effective-c++/item-31/CMakeFiles/item-31.dir/Address.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/item-31.dir/Address.cc.s"
-	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-31 && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-31/Address.cc -o CMakeFiles/item-31.dir/Address.cc.s
+	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-31 && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-31/Address.cc -o CMakeFiles/item-31.dir/Address.cc.s
 
 effective-c++/item-31/CMakeFiles/item-31.dir/Date.cc.o: effective-c++/item-31/CMakeFiles/item-31.dir/flags.make
 effective-c++/item-31/CMakeFiles/item-31.dir/Date.cc.o: ../effective-c++/item-31/Date.cc
 effective-c++/item-31/CMakeFiles/item-31.dir/Date.cc.o: effective-c++/item-31/CMakeFiles/item-31.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/gaosm/Downloads/dev/effective-gather/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object effective-c++/item-31/CMakeFiles/item-31.dir/Date.cc.o"
-	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-31 && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT effective-c++/item-31/CMakeFiles/item-31.dir/Date.cc.o -MF CMakeFiles/item-31.dir/Date.cc.o.d -o CMakeFiles/item-31.dir/Date.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-31/Date.cc
+	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-31 && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT effective-c++/item-31/CMakeFiles/item-31.dir/Date.cc.o -MF CMakeFiles/item-31.dir/Date.cc.o.d -o CMakeFiles/item-31.dir/Date.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-31/Date.cc
 
 effective-c++/item-31/CMakeFiles/item-31.dir/Date.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/item-31.dir/Date.cc.i"
-	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-31 && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-31/Date.cc > CMakeFiles/item-31.dir/Date.cc.i
+	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-31 && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-31/Date.cc > CMakeFiles/item-31.dir/Date.cc.i
 
 effective-c++/item-31/CMakeFiles/item-31.dir/Date.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/item-31.dir/Date.cc.s"
-	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-31 && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-31/Date.cc -o CMakeFiles/item-31.dir/Date.cc.s
+	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-31 && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-31/Date.cc -o CMakeFiles/item-31.dir/Date.cc.s
 
 effective-c++/item-31/CMakeFiles/item-31.dir/Person.cc.o: effective-c++/item-31/CMakeFiles/item-31.dir/flags.make
 effective-c++/item-31/CMakeFiles/item-31.dir/Person.cc.o: ../effective-c++/item-31/Person.cc
 effective-c++/item-31/CMakeFiles/item-31.dir/Person.cc.o: effective-c++/item-31/CMakeFiles/item-31.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/gaosm/Downloads/dev/effective-gather/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object effective-c++/item-31/CMakeFiles/item-31.dir/Person.cc.o"
-	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-31 && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT effective-c++/item-31/CMakeFiles/item-31.dir/Person.cc.o -MF CMakeFiles/item-31.dir/Person.cc.o.d -o CMakeFiles/item-31.dir/Person.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-31/Person.cc
+	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-31 && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT effective-c++/item-31/CMakeFiles/item-31.dir/Person.cc.o -MF CMakeFiles/item-31.dir/Person.cc.o.d -o CMakeFiles/item-31.dir/Person.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-31/Person.cc
 
 effective-c++/item-31/CMakeFiles/item-31.dir/Person.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/item-31.dir/Person.cc.i"
-	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-31 && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-31/Person.cc > CMakeFiles/item-31.dir/Person.cc.i
+	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-31 && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-31/Person.cc > CMakeFiles/item-31.dir/Person.cc.i
 
 effective-c++/item-31/CMakeFiles/item-31.dir/Person.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/item-31.dir/Person.cc.s"
-	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-31 && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-31/Person.cc -o CMakeFiles/item-31.dir/Person.cc.s
+	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-31 && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-31/Person.cc -o CMakeFiles/item-31.dir/Person.cc.s
 
 effective-c++/item-31/CMakeFiles/item-31.dir/PersonImpl.cc.o: effective-c++/item-31/CMakeFiles/item-31.dir/flags.make
 effective-c++/item-31/CMakeFiles/item-31.dir/PersonImpl.cc.o: ../effective-c++/item-31/PersonImpl.cc
 effective-c++/item-31/CMakeFiles/item-31.dir/PersonImpl.cc.o: effective-c++/item-31/CMakeFiles/item-31.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/gaosm/Downloads/dev/effective-gather/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object effective-c++/item-31/CMakeFiles/item-31.dir/PersonImpl.cc.o"
-	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-31 && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT effective-c++/item-31/CMakeFiles/item-31.dir/PersonImpl.cc.o -MF CMakeFiles/item-31.dir/PersonImpl.cc.o.d -o CMakeFiles/item-31.dir/PersonImpl.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-31/PersonImpl.cc
+	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-31 && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT effective-c++/item-31/CMakeFiles/item-31.dir/PersonImpl.cc.o -MF CMakeFiles/item-31.dir/PersonImpl.cc.o.d -o CMakeFiles/item-31.dir/PersonImpl.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-31/PersonImpl.cc
 
 effective-c++/item-31/CMakeFiles/item-31.dir/PersonImpl.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/item-31.dir/PersonImpl.cc.i"
-	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-31 && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-31/PersonImpl.cc > CMakeFiles/item-31.dir/PersonImpl.cc.i
+	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-31 && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-31/PersonImpl.cc > CMakeFiles/item-31.dir/PersonImpl.cc.i
 
 effective-c++/item-31/CMakeFiles/item-31.dir/PersonImpl.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/item-31.dir/PersonImpl.cc.s"
-	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-31 && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-31/PersonImpl.cc -o CMakeFiles/item-31.dir/PersonImpl.cc.s
+	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-31 && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-31/PersonImpl.cc -o CMakeFiles/item-31.dir/PersonImpl.cc.s
 
 # Object files for target item-31
 item__31_OBJECTS = \

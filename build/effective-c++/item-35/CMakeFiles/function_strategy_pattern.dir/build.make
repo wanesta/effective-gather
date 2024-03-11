@@ -73,29 +73,29 @@ effective-c++/item-35/CMakeFiles/function_strategy_pattern.dir/function_strategy
 effective-c++/item-35/CMakeFiles/function_strategy_pattern.dir/function_strategy_pattern.cc.o: ../effective-c++/item-35/function_strategy_pattern.cc
 effective-c++/item-35/CMakeFiles/function_strategy_pattern.dir/function_strategy_pattern.cc.o: effective-c++/item-35/CMakeFiles/function_strategy_pattern.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/gaosm/Downloads/dev/effective-gather/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object effective-c++/item-35/CMakeFiles/function_strategy_pattern.dir/function_strategy_pattern.cc.o"
-	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-35 && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT effective-c++/item-35/CMakeFiles/function_strategy_pattern.dir/function_strategy_pattern.cc.o -MF CMakeFiles/function_strategy_pattern.dir/function_strategy_pattern.cc.o.d -o CMakeFiles/function_strategy_pattern.dir/function_strategy_pattern.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-35/function_strategy_pattern.cc
+	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-35 && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT effective-c++/item-35/CMakeFiles/function_strategy_pattern.dir/function_strategy_pattern.cc.o -MF CMakeFiles/function_strategy_pattern.dir/function_strategy_pattern.cc.o.d -o CMakeFiles/function_strategy_pattern.dir/function_strategy_pattern.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-35/function_strategy_pattern.cc
 
 effective-c++/item-35/CMakeFiles/function_strategy_pattern.dir/function_strategy_pattern.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/function_strategy_pattern.dir/function_strategy_pattern.cc.i"
-	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-35 && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-35/function_strategy_pattern.cc > CMakeFiles/function_strategy_pattern.dir/function_strategy_pattern.cc.i
+	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-35 && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-35/function_strategy_pattern.cc > CMakeFiles/function_strategy_pattern.dir/function_strategy_pattern.cc.i
 
 effective-c++/item-35/CMakeFiles/function_strategy_pattern.dir/function_strategy_pattern.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/function_strategy_pattern.dir/function_strategy_pattern.cc.s"
-	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-35 && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-35/function_strategy_pattern.cc -o CMakeFiles/function_strategy_pattern.dir/function_strategy_pattern.cc.s
+	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-35 && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-35/function_strategy_pattern.cc -o CMakeFiles/function_strategy_pattern.dir/function_strategy_pattern.cc.s
 
 effective-c++/item-35/CMakeFiles/function_strategy_pattern.dir/classic_strategy_pattern.cc.o: effective-c++/item-35/CMakeFiles/function_strategy_pattern.dir/flags.make
 effective-c++/item-35/CMakeFiles/function_strategy_pattern.dir/classic_strategy_pattern.cc.o: ../effective-c++/item-35/classic_strategy_pattern.cc
 effective-c++/item-35/CMakeFiles/function_strategy_pattern.dir/classic_strategy_pattern.cc.o: effective-c++/item-35/CMakeFiles/function_strategy_pattern.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/gaosm/Downloads/dev/effective-gather/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object effective-c++/item-35/CMakeFiles/function_strategy_pattern.dir/classic_strategy_pattern.cc.o"
-	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-35 && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT effective-c++/item-35/CMakeFiles/function_strategy_pattern.dir/classic_strategy_pattern.cc.o -MF CMakeFiles/function_strategy_pattern.dir/classic_strategy_pattern.cc.o.d -o CMakeFiles/function_strategy_pattern.dir/classic_strategy_pattern.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-35/classic_strategy_pattern.cc
+	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-35 && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT effective-c++/item-35/CMakeFiles/function_strategy_pattern.dir/classic_strategy_pattern.cc.o -MF CMakeFiles/function_strategy_pattern.dir/classic_strategy_pattern.cc.o.d -o CMakeFiles/function_strategy_pattern.dir/classic_strategy_pattern.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-35/classic_strategy_pattern.cc
 
 effective-c++/item-35/CMakeFiles/function_strategy_pattern.dir/classic_strategy_pattern.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/function_strategy_pattern.dir/classic_strategy_pattern.cc.i"
-	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-35 && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-35/classic_strategy_pattern.cc > CMakeFiles/function_strategy_pattern.dir/classic_strategy_pattern.cc.i
+	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-35 && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-35/classic_strategy_pattern.cc > CMakeFiles/function_strategy_pattern.dir/classic_strategy_pattern.cc.i
 
 effective-c++/item-35/CMakeFiles/function_strategy_pattern.dir/classic_strategy_pattern.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/function_strategy_pattern.dir/classic_strategy_pattern.cc.s"
-	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-35 && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-35/classic_strategy_pattern.cc -o CMakeFiles/function_strategy_pattern.dir/classic_strategy_pattern.cc.s
+	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-35 && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-35/classic_strategy_pattern.cc -o CMakeFiles/function_strategy_pattern.dir/classic_strategy_pattern.cc.s
 
 # Object files for target function_strategy_pattern
 function_strategy_pattern_OBJECTS = \

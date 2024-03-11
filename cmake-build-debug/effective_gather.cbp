@@ -1987,8 +1987,8 @@
 					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-c++/item-35/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="effective_modern_c++_05">
-				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/effective_modern_c++_05" prefix_auto="0" extension_auto="0"/>
+			<Target title="item42">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item42" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -2006,14 +2006,14 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 effective_modern_c++_05"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item42"/>
 					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="effective_modern_c++_05/fast">
-				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/effective_modern_c++_05" prefix_auto="0" extension_auto="0"/>
+			<Target title="item42/fast">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item42" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -2031,14 +2031,14 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 effective_modern_c++_05/fast"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item42/fast"/>
 					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="effective_modern_c++_01">
-				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/effective_modern_c++_01" prefix_auto="0" extension_auto="0"/>
+			<Target title="item37">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item37" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -2056,14 +2056,14 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 effective_modern_c++_01"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item37"/>
 					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="effective_modern_c++_01/fast">
-				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/effective_modern_c++_01" prefix_auto="0" extension_auto="0"/>
+			<Target title="item37/fast">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item37" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -2081,14 +2081,14 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 effective_modern_c++_01/fast"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item37/fast"/>
 					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="effective_modern_c++_03">
-				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/effective_modern_c++_03" prefix_auto="0" extension_auto="0"/>
+			<Target title="item36">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item36" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -2106,14 +2106,14 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 effective_modern_c++_03"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item36"/>
 					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="effective_modern_c++_03/fast">
-				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/effective_modern_c++_03" prefix_auto="0" extension_auto="0"/>
+			<Target title="item36/fast">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item36" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -2131,14 +2131,14 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 effective_modern_c++_03/fast"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item36/fast"/>
 					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="effective_modern_c++_02">
-				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/effective_modern_c++_02" prefix_auto="0" extension_auto="0"/>
+			<Target title="item34">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item34" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -2156,14 +2156,14 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 effective_modern_c++_02"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item34"/>
 					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="effective_modern_c++_02/fast">
-				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/effective_modern_c++_02" prefix_auto="0" extension_auto="0"/>
+			<Target title="item34/fast">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item34" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -2181,14 +2181,14 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 effective_modern_c++_02/fast"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item34/fast"/>
 					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="effective_modern_c++_04">
-				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/effective_modern_c++_04" prefix_auto="0" extension_auto="0"/>
+			<Target title="item32">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item32" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -2206,14 +2206,14 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 effective_modern_c++_04"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item32"/>
 					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="effective_modern_c++_04/fast">
-				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/effective_modern_c++_04" prefix_auto="0" extension_auto="0"/>
+			<Target title="item32/fast">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item32" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -2231,7 +2231,1957 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 effective_modern_c++_04/fast"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item32/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="item29">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item29" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item29"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="item29/fast">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item29" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item29/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="item25">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item25" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item25"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="item25/fast">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item25" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item25/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="item23">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item23" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item23"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="item23/fast">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item23" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item23/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="item21">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item21" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item21"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="item21/fast">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item21" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item21/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="item08">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item08" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item08"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="item08/fast">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item08" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item08/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="item24">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item24" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item24"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="item24/fast">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item24" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item24/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="item06">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item06" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item06"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="item06/fast">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item06" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item06/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="item35">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item35" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item35"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="item35/fast">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item35" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item35/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="item22">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item22" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item22"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="item22/fast">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item22" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item22/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="item16">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item16" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item16"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="item16/fast">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item16" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item16/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="item41">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item41" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item41"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="item41/fast">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item41" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item41/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="item38">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item38" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item38"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="item38/fast">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item38" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item38/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="item07">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item07" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item07"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="item07/fast">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item07" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item07/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="item26">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item26" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item26"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="item26/fast">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item26" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item26/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="base-2">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/base-2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 base-2"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="base-2/fast">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/base-2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 base-2/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="item05">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item05" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item05"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="item05/fast">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item05" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item05/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="base-1">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/base-1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 base-1"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="base-1/fast">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/base-1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 base-1/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="item01">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item01" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item01"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="item01/fast">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item01" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item01/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="item02">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item02" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item02"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="item02/fast">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item02" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item02/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="item39">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item39" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item39"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="item39/fast">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item39" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item39/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="item15">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item15" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item15"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="item15/fast">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item15" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item15/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="item09">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item09" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item09"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="item09/fast">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item09" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item09/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="item10">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item10" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item10"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="item10/fast">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item10" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item10/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="item04">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item04" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item04"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="item04/fast">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item04" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item04/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="item12">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item12" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item12"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="item12/fast">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item12" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item12/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="item33">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item33" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item33"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="item33/fast">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item33" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item33/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="item11">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item11" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item11"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="item11/fast">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item11" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item11/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="item13">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item13" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item13"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="item13/fast">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item13" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item13/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="item30">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item30" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item30"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="item30/fast">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item30" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item30/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="item27">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item27" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item27"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="item27/fast">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item27" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item27/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="item14">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item14" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item14"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="item14/fast">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item14" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item14/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="item31">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item31" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item31"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="item31/fast">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item31" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item31/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="item19">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item19" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item19"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="item19/fast">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item19" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item19/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="item40">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item40" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item40"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="item40/fast">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item40" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item40/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="item28">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item28" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item28"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="item28/fast">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item28" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item28/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="item03">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item03" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item03"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="item03/fast">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item03" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item03/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="item17">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item17" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item17"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="item17/fast">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item17" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item17/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="item18">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item18" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item18"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="item18/fast">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item18" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item18/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="item20">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item20" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item20"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="item20/fast">
+				<Option output="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin/item20" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++"/>
+					<Add directory="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 item20/fast"/>
 					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j4 -f &quot;/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/effective-modern-c++/Makefile&quot;  VERBOSE=1 clean"/>
@@ -3044,20 +4994,137 @@
 		<Unit filename="/home/gaosm/Downloads/dev/effective-gather/effective-c++/item-40.cc">
 			<Option target="item-40"/>
 		</Unit>
-		<Unit filename="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/effective_modern_c++_01.cc">
-			<Option target="effective_modern_c++_01"/>
+		<Unit filename="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/base-1.cc">
+			<Option target="base-1"/>
 		</Unit>
-		<Unit filename="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/effective_modern_c++_02.cc">
-			<Option target="effective_modern_c++_02"/>
+		<Unit filename="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/base-2.cc">
+			<Option target="base-2"/>
 		</Unit>
-		<Unit filename="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/effective_modern_c++_03.cc">
-			<Option target="effective_modern_c++_03"/>
+		<Unit filename="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item01.cc">
+			<Option target="item01"/>
 		</Unit>
-		<Unit filename="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/effective_modern_c++_04.cc">
-			<Option target="effective_modern_c++_04"/>
+		<Unit filename="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item02.cc">
+			<Option target="item02"/>
 		</Unit>
-		<Unit filename="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/effective_modern_c++_05.cc">
-			<Option target="effective_modern_c++_05"/>
+		<Unit filename="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item03.cc">
+			<Option target="item03"/>
+		</Unit>
+		<Unit filename="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item04.cc">
+			<Option target="item04"/>
+		</Unit>
+		<Unit filename="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item05.cc">
+			<Option target="item05"/>
+		</Unit>
+		<Unit filename="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item06.cc">
+			<Option target="item06"/>
+		</Unit>
+		<Unit filename="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item07.cc">
+			<Option target="item07"/>
+		</Unit>
+		<Unit filename="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item08.cc">
+			<Option target="item08"/>
+		</Unit>
+		<Unit filename="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item09.cc">
+			<Option target="item09"/>
+		</Unit>
+		<Unit filename="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item10.cc">
+			<Option target="item10"/>
+		</Unit>
+		<Unit filename="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item11.cc">
+			<Option target="item11"/>
+		</Unit>
+		<Unit filename="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item12.cc">
+			<Option target="item12"/>
+		</Unit>
+		<Unit filename="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item13.cc">
+			<Option target="item13"/>
+		</Unit>
+		<Unit filename="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item14.cc">
+			<Option target="item14"/>
+		</Unit>
+		<Unit filename="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item15.cc">
+			<Option target="item15"/>
+		</Unit>
+		<Unit filename="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item16.cc">
+			<Option target="item16"/>
+		</Unit>
+		<Unit filename="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item17.cc">
+			<Option target="item17"/>
+		</Unit>
+		<Unit filename="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item18.cc">
+			<Option target="item18"/>
+		</Unit>
+		<Unit filename="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item19.cc">
+			<Option target="item19"/>
+		</Unit>
+		<Unit filename="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item20.cc">
+			<Option target="item20"/>
+		</Unit>
+		<Unit filename="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item21.cc">
+			<Option target="item21"/>
+		</Unit>
+		<Unit filename="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item22.cc">
+			<Option target="item22"/>
+		</Unit>
+		<Unit filename="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item23.cc">
+			<Option target="item23"/>
+		</Unit>
+		<Unit filename="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item24.cc">
+			<Option target="item24"/>
+		</Unit>
+		<Unit filename="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item25.cc">
+			<Option target="item25"/>
+		</Unit>
+		<Unit filename="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item26.cc">
+			<Option target="item26"/>
+		</Unit>
+		<Unit filename="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item27.cc">
+			<Option target="item27"/>
+		</Unit>
+		<Unit filename="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item28.cc">
+			<Option target="item28"/>
+		</Unit>
+		<Unit filename="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item29.cc">
+			<Option target="item29"/>
+		</Unit>
+		<Unit filename="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item30.cc">
+			<Option target="item30"/>
+		</Unit>
+		<Unit filename="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item31.cc">
+			<Option target="item31"/>
+		</Unit>
+		<Unit filename="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item32.cc">
+			<Option target="item32"/>
+		</Unit>
+		<Unit filename="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item33.cc">
+			<Option target="item33"/>
+		</Unit>
+		<Unit filename="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item34.cc">
+			<Option target="item34"/>
+		</Unit>
+		<Unit filename="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item35.cc">
+			<Option target="item35"/>
+		</Unit>
+		<Unit filename="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item36.cc">
+			<Option target="item36"/>
+		</Unit>
+		<Unit filename="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item37.cc">
+			<Option target="item37"/>
+		</Unit>
+		<Unit filename="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item38.cc">
+			<Option target="item38"/>
+		</Unit>
+		<Unit filename="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item39.cc">
+			<Option target="item39"/>
+		</Unit>
+		<Unit filename="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item40.cc">
+			<Option target="item40"/>
+		</Unit>
+		<Unit filename="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item41.cc">
+			<Option target="item41"/>
+		</Unit>
+		<Unit filename="/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item42.cc">
+			<Option target="item42"/>
 		</Unit>
 		<Unit filename="/home/gaosm/Downloads/dev/effective-gather/effective-stl-c++/effective_stl_01.cc">
 			<Option target="effective_stl_01"/>

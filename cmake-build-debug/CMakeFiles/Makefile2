@@ -287,11 +287,50 @@ effective-c++/item-35/clean: effective-c++/item-35/CMakeFiles/function_strategy_
 # Directory level rules for directory effective-modern-c++
 
 # Recursive "all" directory target.
-effective-modern-c++/all: effective-modern-c++/CMakeFiles/effective_modern_c++_05.dir/all
-effective-modern-c++/all: effective-modern-c++/CMakeFiles/effective_modern_c++_01.dir/all
-effective-modern-c++/all: effective-modern-c++/CMakeFiles/effective_modern_c++_03.dir/all
-effective-modern-c++/all: effective-modern-c++/CMakeFiles/effective_modern_c++_02.dir/all
-effective-modern-c++/all: effective-modern-c++/CMakeFiles/effective_modern_c++_04.dir/all
+effective-modern-c++/all: effective-modern-c++/CMakeFiles/item42.dir/all
+effective-modern-c++/all: effective-modern-c++/CMakeFiles/item37.dir/all
+effective-modern-c++/all: effective-modern-c++/CMakeFiles/item36.dir/all
+effective-modern-c++/all: effective-modern-c++/CMakeFiles/item34.dir/all
+effective-modern-c++/all: effective-modern-c++/CMakeFiles/item32.dir/all
+effective-modern-c++/all: effective-modern-c++/CMakeFiles/item29.dir/all
+effective-modern-c++/all: effective-modern-c++/CMakeFiles/item25.dir/all
+effective-modern-c++/all: effective-modern-c++/CMakeFiles/item23.dir/all
+effective-modern-c++/all: effective-modern-c++/CMakeFiles/item21.dir/all
+effective-modern-c++/all: effective-modern-c++/CMakeFiles/item08.dir/all
+effective-modern-c++/all: effective-modern-c++/CMakeFiles/item24.dir/all
+effective-modern-c++/all: effective-modern-c++/CMakeFiles/item06.dir/all
+effective-modern-c++/all: effective-modern-c++/CMakeFiles/item35.dir/all
+effective-modern-c++/all: effective-modern-c++/CMakeFiles/item22.dir/all
+effective-modern-c++/all: effective-modern-c++/CMakeFiles/item16.dir/all
+effective-modern-c++/all: effective-modern-c++/CMakeFiles/item41.dir/all
+effective-modern-c++/all: effective-modern-c++/CMakeFiles/item38.dir/all
+effective-modern-c++/all: effective-modern-c++/CMakeFiles/item07.dir/all
+effective-modern-c++/all: effective-modern-c++/CMakeFiles/item26.dir/all
+effective-modern-c++/all: effective-modern-c++/CMakeFiles/base-2.dir/all
+effective-modern-c++/all: effective-modern-c++/CMakeFiles/item05.dir/all
+effective-modern-c++/all: effective-modern-c++/CMakeFiles/base-1.dir/all
+effective-modern-c++/all: effective-modern-c++/CMakeFiles/item01.dir/all
+effective-modern-c++/all: effective-modern-c++/CMakeFiles/item02.dir/all
+effective-modern-c++/all: effective-modern-c++/CMakeFiles/item39.dir/all
+effective-modern-c++/all: effective-modern-c++/CMakeFiles/item15.dir/all
+effective-modern-c++/all: effective-modern-c++/CMakeFiles/item09.dir/all
+effective-modern-c++/all: effective-modern-c++/CMakeFiles/item10.dir/all
+effective-modern-c++/all: effective-modern-c++/CMakeFiles/item04.dir/all
+effective-modern-c++/all: effective-modern-c++/CMakeFiles/item12.dir/all
+effective-modern-c++/all: effective-modern-c++/CMakeFiles/item33.dir/all
+effective-modern-c++/all: effective-modern-c++/CMakeFiles/item11.dir/all
+effective-modern-c++/all: effective-modern-c++/CMakeFiles/item13.dir/all
+effective-modern-c++/all: effective-modern-c++/CMakeFiles/item30.dir/all
+effective-modern-c++/all: effective-modern-c++/CMakeFiles/item27.dir/all
+effective-modern-c++/all: effective-modern-c++/CMakeFiles/item14.dir/all
+effective-modern-c++/all: effective-modern-c++/CMakeFiles/item31.dir/all
+effective-modern-c++/all: effective-modern-c++/CMakeFiles/item19.dir/all
+effective-modern-c++/all: effective-modern-c++/CMakeFiles/item40.dir/all
+effective-modern-c++/all: effective-modern-c++/CMakeFiles/item28.dir/all
+effective-modern-c++/all: effective-modern-c++/CMakeFiles/item03.dir/all
+effective-modern-c++/all: effective-modern-c++/CMakeFiles/item17.dir/all
+effective-modern-c++/all: effective-modern-c++/CMakeFiles/item18.dir/all
+effective-modern-c++/all: effective-modern-c++/CMakeFiles/item20.dir/all
 
 .PHONY : effective-modern-c++/all
 
@@ -301,11 +340,50 @@ effective-modern-c++/preinstall:
 .PHONY : effective-modern-c++/preinstall
 
 # Recursive "clean" directory target.
-effective-modern-c++/clean: effective-modern-c++/CMakeFiles/effective_modern_c++_05.dir/clean
-effective-modern-c++/clean: effective-modern-c++/CMakeFiles/effective_modern_c++_01.dir/clean
-effective-modern-c++/clean: effective-modern-c++/CMakeFiles/effective_modern_c++_03.dir/clean
-effective-modern-c++/clean: effective-modern-c++/CMakeFiles/effective_modern_c++_02.dir/clean
-effective-modern-c++/clean: effective-modern-c++/CMakeFiles/effective_modern_c++_04.dir/clean
+effective-modern-c++/clean: effective-modern-c++/CMakeFiles/item42.dir/clean
+effective-modern-c++/clean: effective-modern-c++/CMakeFiles/item37.dir/clean
+effective-modern-c++/clean: effective-modern-c++/CMakeFiles/item36.dir/clean
+effective-modern-c++/clean: effective-modern-c++/CMakeFiles/item34.dir/clean
+effective-modern-c++/clean: effective-modern-c++/CMakeFiles/item32.dir/clean
+effective-modern-c++/clean: effective-modern-c++/CMakeFiles/item29.dir/clean
+effective-modern-c++/clean: effective-modern-c++/CMakeFiles/item25.dir/clean
+effective-modern-c++/clean: effective-modern-c++/CMakeFiles/item23.dir/clean
+effective-modern-c++/clean: effective-modern-c++/CMakeFiles/item21.dir/clean
+effective-modern-c++/clean: effective-modern-c++/CMakeFiles/item08.dir/clean
+effective-modern-c++/clean: effective-modern-c++/CMakeFiles/item24.dir/clean
+effective-modern-c++/clean: effective-modern-c++/CMakeFiles/item06.dir/clean
+effective-modern-c++/clean: effective-modern-c++/CMakeFiles/item35.dir/clean
+effective-modern-c++/clean: effective-modern-c++/CMakeFiles/item22.dir/clean
+effective-modern-c++/clean: effective-modern-c++/CMakeFiles/item16.dir/clean
+effective-modern-c++/clean: effective-modern-c++/CMakeFiles/item41.dir/clean
+effective-modern-c++/clean: effective-modern-c++/CMakeFiles/item38.dir/clean
+effective-modern-c++/clean: effective-modern-c++/CMakeFiles/item07.dir/clean
+effective-modern-c++/clean: effective-modern-c++/CMakeFiles/item26.dir/clean
+effective-modern-c++/clean: effective-modern-c++/CMakeFiles/base-2.dir/clean
+effective-modern-c++/clean: effective-modern-c++/CMakeFiles/item05.dir/clean
+effective-modern-c++/clean: effective-modern-c++/CMakeFiles/base-1.dir/clean
+effective-modern-c++/clean: effective-modern-c++/CMakeFiles/item01.dir/clean
+effective-modern-c++/clean: effective-modern-c++/CMakeFiles/item02.dir/clean
+effective-modern-c++/clean: effective-modern-c++/CMakeFiles/item39.dir/clean
+effective-modern-c++/clean: effective-modern-c++/CMakeFiles/item15.dir/clean
+effective-modern-c++/clean: effective-modern-c++/CMakeFiles/item09.dir/clean
+effective-modern-c++/clean: effective-modern-c++/CMakeFiles/item10.dir/clean
+effective-modern-c++/clean: effective-modern-c++/CMakeFiles/item04.dir/clean
+effective-modern-c++/clean: effective-modern-c++/CMakeFiles/item12.dir/clean
+effective-modern-c++/clean: effective-modern-c++/CMakeFiles/item33.dir/clean
+effective-modern-c++/clean: effective-modern-c++/CMakeFiles/item11.dir/clean
+effective-modern-c++/clean: effective-modern-c++/CMakeFiles/item13.dir/clean
+effective-modern-c++/clean: effective-modern-c++/CMakeFiles/item30.dir/clean
+effective-modern-c++/clean: effective-modern-c++/CMakeFiles/item27.dir/clean
+effective-modern-c++/clean: effective-modern-c++/CMakeFiles/item14.dir/clean
+effective-modern-c++/clean: effective-modern-c++/CMakeFiles/item31.dir/clean
+effective-modern-c++/clean: effective-modern-c++/CMakeFiles/item19.dir/clean
+effective-modern-c++/clean: effective-modern-c++/CMakeFiles/item40.dir/clean
+effective-modern-c++/clean: effective-modern-c++/CMakeFiles/item28.dir/clean
+effective-modern-c++/clean: effective-modern-c++/CMakeFiles/item03.dir/clean
+effective-modern-c++/clean: effective-modern-c++/CMakeFiles/item17.dir/clean
+effective-modern-c++/clean: effective-modern-c++/CMakeFiles/item18.dir/clean
+effective-modern-c++/clean: effective-modern-c++/CMakeFiles/item20.dir/clean
 
 .PHONY : effective-modern-c++/clean
 
@@ -374,12 +452,12 @@ more-effective-c++/clean: more-effective-c++/CMakeFiles/more_effective_c++_03.di
 effective-c++/CMakeFiles/item-37.dir/all:
 	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-37.dir/build.make effective-c++/CMakeFiles/item-37.dir/depend
 	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-37.dir/build.make effective-c++/CMakeFiles/item-37.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=81,82 "Built target item-37"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=47 "Built target item-37"
 .PHONY : effective-c++/CMakeFiles/item-37.dir/all
 
 # Build rule for subdir invocation for target.
 effective-c++/CMakeFiles/item-37.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-c++/CMakeFiles/item-37.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
 .PHONY : effective-c++/CMakeFiles/item-37.dir/rule
@@ -401,7 +479,7 @@ effective-c++/CMakeFiles/item-37.dir/clean:
 effective-c++/CMakeFiles/item-33.dir/all:
 	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-33.dir/build.make effective-c++/CMakeFiles/item-33.dir/depend
 	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-33.dir/build.make effective-c++/CMakeFiles/item-33.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=77 "Built target item-33"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=44 "Built target item-33"
 .PHONY : effective-c++/CMakeFiles/item-33.dir/all
 
 # Build rule for subdir invocation for target.
@@ -428,7 +506,7 @@ effective-c++/CMakeFiles/item-33.dir/clean:
 effective-c++/CMakeFiles/item-29.dir/all:
 	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-29.dir/build.make effective-c++/CMakeFiles/item-29.dir/depend
 	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-29.dir/build.make effective-c++/CMakeFiles/item-29.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=67 "Built target item-29"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=38 "Built target item-29"
 .PHONY : effective-c++/CMakeFiles/item-29.dir/all
 
 # Build rule for subdir invocation for target.
@@ -455,12 +533,12 @@ effective-c++/CMakeFiles/item-29.dir/clean:
 effective-c++/CMakeFiles/item-27.dir/all:
 	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-27.dir/build.make effective-c++/CMakeFiles/item-27.dir/depend
 	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-27.dir/build.make effective-c++/CMakeFiles/item-27.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=63,64 "Built target item-27"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=36 "Built target item-27"
 .PHONY : effective-c++/CMakeFiles/item-27.dir/all
 
 # Build rule for subdir invocation for target.
 effective-c++/CMakeFiles/item-27.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-c++/CMakeFiles/item-27.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
 .PHONY : effective-c++/CMakeFiles/item-27.dir/rule
@@ -482,7 +560,7 @@ effective-c++/CMakeFiles/item-27.dir/clean:
 effective-c++/CMakeFiles/item-13.dir/all:
 	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-13.dir/build.make effective-c++/CMakeFiles/item-13.dir/depend
 	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-13.dir/build.make effective-c++/CMakeFiles/item-13.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=42 "Built target item-13"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=23 "Built target item-13"
 .PHONY : effective-c++/CMakeFiles/item-13.dir/all
 
 # Build rule for subdir invocation for target.
@@ -509,12 +587,12 @@ effective-c++/CMakeFiles/item-13.dir/clean:
 effective-c++/CMakeFiles/item-12.dir/all:
 	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-12.dir/build.make effective-c++/CMakeFiles/item-12.dir/depend
 	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-12.dir/build.make effective-c++/CMakeFiles/item-12.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=40,41 "Built target item-12"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=22 "Built target item-12"
 .PHONY : effective-c++/CMakeFiles/item-12.dir/all
 
 # Build rule for subdir invocation for target.
 effective-c++/CMakeFiles/item-12.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-c++/CMakeFiles/item-12.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
 .PHONY : effective-c++/CMakeFiles/item-12.dir/rule
@@ -536,12 +614,12 @@ effective-c++/CMakeFiles/item-12.dir/clean:
 effective-c++/CMakeFiles/item-09.dir/all:
 	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-09.dir/build.make effective-c++/CMakeFiles/item-09.dir/depend
 	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-09.dir/build.make effective-c++/CMakeFiles/item-09.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=35,36 "Built target item-09"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=19 "Built target item-09"
 .PHONY : effective-c++/CMakeFiles/item-09.dir/all
 
 # Build rule for subdir invocation for target.
 effective-c++/CMakeFiles/item-09.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-c++/CMakeFiles/item-09.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
 .PHONY : effective-c++/CMakeFiles/item-09.dir/rule
@@ -563,7 +641,7 @@ effective-c++/CMakeFiles/item-09.dir/clean:
 effective-c++/CMakeFiles/item-11.dir/all:
 	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-11.dir/build.make effective-c++/CMakeFiles/item-11.dir/depend
 	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-11.dir/build.make effective-c++/CMakeFiles/item-11.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=39 "Built target item-11"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=21 "Built target item-11"
 .PHONY : effective-c++/CMakeFiles/item-11.dir/all
 
 # Build rule for subdir invocation for target.
@@ -590,12 +668,12 @@ effective-c++/CMakeFiles/item-11.dir/clean:
 effective-c++/CMakeFiles/item-38.dir/all:
 	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-38.dir/build.make effective-c++/CMakeFiles/item-38.dir/depend
 	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-38.dir/build.make effective-c++/CMakeFiles/item-38.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=83,84 "Built target item-38"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=48 "Built target item-38"
 .PHONY : effective-c++/CMakeFiles/item-38.dir/all
 
 # Build rule for subdir invocation for target.
 effective-c++/CMakeFiles/item-38.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-c++/CMakeFiles/item-38.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
 .PHONY : effective-c++/CMakeFiles/item-38.dir/rule
@@ -617,12 +695,12 @@ effective-c++/CMakeFiles/item-38.dir/clean:
 effective-c++/CMakeFiles/item-18.dir/all:
 	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-18.dir/build.make effective-c++/CMakeFiles/item-18.dir/depend
 	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-18.dir/build.make effective-c++/CMakeFiles/item-18.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=50,51 "Built target item-18"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=28 "Built target item-18"
 .PHONY : effective-c++/CMakeFiles/item-18.dir/all
 
 # Build rule for subdir invocation for target.
 effective-c++/CMakeFiles/item-18.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-c++/CMakeFiles/item-18.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
 .PHONY : effective-c++/CMakeFiles/item-18.dir/rule
@@ -644,7 +722,7 @@ effective-c++/CMakeFiles/item-18.dir/clean:
 effective-c++/CMakeFiles/item-08.dir/all:
 	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-08.dir/build.make effective-c++/CMakeFiles/item-08.dir/depend
 	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-08.dir/build.make effective-c++/CMakeFiles/item-08.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=34 "Built target item-08"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=18 "Built target item-08"
 .PHONY : effective-c++/CMakeFiles/item-08.dir/all
 
 # Build rule for subdir invocation for target.
@@ -671,12 +749,12 @@ effective-c++/CMakeFiles/item-08.dir/clean:
 effective-c++/CMakeFiles/item-32.dir/all:
 	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-32.dir/build.make effective-c++/CMakeFiles/item-32.dir/depend
 	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-32.dir/build.make effective-c++/CMakeFiles/item-32.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=75,76 "Built target item-32"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=43 "Built target item-32"
 .PHONY : effective-c++/CMakeFiles/item-32.dir/all
 
 # Build rule for subdir invocation for target.
 effective-c++/CMakeFiles/item-32.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-c++/CMakeFiles/item-32.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
 .PHONY : effective-c++/CMakeFiles/item-32.dir/rule
@@ -698,12 +776,12 @@ effective-c++/CMakeFiles/item-32.dir/clean:
 effective-c++/CMakeFiles/item-07.dir/all:
 	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-07.dir/build.make effective-c++/CMakeFiles/item-07.dir/depend
 	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-07.dir/build.make effective-c++/CMakeFiles/item-07.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=32,33 "Built target item-07"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=17 "Built target item-07"
 .PHONY : effective-c++/CMakeFiles/item-07.dir/all
 
 # Build rule for subdir invocation for target.
 effective-c++/CMakeFiles/item-07.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-c++/CMakeFiles/item-07.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
 .PHONY : effective-c++/CMakeFiles/item-07.dir/rule
@@ -725,7 +803,7 @@ effective-c++/CMakeFiles/item-07.dir/clean:
 effective-c++/CMakeFiles/item-05.dir/all:
 	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-05.dir/build.make effective-c++/CMakeFiles/item-05.dir/depend
 	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-05.dir/build.make effective-c++/CMakeFiles/item-05.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=29 "Built target item-05"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=15 "Built target item-05"
 .PHONY : effective-c++/CMakeFiles/item-05.dir/all
 
 # Build rule for subdir invocation for target.
@@ -752,12 +830,12 @@ effective-c++/CMakeFiles/item-05.dir/clean:
 effective-c++/CMakeFiles/item-24.dir/all:
 	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-24.dir/build.make effective-c++/CMakeFiles/item-24.dir/depend
 	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-24.dir/build.make effective-c++/CMakeFiles/item-24.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=58,59 "Built target item-24"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=33 "Built target item-24"
 .PHONY : effective-c++/CMakeFiles/item-24.dir/all
 
 # Build rule for subdir invocation for target.
 effective-c++/CMakeFiles/item-24.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-c++/CMakeFiles/item-24.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
 .PHONY : effective-c++/CMakeFiles/item-24.dir/rule
@@ -779,12 +857,12 @@ effective-c++/CMakeFiles/item-24.dir/clean:
 effective-c++/CMakeFiles/item-30.dir/all:
 	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-30.dir/build.make effective-c++/CMakeFiles/item-30.dir/depend
 	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-30.dir/build.make effective-c++/CMakeFiles/item-30.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=68,69 "Built target item-30"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=39 "Built target item-30"
 .PHONY : effective-c++/CMakeFiles/item-30.dir/all
 
 # Build rule for subdir invocation for target.
 effective-c++/CMakeFiles/item-30.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-c++/CMakeFiles/item-30.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
 .PHONY : effective-c++/CMakeFiles/item-30.dir/rule
@@ -806,12 +884,12 @@ effective-c++/CMakeFiles/item-30.dir/clean:
 effective-c++/CMakeFiles/item-06.dir/all:
 	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-06.dir/build.make effective-c++/CMakeFiles/item-06.dir/depend
 	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-06.dir/build.make effective-c++/CMakeFiles/item-06.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=30,31 "Built target item-06"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=16 "Built target item-06"
 .PHONY : effective-c++/CMakeFiles/item-06.dir/all
 
 # Build rule for subdir invocation for target.
 effective-c++/CMakeFiles/item-06.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-c++/CMakeFiles/item-06.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
 .PHONY : effective-c++/CMakeFiles/item-06.dir/rule
@@ -833,12 +911,12 @@ effective-c++/CMakeFiles/item-06.dir/clean:
 effective-c++/CMakeFiles/item-40.dir/all:
 	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-40.dir/build.make effective-c++/CMakeFiles/item-40.dir/depend
 	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-40.dir/build.make effective-c++/CMakeFiles/item-40.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=86,87 "Built target item-40"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=50 "Built target item-40"
 .PHONY : effective-c++/CMakeFiles/item-40.dir/all
 
 # Build rule for subdir invocation for target.
 effective-c++/CMakeFiles/item-40.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-c++/CMakeFiles/item-40.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
 .PHONY : effective-c++/CMakeFiles/item-40.dir/rule
@@ -860,7 +938,7 @@ effective-c++/CMakeFiles/item-40.dir/clean:
 effective-c++/CMakeFiles/item-16.dir/all:
 	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-16.dir/build.make effective-c++/CMakeFiles/item-16.dir/depend
 	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-16.dir/build.make effective-c++/CMakeFiles/item-16.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=47 "Built target item-16"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=26 "Built target item-16"
 .PHONY : effective-c++/CMakeFiles/item-16.dir/all
 
 # Build rule for subdir invocation for target.
@@ -887,12 +965,12 @@ effective-c++/CMakeFiles/item-16.dir/clean:
 effective-c++/CMakeFiles/item-14.dir/all:
 	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-14.dir/build.make effective-c++/CMakeFiles/item-14.dir/depend
 	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-14.dir/build.make effective-c++/CMakeFiles/item-14.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=43,44 "Built target item-14"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=24 "Built target item-14"
 .PHONY : effective-c++/CMakeFiles/item-14.dir/all
 
 # Build rule for subdir invocation for target.
 effective-c++/CMakeFiles/item-14.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-c++/CMakeFiles/item-14.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
 .PHONY : effective-c++/CMakeFiles/item-14.dir/rule
@@ -914,7 +992,7 @@ effective-c++/CMakeFiles/item-14.dir/clean:
 effective-c++/CMakeFiles/item-39.dir/all:
 	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-39.dir/build.make effective-c++/CMakeFiles/item-39.dir/depend
 	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-39.dir/build.make effective-c++/CMakeFiles/item-39.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=85 "Built target item-39"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=49 "Built target item-39"
 .PHONY : effective-c++/CMakeFiles/item-39.dir/all
 
 # Build rule for subdir invocation for target.
@@ -941,12 +1019,12 @@ effective-c++/CMakeFiles/item-39.dir/clean:
 effective-c++/CMakeFiles/item-15.dir/all:
 	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-15.dir/build.make effective-c++/CMakeFiles/item-15.dir/depend
 	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-15.dir/build.make effective-c++/CMakeFiles/item-15.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=45,46 "Built target item-15"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=25 "Built target item-15"
 .PHONY : effective-c++/CMakeFiles/item-15.dir/all
 
 # Build rule for subdir invocation for target.
 effective-c++/CMakeFiles/item-15.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-c++/CMakeFiles/item-15.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
 .PHONY : effective-c++/CMakeFiles/item-15.dir/rule
@@ -968,7 +1046,7 @@ effective-c++/CMakeFiles/item-15.dir/clean:
 effective-c++/CMakeFiles/item-36.dir/all:
 	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-36.dir/build.make effective-c++/CMakeFiles/item-36.dir/depend
 	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-36.dir/build.make effective-c++/CMakeFiles/item-36.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=80 "Built target item-36"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=46 "Built target item-36"
 .PHONY : effective-c++/CMakeFiles/item-36.dir/all
 
 # Build rule for subdir invocation for target.
@@ -995,12 +1073,12 @@ effective-c++/CMakeFiles/item-36.dir/clean:
 effective-c++/CMakeFiles/item-17.dir/all:
 	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-17.dir/build.make effective-c++/CMakeFiles/item-17.dir/depend
 	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-17.dir/build.make effective-c++/CMakeFiles/item-17.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=48,49 "Built target item-17"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=27 "Built target item-17"
 .PHONY : effective-c++/CMakeFiles/item-17.dir/all
 
 # Build rule for subdir invocation for target.
 effective-c++/CMakeFiles/item-17.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-c++/CMakeFiles/item-17.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
 .PHONY : effective-c++/CMakeFiles/item-17.dir/rule
@@ -1022,12 +1100,12 @@ effective-c++/CMakeFiles/item-17.dir/clean:
 effective-c++/CMakeFiles/item-25.dir/all:
 	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-25.dir/build.make effective-c++/CMakeFiles/item-25.dir/depend
 	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-25.dir/build.make effective-c++/CMakeFiles/item-25.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=60,61 "Built target item-25"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=34 "Built target item-25"
 .PHONY : effective-c++/CMakeFiles/item-25.dir/all
 
 # Build rule for subdir invocation for target.
 effective-c++/CMakeFiles/item-25.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-c++/CMakeFiles/item-25.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
 .PHONY : effective-c++/CMakeFiles/item-25.dir/rule
@@ -1049,12 +1127,12 @@ effective-c++/CMakeFiles/item-25.dir/clean:
 effective-c++/CMakeFiles/item-34.dir/all:
 	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-34.dir/build.make effective-c++/CMakeFiles/item-34.dir/depend
 	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-34.dir/build.make effective-c++/CMakeFiles/item-34.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=78,79 "Built target item-34"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=45 "Built target item-34"
 .PHONY : effective-c++/CMakeFiles/item-34.dir/all
 
 # Build rule for subdir invocation for target.
 effective-c++/CMakeFiles/item-34.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-c++/CMakeFiles/item-34.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
 .PHONY : effective-c++/CMakeFiles/item-34.dir/rule
@@ -1076,12 +1154,12 @@ effective-c++/CMakeFiles/item-34.dir/clean:
 effective-c++/CMakeFiles/item-20.dir/all:
 	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-20.dir/build.make effective-c++/CMakeFiles/item-20.dir/depend
 	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-20.dir/build.make effective-c++/CMakeFiles/item-20.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=53,54 "Built target item-20"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=30 "Built target item-20"
 .PHONY : effective-c++/CMakeFiles/item-20.dir/all
 
 # Build rule for subdir invocation for target.
 effective-c++/CMakeFiles/item-20.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-c++/CMakeFiles/item-20.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
 .PHONY : effective-c++/CMakeFiles/item-20.dir/rule
@@ -1103,12 +1181,12 @@ effective-c++/CMakeFiles/item-20.dir/clean:
 effective-c++/CMakeFiles/item-10.dir/all:
 	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-10.dir/build.make effective-c++/CMakeFiles/item-10.dir/depend
 	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-10.dir/build.make effective-c++/CMakeFiles/item-10.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=37,38 "Built target item-10"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=20 "Built target item-10"
 .PHONY : effective-c++/CMakeFiles/item-10.dir/all
 
 # Build rule for subdir invocation for target.
 effective-c++/CMakeFiles/item-10.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-c++/CMakeFiles/item-10.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
 .PHONY : effective-c++/CMakeFiles/item-10.dir/rule
@@ -1130,12 +1208,12 @@ effective-c++/CMakeFiles/item-10.dir/clean:
 effective-c++/CMakeFiles/item-21.dir/all:
 	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-21.dir/build.make effective-c++/CMakeFiles/item-21.dir/depend
 	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-21.dir/build.make effective-c++/CMakeFiles/item-21.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=55,56 "Built target item-21"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=31 "Built target item-21"
 .PHONY : effective-c++/CMakeFiles/item-21.dir/all
 
 # Build rule for subdir invocation for target.
 effective-c++/CMakeFiles/item-21.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-c++/CMakeFiles/item-21.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
 .PHONY : effective-c++/CMakeFiles/item-21.dir/rule
@@ -1157,12 +1235,12 @@ effective-c++/CMakeFiles/item-21.dir/clean:
 effective-c++/CMakeFiles/item-28.dir/all:
 	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-28.dir/build.make effective-c++/CMakeFiles/item-28.dir/depend
 	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-28.dir/build.make effective-c++/CMakeFiles/item-28.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=65,66 "Built target item-28"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=37 "Built target item-28"
 .PHONY : effective-c++/CMakeFiles/item-28.dir/all
 
 # Build rule for subdir invocation for target.
 effective-c++/CMakeFiles/item-28.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-c++/CMakeFiles/item-28.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
 .PHONY : effective-c++/CMakeFiles/item-28.dir/rule
@@ -1184,7 +1262,7 @@ effective-c++/CMakeFiles/item-28.dir/clean:
 effective-c++/CMakeFiles/item-19.dir/all:
 	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-19.dir/build.make effective-c++/CMakeFiles/item-19.dir/depend
 	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-19.dir/build.make effective-c++/CMakeFiles/item-19.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=52 "Built target item-19"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=29 "Built target item-19"
 .PHONY : effective-c++/CMakeFiles/item-19.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1211,7 +1289,7 @@ effective-c++/CMakeFiles/item-19.dir/clean:
 effective-c++/CMakeFiles/item-22.dir/all:
 	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-22.dir/build.make effective-c++/CMakeFiles/item-22.dir/depend
 	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-22.dir/build.make effective-c++/CMakeFiles/item-22.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=57 "Built target item-22"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=32 "Built target item-22"
 .PHONY : effective-c++/CMakeFiles/item-22.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1238,12 +1316,12 @@ effective-c++/CMakeFiles/item-22.dir/clean:
 effective-c++/CMakeFiles/item-03.dir/all:
 	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-03.dir/build.make effective-c++/CMakeFiles/item-03.dir/depend
 	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-03.dir/build.make effective-c++/CMakeFiles/item-03.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=24,25 "Built target item-03"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=12 "Built target item-03"
 .PHONY : effective-c++/CMakeFiles/item-03.dir/all
 
 # Build rule for subdir invocation for target.
 effective-c++/CMakeFiles/item-03.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-c++/CMakeFiles/item-03.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
 .PHONY : effective-c++/CMakeFiles/item-03.dir/rule
@@ -1265,7 +1343,7 @@ effective-c++/CMakeFiles/item-03.dir/clean:
 effective-c++/CMakeFiles/item-26.dir/all:
 	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-26.dir/build.make effective-c++/CMakeFiles/item-26.dir/depend
 	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/item-26.dir/build.make effective-c++/CMakeFiles/item-26.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=62 "Built target item-26"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=35 "Built target item-26"
 .PHONY : effective-c++/CMakeFiles/item-26.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1292,7 +1370,7 @@ effective-c++/CMakeFiles/item-26.dir/clean:
 effective-c++/item-02/CMakeFiles/item-02.dir/all:
 	$(MAKE) $(MAKESILENT) -f effective-c++/item-02/CMakeFiles/item-02.dir/build.make effective-c++/item-02/CMakeFiles/item-02.dir/depend
 	$(MAKE) $(MAKESILENT) -f effective-c++/item-02/CMakeFiles/item-02.dir/build.make effective-c++/item-02/CMakeFiles/item-02.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=23 "Built target item-02"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=11 "Built target item-02"
 .PHONY : effective-c++/item-02/CMakeFiles/item-02.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1319,12 +1397,12 @@ effective-c++/item-02/CMakeFiles/item-02.dir/clean:
 effective-c++/item-04/CMakeFiles/item-04.dir/all:
 	$(MAKE) $(MAKESILENT) -f effective-c++/item-04/CMakeFiles/item-04.dir/build.make effective-c++/item-04/CMakeFiles/item-04.dir/depend
 	$(MAKE) $(MAKESILENT) -f effective-c++/item-04/CMakeFiles/item-04.dir/build.make effective-c++/item-04/CMakeFiles/item-04.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=26,27,28 "Built target item-04"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=13,14 "Built target item-04"
 .PHONY : effective-c++/item-04/CMakeFiles/item-04.dir/all
 
 # Build rule for subdir invocation for target.
 effective-c++/item-04/CMakeFiles/item-04.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 3
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-c++/item-04/CMakeFiles/item-04.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
 .PHONY : effective-c++/item-04/CMakeFiles/item-04.dir/rule
@@ -1346,12 +1424,12 @@ effective-c++/item-04/CMakeFiles/item-04.dir/clean:
 effective-c++/item-23/CMakeFiles/webbrower.dir/all:
 	$(MAKE) $(MAKESILENT) -f effective-c++/item-23/CMakeFiles/webbrower.dir/build.make effective-c++/item-23/CMakeFiles/webbrower.dir/depend
 	$(MAKE) $(MAKESILENT) -f effective-c++/item-23/CMakeFiles/webbrower.dir/build.make effective-c++/item-23/CMakeFiles/webbrower.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=98,99,100 "Built target webbrower"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=99,100 "Built target webbrower"
 .PHONY : effective-c++/item-23/CMakeFiles/webbrower.dir/all
 
 # Build rule for subdir invocation for target.
 effective-c++/item-23/CMakeFiles/webbrower.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 3
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-c++/item-23/CMakeFiles/webbrower.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
 .PHONY : effective-c++/item-23/CMakeFiles/webbrower.dir/rule
@@ -1373,12 +1451,12 @@ effective-c++/item-23/CMakeFiles/webbrower.dir/clean:
 effective-c++/item-31/CMakeFiles/item-31.dir/all:
 	$(MAKE) $(MAKESILENT) -f effective-c++/item-31/CMakeFiles/item-31.dir/build.make effective-c++/item-31/CMakeFiles/item-31.dir/depend
 	$(MAKE) $(MAKESILENT) -f effective-c++/item-31/CMakeFiles/item-31.dir/build.make effective-c++/item-31/CMakeFiles/item-31.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=70,71,72,73,74 "Built target item-31"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=40,41,42 "Built target item-31"
 .PHONY : effective-c++/item-31/CMakeFiles/item-31.dir/all
 
 # Build rule for subdir invocation for target.
 effective-c++/item-31/CMakeFiles/item-31.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 5
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 3
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-c++/item-31/CMakeFiles/item-31.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
 .PHONY : effective-c++/item-31/CMakeFiles/item-31.dir/rule
@@ -1400,12 +1478,12 @@ effective-c++/item-31/CMakeFiles/item-31.dir/clean:
 effective-c++/item-35/CMakeFiles/function_strategy_pattern.dir/all:
 	$(MAKE) $(MAKESILENT) -f effective-c++/item-35/CMakeFiles/function_strategy_pattern.dir/build.make effective-c++/item-35/CMakeFiles/function_strategy_pattern.dir/depend
 	$(MAKE) $(MAKESILENT) -f effective-c++/item-35/CMakeFiles/function_strategy_pattern.dir/build.make effective-c++/item-35/CMakeFiles/function_strategy_pattern.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=20,21,22 "Built target function_strategy_pattern"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=10 "Built target function_strategy_pattern"
 .PHONY : effective-c++/item-35/CMakeFiles/function_strategy_pattern.dir/all
 
 # Build rule for subdir invocation for target.
 effective-c++/item-35/CMakeFiles/function_strategy_pattern.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 3
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-c++/item-35/CMakeFiles/function_strategy_pattern.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
 .PHONY : effective-c++/item-35/CMakeFiles/function_strategy_pattern.dir/rule
@@ -1421,139 +1499,1192 @@ effective-c++/item-35/CMakeFiles/function_strategy_pattern.dir/clean:
 .PHONY : effective-c++/item-35/CMakeFiles/function_strategy_pattern.dir/clean
 
 #=============================================================================
-# Target rules for target effective-modern-c++/CMakeFiles/effective_modern_c++_05.dir
+# Target rules for target effective-modern-c++/CMakeFiles/item42.dir
 
 # All Build rule for target.
-effective-modern-c++/CMakeFiles/effective_modern_c++_05.dir/all:
-	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/effective_modern_c++_05.dir/build.make effective-modern-c++/CMakeFiles/effective_modern_c++_05.dir/depend
-	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/effective_modern_c++_05.dir/build.make effective-modern-c++/CMakeFiles/effective_modern_c++_05.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=7,8 "Built target effective_modern_c++_05"
-.PHONY : effective-modern-c++/CMakeFiles/effective_modern_c++_05.dir/all
+effective-modern-c++/CMakeFiles/item42.dir/all:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item42.dir/build.make effective-modern-c++/CMakeFiles/item42.dir/depend
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item42.dir/build.make effective-modern-c++/CMakeFiles/item42.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=92 "Built target item42"
+.PHONY : effective-modern-c++/CMakeFiles/item42.dir/all
 
 # Build rule for subdir invocation for target.
-effective-modern-c++/CMakeFiles/effective_modern_c++_05.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 2
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-modern-c++/CMakeFiles/effective_modern_c++_05.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
-.PHONY : effective-modern-c++/CMakeFiles/effective_modern_c++_05.dir/rule
-
-# Convenience name for target.
-effective_modern_c++_05: effective-modern-c++/CMakeFiles/effective_modern_c++_05.dir/rule
-
-.PHONY : effective_modern_c++_05
-
-# clean rule for target.
-effective-modern-c++/CMakeFiles/effective_modern_c++_05.dir/clean:
-	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/effective_modern_c++_05.dir/build.make effective-modern-c++/CMakeFiles/effective_modern_c++_05.dir/clean
-.PHONY : effective-modern-c++/CMakeFiles/effective_modern_c++_05.dir/clean
-
-#=============================================================================
-# Target rules for target effective-modern-c++/CMakeFiles/effective_modern_c++_01.dir
-
-# All Build rule for target.
-effective-modern-c++/CMakeFiles/effective_modern_c++_01.dir/all:
-	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/effective_modern_c++_01.dir/build.make effective-modern-c++/CMakeFiles/effective_modern_c++_01.dir/depend
-	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/effective_modern_c++_01.dir/build.make effective-modern-c++/CMakeFiles/effective_modern_c++_01.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=1 "Built target effective_modern_c++_01"
-.PHONY : effective-modern-c++/CMakeFiles/effective_modern_c++_01.dir/all
-
-# Build rule for subdir invocation for target.
-effective-modern-c++/CMakeFiles/effective_modern_c++_01.dir/rule: cmake_check_build_system
+effective-modern-c++/CMakeFiles/item42.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 1
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-modern-c++/CMakeFiles/effective_modern_c++_01.dir/all
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-modern-c++/CMakeFiles/item42.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
-.PHONY : effective-modern-c++/CMakeFiles/effective_modern_c++_01.dir/rule
+.PHONY : effective-modern-c++/CMakeFiles/item42.dir/rule
 
 # Convenience name for target.
-effective_modern_c++_01: effective-modern-c++/CMakeFiles/effective_modern_c++_01.dir/rule
+item42: effective-modern-c++/CMakeFiles/item42.dir/rule
 
-.PHONY : effective_modern_c++_01
+.PHONY : item42
 
 # clean rule for target.
-effective-modern-c++/CMakeFiles/effective_modern_c++_01.dir/clean:
-	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/effective_modern_c++_01.dir/build.make effective-modern-c++/CMakeFiles/effective_modern_c++_01.dir/clean
-.PHONY : effective-modern-c++/CMakeFiles/effective_modern_c++_01.dir/clean
+effective-modern-c++/CMakeFiles/item42.dir/clean:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item42.dir/build.make effective-modern-c++/CMakeFiles/item42.dir/clean
+.PHONY : effective-modern-c++/CMakeFiles/item42.dir/clean
 
 #=============================================================================
-# Target rules for target effective-modern-c++/CMakeFiles/effective_modern_c++_03.dir
+# Target rules for target effective-modern-c++/CMakeFiles/item37.dir
 
 # All Build rule for target.
-effective-modern-c++/CMakeFiles/effective_modern_c++_03.dir/all:
-	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/effective_modern_c++_03.dir/build.make effective-modern-c++/CMakeFiles/effective_modern_c++_03.dir/depend
-	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/effective_modern_c++_03.dir/build.make effective-modern-c++/CMakeFiles/effective_modern_c++_03.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=4 "Built target effective_modern_c++_03"
-.PHONY : effective-modern-c++/CMakeFiles/effective_modern_c++_03.dir/all
+effective-modern-c++/CMakeFiles/item37.dir/all:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item37.dir/build.make effective-modern-c++/CMakeFiles/item37.dir/depend
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item37.dir/build.make effective-modern-c++/CMakeFiles/item37.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=87 "Built target item37"
+.PHONY : effective-modern-c++/CMakeFiles/item37.dir/all
 
 # Build rule for subdir invocation for target.
-effective-modern-c++/CMakeFiles/effective_modern_c++_03.dir/rule: cmake_check_build_system
+effective-modern-c++/CMakeFiles/item37.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 1
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-modern-c++/CMakeFiles/effective_modern_c++_03.dir/all
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-modern-c++/CMakeFiles/item37.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
-.PHONY : effective-modern-c++/CMakeFiles/effective_modern_c++_03.dir/rule
+.PHONY : effective-modern-c++/CMakeFiles/item37.dir/rule
 
 # Convenience name for target.
-effective_modern_c++_03: effective-modern-c++/CMakeFiles/effective_modern_c++_03.dir/rule
+item37: effective-modern-c++/CMakeFiles/item37.dir/rule
 
-.PHONY : effective_modern_c++_03
+.PHONY : item37
 
 # clean rule for target.
-effective-modern-c++/CMakeFiles/effective_modern_c++_03.dir/clean:
-	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/effective_modern_c++_03.dir/build.make effective-modern-c++/CMakeFiles/effective_modern_c++_03.dir/clean
-.PHONY : effective-modern-c++/CMakeFiles/effective_modern_c++_03.dir/clean
+effective-modern-c++/CMakeFiles/item37.dir/clean:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item37.dir/build.make effective-modern-c++/CMakeFiles/item37.dir/clean
+.PHONY : effective-modern-c++/CMakeFiles/item37.dir/clean
 
 #=============================================================================
-# Target rules for target effective-modern-c++/CMakeFiles/effective_modern_c++_02.dir
+# Target rules for target effective-modern-c++/CMakeFiles/item36.dir
 
 # All Build rule for target.
-effective-modern-c++/CMakeFiles/effective_modern_c++_02.dir/all:
-	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/effective_modern_c++_02.dir/build.make effective-modern-c++/CMakeFiles/effective_modern_c++_02.dir/depend
-	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/effective_modern_c++_02.dir/build.make effective-modern-c++/CMakeFiles/effective_modern_c++_02.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=2,3 "Built target effective_modern_c++_02"
-.PHONY : effective-modern-c++/CMakeFiles/effective_modern_c++_02.dir/all
+effective-modern-c++/CMakeFiles/item36.dir/all:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item36.dir/build.make effective-modern-c++/CMakeFiles/item36.dir/depend
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item36.dir/build.make effective-modern-c++/CMakeFiles/item36.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=86 "Built target item36"
+.PHONY : effective-modern-c++/CMakeFiles/item36.dir/all
 
 # Build rule for subdir invocation for target.
-effective-modern-c++/CMakeFiles/effective_modern_c++_02.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 2
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-modern-c++/CMakeFiles/effective_modern_c++_02.dir/all
+effective-modern-c++/CMakeFiles/item36.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-modern-c++/CMakeFiles/item36.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
-.PHONY : effective-modern-c++/CMakeFiles/effective_modern_c++_02.dir/rule
+.PHONY : effective-modern-c++/CMakeFiles/item36.dir/rule
 
 # Convenience name for target.
-effective_modern_c++_02: effective-modern-c++/CMakeFiles/effective_modern_c++_02.dir/rule
+item36: effective-modern-c++/CMakeFiles/item36.dir/rule
 
-.PHONY : effective_modern_c++_02
+.PHONY : item36
 
 # clean rule for target.
-effective-modern-c++/CMakeFiles/effective_modern_c++_02.dir/clean:
-	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/effective_modern_c++_02.dir/build.make effective-modern-c++/CMakeFiles/effective_modern_c++_02.dir/clean
-.PHONY : effective-modern-c++/CMakeFiles/effective_modern_c++_02.dir/clean
+effective-modern-c++/CMakeFiles/item36.dir/clean:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item36.dir/build.make effective-modern-c++/CMakeFiles/item36.dir/clean
+.PHONY : effective-modern-c++/CMakeFiles/item36.dir/clean
 
 #=============================================================================
-# Target rules for target effective-modern-c++/CMakeFiles/effective_modern_c++_04.dir
+# Target rules for target effective-modern-c++/CMakeFiles/item34.dir
 
 # All Build rule for target.
-effective-modern-c++/CMakeFiles/effective_modern_c++_04.dir/all:
-	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/effective_modern_c++_04.dir/build.make effective-modern-c++/CMakeFiles/effective_modern_c++_04.dir/depend
-	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/effective_modern_c++_04.dir/build.make effective-modern-c++/CMakeFiles/effective_modern_c++_04.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=5,6 "Built target effective_modern_c++_04"
-.PHONY : effective-modern-c++/CMakeFiles/effective_modern_c++_04.dir/all
+effective-modern-c++/CMakeFiles/item34.dir/all:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item34.dir/build.make effective-modern-c++/CMakeFiles/item34.dir/depend
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item34.dir/build.make effective-modern-c++/CMakeFiles/item34.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=84 "Built target item34"
+.PHONY : effective-modern-c++/CMakeFiles/item34.dir/all
 
 # Build rule for subdir invocation for target.
-effective-modern-c++/CMakeFiles/effective_modern_c++_04.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 2
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-modern-c++/CMakeFiles/effective_modern_c++_04.dir/all
+effective-modern-c++/CMakeFiles/item34.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-modern-c++/CMakeFiles/item34.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
-.PHONY : effective-modern-c++/CMakeFiles/effective_modern_c++_04.dir/rule
+.PHONY : effective-modern-c++/CMakeFiles/item34.dir/rule
 
 # Convenience name for target.
-effective_modern_c++_04: effective-modern-c++/CMakeFiles/effective_modern_c++_04.dir/rule
+item34: effective-modern-c++/CMakeFiles/item34.dir/rule
 
-.PHONY : effective_modern_c++_04
+.PHONY : item34
 
 # clean rule for target.
-effective-modern-c++/CMakeFiles/effective_modern_c++_04.dir/clean:
-	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/effective_modern_c++_04.dir/build.make effective-modern-c++/CMakeFiles/effective_modern_c++_04.dir/clean
-.PHONY : effective-modern-c++/CMakeFiles/effective_modern_c++_04.dir/clean
+effective-modern-c++/CMakeFiles/item34.dir/clean:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item34.dir/build.make effective-modern-c++/CMakeFiles/item34.dir/clean
+.PHONY : effective-modern-c++/CMakeFiles/item34.dir/clean
+
+#=============================================================================
+# Target rules for target effective-modern-c++/CMakeFiles/item32.dir
+
+# All Build rule for target.
+effective-modern-c++/CMakeFiles/item32.dir/all:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item32.dir/build.make effective-modern-c++/CMakeFiles/item32.dir/depend
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item32.dir/build.make effective-modern-c++/CMakeFiles/item32.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=82 "Built target item32"
+.PHONY : effective-modern-c++/CMakeFiles/item32.dir/all
+
+# Build rule for subdir invocation for target.
+effective-modern-c++/CMakeFiles/item32.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-modern-c++/CMakeFiles/item32.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
+.PHONY : effective-modern-c++/CMakeFiles/item32.dir/rule
+
+# Convenience name for target.
+item32: effective-modern-c++/CMakeFiles/item32.dir/rule
+
+.PHONY : item32
+
+# clean rule for target.
+effective-modern-c++/CMakeFiles/item32.dir/clean:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item32.dir/build.make effective-modern-c++/CMakeFiles/item32.dir/clean
+.PHONY : effective-modern-c++/CMakeFiles/item32.dir/clean
+
+#=============================================================================
+# Target rules for target effective-modern-c++/CMakeFiles/item29.dir
+
+# All Build rule for target.
+effective-modern-c++/CMakeFiles/item29.dir/all:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item29.dir/build.make effective-modern-c++/CMakeFiles/item29.dir/depend
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item29.dir/build.make effective-modern-c++/CMakeFiles/item29.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=79 "Built target item29"
+.PHONY : effective-modern-c++/CMakeFiles/item29.dir/all
+
+# Build rule for subdir invocation for target.
+effective-modern-c++/CMakeFiles/item29.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-modern-c++/CMakeFiles/item29.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
+.PHONY : effective-modern-c++/CMakeFiles/item29.dir/rule
+
+# Convenience name for target.
+item29: effective-modern-c++/CMakeFiles/item29.dir/rule
+
+.PHONY : item29
+
+# clean rule for target.
+effective-modern-c++/CMakeFiles/item29.dir/clean:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item29.dir/build.make effective-modern-c++/CMakeFiles/item29.dir/clean
+.PHONY : effective-modern-c++/CMakeFiles/item29.dir/clean
+
+#=============================================================================
+# Target rules for target effective-modern-c++/CMakeFiles/item25.dir
+
+# All Build rule for target.
+effective-modern-c++/CMakeFiles/item25.dir/all:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item25.dir/build.make effective-modern-c++/CMakeFiles/item25.dir/depend
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item25.dir/build.make effective-modern-c++/CMakeFiles/item25.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=75 "Built target item25"
+.PHONY : effective-modern-c++/CMakeFiles/item25.dir/all
+
+# Build rule for subdir invocation for target.
+effective-modern-c++/CMakeFiles/item25.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-modern-c++/CMakeFiles/item25.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
+.PHONY : effective-modern-c++/CMakeFiles/item25.dir/rule
+
+# Convenience name for target.
+item25: effective-modern-c++/CMakeFiles/item25.dir/rule
+
+.PHONY : item25
+
+# clean rule for target.
+effective-modern-c++/CMakeFiles/item25.dir/clean:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item25.dir/build.make effective-modern-c++/CMakeFiles/item25.dir/clean
+.PHONY : effective-modern-c++/CMakeFiles/item25.dir/clean
+
+#=============================================================================
+# Target rules for target effective-modern-c++/CMakeFiles/item23.dir
+
+# All Build rule for target.
+effective-modern-c++/CMakeFiles/item23.dir/all:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item23.dir/build.make effective-modern-c++/CMakeFiles/item23.dir/depend
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item23.dir/build.make effective-modern-c++/CMakeFiles/item23.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=73 "Built target item23"
+.PHONY : effective-modern-c++/CMakeFiles/item23.dir/all
+
+# Build rule for subdir invocation for target.
+effective-modern-c++/CMakeFiles/item23.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-modern-c++/CMakeFiles/item23.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
+.PHONY : effective-modern-c++/CMakeFiles/item23.dir/rule
+
+# Convenience name for target.
+item23: effective-modern-c++/CMakeFiles/item23.dir/rule
+
+.PHONY : item23
+
+# clean rule for target.
+effective-modern-c++/CMakeFiles/item23.dir/clean:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item23.dir/build.make effective-modern-c++/CMakeFiles/item23.dir/clean
+.PHONY : effective-modern-c++/CMakeFiles/item23.dir/clean
+
+#=============================================================================
+# Target rules for target effective-modern-c++/CMakeFiles/item21.dir
+
+# All Build rule for target.
+effective-modern-c++/CMakeFiles/item21.dir/all:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item21.dir/build.make effective-modern-c++/CMakeFiles/item21.dir/depend
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item21.dir/build.make effective-modern-c++/CMakeFiles/item21.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=71 "Built target item21"
+.PHONY : effective-modern-c++/CMakeFiles/item21.dir/all
+
+# Build rule for subdir invocation for target.
+effective-modern-c++/CMakeFiles/item21.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-modern-c++/CMakeFiles/item21.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
+.PHONY : effective-modern-c++/CMakeFiles/item21.dir/rule
+
+# Convenience name for target.
+item21: effective-modern-c++/CMakeFiles/item21.dir/rule
+
+.PHONY : item21
+
+# clean rule for target.
+effective-modern-c++/CMakeFiles/item21.dir/clean:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item21.dir/build.make effective-modern-c++/CMakeFiles/item21.dir/clean
+.PHONY : effective-modern-c++/CMakeFiles/item21.dir/clean
+
+#=============================================================================
+# Target rules for target effective-modern-c++/CMakeFiles/item08.dir
+
+# All Build rule for target.
+effective-modern-c++/CMakeFiles/item08.dir/all:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item08.dir/build.make effective-modern-c++/CMakeFiles/item08.dir/depend
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item08.dir/build.make effective-modern-c++/CMakeFiles/item08.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=58 "Built target item08"
+.PHONY : effective-modern-c++/CMakeFiles/item08.dir/all
+
+# Build rule for subdir invocation for target.
+effective-modern-c++/CMakeFiles/item08.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-modern-c++/CMakeFiles/item08.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
+.PHONY : effective-modern-c++/CMakeFiles/item08.dir/rule
+
+# Convenience name for target.
+item08: effective-modern-c++/CMakeFiles/item08.dir/rule
+
+.PHONY : item08
+
+# clean rule for target.
+effective-modern-c++/CMakeFiles/item08.dir/clean:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item08.dir/build.make effective-modern-c++/CMakeFiles/item08.dir/clean
+.PHONY : effective-modern-c++/CMakeFiles/item08.dir/clean
+
+#=============================================================================
+# Target rules for target effective-modern-c++/CMakeFiles/item24.dir
+
+# All Build rule for target.
+effective-modern-c++/CMakeFiles/item24.dir/all:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item24.dir/build.make effective-modern-c++/CMakeFiles/item24.dir/depend
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item24.dir/build.make effective-modern-c++/CMakeFiles/item24.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=74 "Built target item24"
+.PHONY : effective-modern-c++/CMakeFiles/item24.dir/all
+
+# Build rule for subdir invocation for target.
+effective-modern-c++/CMakeFiles/item24.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-modern-c++/CMakeFiles/item24.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
+.PHONY : effective-modern-c++/CMakeFiles/item24.dir/rule
+
+# Convenience name for target.
+item24: effective-modern-c++/CMakeFiles/item24.dir/rule
+
+.PHONY : item24
+
+# clean rule for target.
+effective-modern-c++/CMakeFiles/item24.dir/clean:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item24.dir/build.make effective-modern-c++/CMakeFiles/item24.dir/clean
+.PHONY : effective-modern-c++/CMakeFiles/item24.dir/clean
+
+#=============================================================================
+# Target rules for target effective-modern-c++/CMakeFiles/item06.dir
+
+# All Build rule for target.
+effective-modern-c++/CMakeFiles/item06.dir/all:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item06.dir/build.make effective-modern-c++/CMakeFiles/item06.dir/depend
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item06.dir/build.make effective-modern-c++/CMakeFiles/item06.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=56 "Built target item06"
+.PHONY : effective-modern-c++/CMakeFiles/item06.dir/all
+
+# Build rule for subdir invocation for target.
+effective-modern-c++/CMakeFiles/item06.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-modern-c++/CMakeFiles/item06.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
+.PHONY : effective-modern-c++/CMakeFiles/item06.dir/rule
+
+# Convenience name for target.
+item06: effective-modern-c++/CMakeFiles/item06.dir/rule
+
+.PHONY : item06
+
+# clean rule for target.
+effective-modern-c++/CMakeFiles/item06.dir/clean:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item06.dir/build.make effective-modern-c++/CMakeFiles/item06.dir/clean
+.PHONY : effective-modern-c++/CMakeFiles/item06.dir/clean
+
+#=============================================================================
+# Target rules for target effective-modern-c++/CMakeFiles/item35.dir
+
+# All Build rule for target.
+effective-modern-c++/CMakeFiles/item35.dir/all:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item35.dir/build.make effective-modern-c++/CMakeFiles/item35.dir/depend
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item35.dir/build.make effective-modern-c++/CMakeFiles/item35.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=85 "Built target item35"
+.PHONY : effective-modern-c++/CMakeFiles/item35.dir/all
+
+# Build rule for subdir invocation for target.
+effective-modern-c++/CMakeFiles/item35.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-modern-c++/CMakeFiles/item35.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
+.PHONY : effective-modern-c++/CMakeFiles/item35.dir/rule
+
+# Convenience name for target.
+item35: effective-modern-c++/CMakeFiles/item35.dir/rule
+
+.PHONY : item35
+
+# clean rule for target.
+effective-modern-c++/CMakeFiles/item35.dir/clean:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item35.dir/build.make effective-modern-c++/CMakeFiles/item35.dir/clean
+.PHONY : effective-modern-c++/CMakeFiles/item35.dir/clean
+
+#=============================================================================
+# Target rules for target effective-modern-c++/CMakeFiles/item22.dir
+
+# All Build rule for target.
+effective-modern-c++/CMakeFiles/item22.dir/all:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item22.dir/build.make effective-modern-c++/CMakeFiles/item22.dir/depend
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item22.dir/build.make effective-modern-c++/CMakeFiles/item22.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=72 "Built target item22"
+.PHONY : effective-modern-c++/CMakeFiles/item22.dir/all
+
+# Build rule for subdir invocation for target.
+effective-modern-c++/CMakeFiles/item22.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-modern-c++/CMakeFiles/item22.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
+.PHONY : effective-modern-c++/CMakeFiles/item22.dir/rule
+
+# Convenience name for target.
+item22: effective-modern-c++/CMakeFiles/item22.dir/rule
+
+.PHONY : item22
+
+# clean rule for target.
+effective-modern-c++/CMakeFiles/item22.dir/clean:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item22.dir/build.make effective-modern-c++/CMakeFiles/item22.dir/clean
+.PHONY : effective-modern-c++/CMakeFiles/item22.dir/clean
+
+#=============================================================================
+# Target rules for target effective-modern-c++/CMakeFiles/item16.dir
+
+# All Build rule for target.
+effective-modern-c++/CMakeFiles/item16.dir/all:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item16.dir/build.make effective-modern-c++/CMakeFiles/item16.dir/depend
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item16.dir/build.make effective-modern-c++/CMakeFiles/item16.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=66 "Built target item16"
+.PHONY : effective-modern-c++/CMakeFiles/item16.dir/all
+
+# Build rule for subdir invocation for target.
+effective-modern-c++/CMakeFiles/item16.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-modern-c++/CMakeFiles/item16.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
+.PHONY : effective-modern-c++/CMakeFiles/item16.dir/rule
+
+# Convenience name for target.
+item16: effective-modern-c++/CMakeFiles/item16.dir/rule
+
+.PHONY : item16
+
+# clean rule for target.
+effective-modern-c++/CMakeFiles/item16.dir/clean:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item16.dir/build.make effective-modern-c++/CMakeFiles/item16.dir/clean
+.PHONY : effective-modern-c++/CMakeFiles/item16.dir/clean
+
+#=============================================================================
+# Target rules for target effective-modern-c++/CMakeFiles/item41.dir
+
+# All Build rule for target.
+effective-modern-c++/CMakeFiles/item41.dir/all:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item41.dir/build.make effective-modern-c++/CMakeFiles/item41.dir/depend
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item41.dir/build.make effective-modern-c++/CMakeFiles/item41.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=91 "Built target item41"
+.PHONY : effective-modern-c++/CMakeFiles/item41.dir/all
+
+# Build rule for subdir invocation for target.
+effective-modern-c++/CMakeFiles/item41.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-modern-c++/CMakeFiles/item41.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
+.PHONY : effective-modern-c++/CMakeFiles/item41.dir/rule
+
+# Convenience name for target.
+item41: effective-modern-c++/CMakeFiles/item41.dir/rule
+
+.PHONY : item41
+
+# clean rule for target.
+effective-modern-c++/CMakeFiles/item41.dir/clean:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item41.dir/build.make effective-modern-c++/CMakeFiles/item41.dir/clean
+.PHONY : effective-modern-c++/CMakeFiles/item41.dir/clean
+
+#=============================================================================
+# Target rules for target effective-modern-c++/CMakeFiles/item38.dir
+
+# All Build rule for target.
+effective-modern-c++/CMakeFiles/item38.dir/all:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item38.dir/build.make effective-modern-c++/CMakeFiles/item38.dir/depend
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item38.dir/build.make effective-modern-c++/CMakeFiles/item38.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=88 "Built target item38"
+.PHONY : effective-modern-c++/CMakeFiles/item38.dir/all
+
+# Build rule for subdir invocation for target.
+effective-modern-c++/CMakeFiles/item38.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-modern-c++/CMakeFiles/item38.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
+.PHONY : effective-modern-c++/CMakeFiles/item38.dir/rule
+
+# Convenience name for target.
+item38: effective-modern-c++/CMakeFiles/item38.dir/rule
+
+.PHONY : item38
+
+# clean rule for target.
+effective-modern-c++/CMakeFiles/item38.dir/clean:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item38.dir/build.make effective-modern-c++/CMakeFiles/item38.dir/clean
+.PHONY : effective-modern-c++/CMakeFiles/item38.dir/clean
+
+#=============================================================================
+# Target rules for target effective-modern-c++/CMakeFiles/item07.dir
+
+# All Build rule for target.
+effective-modern-c++/CMakeFiles/item07.dir/all:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item07.dir/build.make effective-modern-c++/CMakeFiles/item07.dir/depend
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item07.dir/build.make effective-modern-c++/CMakeFiles/item07.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=57 "Built target item07"
+.PHONY : effective-modern-c++/CMakeFiles/item07.dir/all
+
+# Build rule for subdir invocation for target.
+effective-modern-c++/CMakeFiles/item07.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-modern-c++/CMakeFiles/item07.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
+.PHONY : effective-modern-c++/CMakeFiles/item07.dir/rule
+
+# Convenience name for target.
+item07: effective-modern-c++/CMakeFiles/item07.dir/rule
+
+.PHONY : item07
+
+# clean rule for target.
+effective-modern-c++/CMakeFiles/item07.dir/clean:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item07.dir/build.make effective-modern-c++/CMakeFiles/item07.dir/clean
+.PHONY : effective-modern-c++/CMakeFiles/item07.dir/clean
+
+#=============================================================================
+# Target rules for target effective-modern-c++/CMakeFiles/item26.dir
+
+# All Build rule for target.
+effective-modern-c++/CMakeFiles/item26.dir/all:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item26.dir/build.make effective-modern-c++/CMakeFiles/item26.dir/depend
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item26.dir/build.make effective-modern-c++/CMakeFiles/item26.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=76 "Built target item26"
+.PHONY : effective-modern-c++/CMakeFiles/item26.dir/all
+
+# Build rule for subdir invocation for target.
+effective-modern-c++/CMakeFiles/item26.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-modern-c++/CMakeFiles/item26.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
+.PHONY : effective-modern-c++/CMakeFiles/item26.dir/rule
+
+# Convenience name for target.
+item26: effective-modern-c++/CMakeFiles/item26.dir/rule
+
+.PHONY : item26
+
+# clean rule for target.
+effective-modern-c++/CMakeFiles/item26.dir/clean:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item26.dir/build.make effective-modern-c++/CMakeFiles/item26.dir/clean
+.PHONY : effective-modern-c++/CMakeFiles/item26.dir/clean
+
+#=============================================================================
+# Target rules for target effective-modern-c++/CMakeFiles/base-2.dir
+
+# All Build rule for target.
+effective-modern-c++/CMakeFiles/base-2.dir/all:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/base-2.dir/build.make effective-modern-c++/CMakeFiles/base-2.dir/depend
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/base-2.dir/build.make effective-modern-c++/CMakeFiles/base-2.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=2 "Built target base-2"
+.PHONY : effective-modern-c++/CMakeFiles/base-2.dir/all
+
+# Build rule for subdir invocation for target.
+effective-modern-c++/CMakeFiles/base-2.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-modern-c++/CMakeFiles/base-2.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
+.PHONY : effective-modern-c++/CMakeFiles/base-2.dir/rule
+
+# Convenience name for target.
+base-2: effective-modern-c++/CMakeFiles/base-2.dir/rule
+
+.PHONY : base-2
+
+# clean rule for target.
+effective-modern-c++/CMakeFiles/base-2.dir/clean:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/base-2.dir/build.make effective-modern-c++/CMakeFiles/base-2.dir/clean
+.PHONY : effective-modern-c++/CMakeFiles/base-2.dir/clean
+
+#=============================================================================
+# Target rules for target effective-modern-c++/CMakeFiles/item05.dir
+
+# All Build rule for target.
+effective-modern-c++/CMakeFiles/item05.dir/all:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item05.dir/build.make effective-modern-c++/CMakeFiles/item05.dir/depend
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item05.dir/build.make effective-modern-c++/CMakeFiles/item05.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=55 "Built target item05"
+.PHONY : effective-modern-c++/CMakeFiles/item05.dir/all
+
+# Build rule for subdir invocation for target.
+effective-modern-c++/CMakeFiles/item05.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-modern-c++/CMakeFiles/item05.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
+.PHONY : effective-modern-c++/CMakeFiles/item05.dir/rule
+
+# Convenience name for target.
+item05: effective-modern-c++/CMakeFiles/item05.dir/rule
+
+.PHONY : item05
+
+# clean rule for target.
+effective-modern-c++/CMakeFiles/item05.dir/clean:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item05.dir/build.make effective-modern-c++/CMakeFiles/item05.dir/clean
+.PHONY : effective-modern-c++/CMakeFiles/item05.dir/clean
+
+#=============================================================================
+# Target rules for target effective-modern-c++/CMakeFiles/base-1.dir
+
+# All Build rule for target.
+effective-modern-c++/CMakeFiles/base-1.dir/all:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/base-1.dir/build.make effective-modern-c++/CMakeFiles/base-1.dir/depend
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/base-1.dir/build.make effective-modern-c++/CMakeFiles/base-1.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=1 "Built target base-1"
+.PHONY : effective-modern-c++/CMakeFiles/base-1.dir/all
+
+# Build rule for subdir invocation for target.
+effective-modern-c++/CMakeFiles/base-1.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-modern-c++/CMakeFiles/base-1.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
+.PHONY : effective-modern-c++/CMakeFiles/base-1.dir/rule
+
+# Convenience name for target.
+base-1: effective-modern-c++/CMakeFiles/base-1.dir/rule
+
+.PHONY : base-1
+
+# clean rule for target.
+effective-modern-c++/CMakeFiles/base-1.dir/clean:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/base-1.dir/build.make effective-modern-c++/CMakeFiles/base-1.dir/clean
+.PHONY : effective-modern-c++/CMakeFiles/base-1.dir/clean
+
+#=============================================================================
+# Target rules for target effective-modern-c++/CMakeFiles/item01.dir
+
+# All Build rule for target.
+effective-modern-c++/CMakeFiles/item01.dir/all:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item01.dir/build.make effective-modern-c++/CMakeFiles/item01.dir/depend
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item01.dir/build.make effective-modern-c++/CMakeFiles/item01.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=51 "Built target item01"
+.PHONY : effective-modern-c++/CMakeFiles/item01.dir/all
+
+# Build rule for subdir invocation for target.
+effective-modern-c++/CMakeFiles/item01.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-modern-c++/CMakeFiles/item01.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
+.PHONY : effective-modern-c++/CMakeFiles/item01.dir/rule
+
+# Convenience name for target.
+item01: effective-modern-c++/CMakeFiles/item01.dir/rule
+
+.PHONY : item01
+
+# clean rule for target.
+effective-modern-c++/CMakeFiles/item01.dir/clean:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item01.dir/build.make effective-modern-c++/CMakeFiles/item01.dir/clean
+.PHONY : effective-modern-c++/CMakeFiles/item01.dir/clean
+
+#=============================================================================
+# Target rules for target effective-modern-c++/CMakeFiles/item02.dir
+
+# All Build rule for target.
+effective-modern-c++/CMakeFiles/item02.dir/all:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item02.dir/build.make effective-modern-c++/CMakeFiles/item02.dir/depend
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item02.dir/build.make effective-modern-c++/CMakeFiles/item02.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=52 "Built target item02"
+.PHONY : effective-modern-c++/CMakeFiles/item02.dir/all
+
+# Build rule for subdir invocation for target.
+effective-modern-c++/CMakeFiles/item02.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-modern-c++/CMakeFiles/item02.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
+.PHONY : effective-modern-c++/CMakeFiles/item02.dir/rule
+
+# Convenience name for target.
+item02: effective-modern-c++/CMakeFiles/item02.dir/rule
+
+.PHONY : item02
+
+# clean rule for target.
+effective-modern-c++/CMakeFiles/item02.dir/clean:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item02.dir/build.make effective-modern-c++/CMakeFiles/item02.dir/clean
+.PHONY : effective-modern-c++/CMakeFiles/item02.dir/clean
+
+#=============================================================================
+# Target rules for target effective-modern-c++/CMakeFiles/item39.dir
+
+# All Build rule for target.
+effective-modern-c++/CMakeFiles/item39.dir/all:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item39.dir/build.make effective-modern-c++/CMakeFiles/item39.dir/depend
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item39.dir/build.make effective-modern-c++/CMakeFiles/item39.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=89 "Built target item39"
+.PHONY : effective-modern-c++/CMakeFiles/item39.dir/all
+
+# Build rule for subdir invocation for target.
+effective-modern-c++/CMakeFiles/item39.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-modern-c++/CMakeFiles/item39.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
+.PHONY : effective-modern-c++/CMakeFiles/item39.dir/rule
+
+# Convenience name for target.
+item39: effective-modern-c++/CMakeFiles/item39.dir/rule
+
+.PHONY : item39
+
+# clean rule for target.
+effective-modern-c++/CMakeFiles/item39.dir/clean:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item39.dir/build.make effective-modern-c++/CMakeFiles/item39.dir/clean
+.PHONY : effective-modern-c++/CMakeFiles/item39.dir/clean
+
+#=============================================================================
+# Target rules for target effective-modern-c++/CMakeFiles/item15.dir
+
+# All Build rule for target.
+effective-modern-c++/CMakeFiles/item15.dir/all:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item15.dir/build.make effective-modern-c++/CMakeFiles/item15.dir/depend
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item15.dir/build.make effective-modern-c++/CMakeFiles/item15.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=65 "Built target item15"
+.PHONY : effective-modern-c++/CMakeFiles/item15.dir/all
+
+# Build rule for subdir invocation for target.
+effective-modern-c++/CMakeFiles/item15.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-modern-c++/CMakeFiles/item15.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
+.PHONY : effective-modern-c++/CMakeFiles/item15.dir/rule
+
+# Convenience name for target.
+item15: effective-modern-c++/CMakeFiles/item15.dir/rule
+
+.PHONY : item15
+
+# clean rule for target.
+effective-modern-c++/CMakeFiles/item15.dir/clean:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item15.dir/build.make effective-modern-c++/CMakeFiles/item15.dir/clean
+.PHONY : effective-modern-c++/CMakeFiles/item15.dir/clean
+
+#=============================================================================
+# Target rules for target effective-modern-c++/CMakeFiles/item09.dir
+
+# All Build rule for target.
+effective-modern-c++/CMakeFiles/item09.dir/all:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item09.dir/build.make effective-modern-c++/CMakeFiles/item09.dir/depend
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item09.dir/build.make effective-modern-c++/CMakeFiles/item09.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=59 "Built target item09"
+.PHONY : effective-modern-c++/CMakeFiles/item09.dir/all
+
+# Build rule for subdir invocation for target.
+effective-modern-c++/CMakeFiles/item09.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-modern-c++/CMakeFiles/item09.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
+.PHONY : effective-modern-c++/CMakeFiles/item09.dir/rule
+
+# Convenience name for target.
+item09: effective-modern-c++/CMakeFiles/item09.dir/rule
+
+.PHONY : item09
+
+# clean rule for target.
+effective-modern-c++/CMakeFiles/item09.dir/clean:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item09.dir/build.make effective-modern-c++/CMakeFiles/item09.dir/clean
+.PHONY : effective-modern-c++/CMakeFiles/item09.dir/clean
+
+#=============================================================================
+# Target rules for target effective-modern-c++/CMakeFiles/item10.dir
+
+# All Build rule for target.
+effective-modern-c++/CMakeFiles/item10.dir/all:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item10.dir/build.make effective-modern-c++/CMakeFiles/item10.dir/depend
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item10.dir/build.make effective-modern-c++/CMakeFiles/item10.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=60 "Built target item10"
+.PHONY : effective-modern-c++/CMakeFiles/item10.dir/all
+
+# Build rule for subdir invocation for target.
+effective-modern-c++/CMakeFiles/item10.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-modern-c++/CMakeFiles/item10.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
+.PHONY : effective-modern-c++/CMakeFiles/item10.dir/rule
+
+# Convenience name for target.
+item10: effective-modern-c++/CMakeFiles/item10.dir/rule
+
+.PHONY : item10
+
+# clean rule for target.
+effective-modern-c++/CMakeFiles/item10.dir/clean:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item10.dir/build.make effective-modern-c++/CMakeFiles/item10.dir/clean
+.PHONY : effective-modern-c++/CMakeFiles/item10.dir/clean
+
+#=============================================================================
+# Target rules for target effective-modern-c++/CMakeFiles/item04.dir
+
+# All Build rule for target.
+effective-modern-c++/CMakeFiles/item04.dir/all:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item04.dir/build.make effective-modern-c++/CMakeFiles/item04.dir/depend
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item04.dir/build.make effective-modern-c++/CMakeFiles/item04.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=54 "Built target item04"
+.PHONY : effective-modern-c++/CMakeFiles/item04.dir/all
+
+# Build rule for subdir invocation for target.
+effective-modern-c++/CMakeFiles/item04.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-modern-c++/CMakeFiles/item04.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
+.PHONY : effective-modern-c++/CMakeFiles/item04.dir/rule
+
+# Convenience name for target.
+item04: effective-modern-c++/CMakeFiles/item04.dir/rule
+
+.PHONY : item04
+
+# clean rule for target.
+effective-modern-c++/CMakeFiles/item04.dir/clean:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item04.dir/build.make effective-modern-c++/CMakeFiles/item04.dir/clean
+.PHONY : effective-modern-c++/CMakeFiles/item04.dir/clean
+
+#=============================================================================
+# Target rules for target effective-modern-c++/CMakeFiles/item12.dir
+
+# All Build rule for target.
+effective-modern-c++/CMakeFiles/item12.dir/all:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item12.dir/build.make effective-modern-c++/CMakeFiles/item12.dir/depend
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item12.dir/build.make effective-modern-c++/CMakeFiles/item12.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=62 "Built target item12"
+.PHONY : effective-modern-c++/CMakeFiles/item12.dir/all
+
+# Build rule for subdir invocation for target.
+effective-modern-c++/CMakeFiles/item12.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-modern-c++/CMakeFiles/item12.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
+.PHONY : effective-modern-c++/CMakeFiles/item12.dir/rule
+
+# Convenience name for target.
+item12: effective-modern-c++/CMakeFiles/item12.dir/rule
+
+.PHONY : item12
+
+# clean rule for target.
+effective-modern-c++/CMakeFiles/item12.dir/clean:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item12.dir/build.make effective-modern-c++/CMakeFiles/item12.dir/clean
+.PHONY : effective-modern-c++/CMakeFiles/item12.dir/clean
+
+#=============================================================================
+# Target rules for target effective-modern-c++/CMakeFiles/item33.dir
+
+# All Build rule for target.
+effective-modern-c++/CMakeFiles/item33.dir/all:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item33.dir/build.make effective-modern-c++/CMakeFiles/item33.dir/depend
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item33.dir/build.make effective-modern-c++/CMakeFiles/item33.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=83 "Built target item33"
+.PHONY : effective-modern-c++/CMakeFiles/item33.dir/all
+
+# Build rule for subdir invocation for target.
+effective-modern-c++/CMakeFiles/item33.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-modern-c++/CMakeFiles/item33.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
+.PHONY : effective-modern-c++/CMakeFiles/item33.dir/rule
+
+# Convenience name for target.
+item33: effective-modern-c++/CMakeFiles/item33.dir/rule
+
+.PHONY : item33
+
+# clean rule for target.
+effective-modern-c++/CMakeFiles/item33.dir/clean:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item33.dir/build.make effective-modern-c++/CMakeFiles/item33.dir/clean
+.PHONY : effective-modern-c++/CMakeFiles/item33.dir/clean
+
+#=============================================================================
+# Target rules for target effective-modern-c++/CMakeFiles/item11.dir
+
+# All Build rule for target.
+effective-modern-c++/CMakeFiles/item11.dir/all:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item11.dir/build.make effective-modern-c++/CMakeFiles/item11.dir/depend
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item11.dir/build.make effective-modern-c++/CMakeFiles/item11.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=61 "Built target item11"
+.PHONY : effective-modern-c++/CMakeFiles/item11.dir/all
+
+# Build rule for subdir invocation for target.
+effective-modern-c++/CMakeFiles/item11.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-modern-c++/CMakeFiles/item11.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
+.PHONY : effective-modern-c++/CMakeFiles/item11.dir/rule
+
+# Convenience name for target.
+item11: effective-modern-c++/CMakeFiles/item11.dir/rule
+
+.PHONY : item11
+
+# clean rule for target.
+effective-modern-c++/CMakeFiles/item11.dir/clean:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item11.dir/build.make effective-modern-c++/CMakeFiles/item11.dir/clean
+.PHONY : effective-modern-c++/CMakeFiles/item11.dir/clean
+
+#=============================================================================
+# Target rules for target effective-modern-c++/CMakeFiles/item13.dir
+
+# All Build rule for target.
+effective-modern-c++/CMakeFiles/item13.dir/all:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item13.dir/build.make effective-modern-c++/CMakeFiles/item13.dir/depend
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item13.dir/build.make effective-modern-c++/CMakeFiles/item13.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=63 "Built target item13"
+.PHONY : effective-modern-c++/CMakeFiles/item13.dir/all
+
+# Build rule for subdir invocation for target.
+effective-modern-c++/CMakeFiles/item13.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-modern-c++/CMakeFiles/item13.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
+.PHONY : effective-modern-c++/CMakeFiles/item13.dir/rule
+
+# Convenience name for target.
+item13: effective-modern-c++/CMakeFiles/item13.dir/rule
+
+.PHONY : item13
+
+# clean rule for target.
+effective-modern-c++/CMakeFiles/item13.dir/clean:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item13.dir/build.make effective-modern-c++/CMakeFiles/item13.dir/clean
+.PHONY : effective-modern-c++/CMakeFiles/item13.dir/clean
+
+#=============================================================================
+# Target rules for target effective-modern-c++/CMakeFiles/item30.dir
+
+# All Build rule for target.
+effective-modern-c++/CMakeFiles/item30.dir/all:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item30.dir/build.make effective-modern-c++/CMakeFiles/item30.dir/depend
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item30.dir/build.make effective-modern-c++/CMakeFiles/item30.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=80 "Built target item30"
+.PHONY : effective-modern-c++/CMakeFiles/item30.dir/all
+
+# Build rule for subdir invocation for target.
+effective-modern-c++/CMakeFiles/item30.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-modern-c++/CMakeFiles/item30.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
+.PHONY : effective-modern-c++/CMakeFiles/item30.dir/rule
+
+# Convenience name for target.
+item30: effective-modern-c++/CMakeFiles/item30.dir/rule
+
+.PHONY : item30
+
+# clean rule for target.
+effective-modern-c++/CMakeFiles/item30.dir/clean:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item30.dir/build.make effective-modern-c++/CMakeFiles/item30.dir/clean
+.PHONY : effective-modern-c++/CMakeFiles/item30.dir/clean
+
+#=============================================================================
+# Target rules for target effective-modern-c++/CMakeFiles/item27.dir
+
+# All Build rule for target.
+effective-modern-c++/CMakeFiles/item27.dir/all:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item27.dir/build.make effective-modern-c++/CMakeFiles/item27.dir/depend
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item27.dir/build.make effective-modern-c++/CMakeFiles/item27.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=77 "Built target item27"
+.PHONY : effective-modern-c++/CMakeFiles/item27.dir/all
+
+# Build rule for subdir invocation for target.
+effective-modern-c++/CMakeFiles/item27.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-modern-c++/CMakeFiles/item27.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
+.PHONY : effective-modern-c++/CMakeFiles/item27.dir/rule
+
+# Convenience name for target.
+item27: effective-modern-c++/CMakeFiles/item27.dir/rule
+
+.PHONY : item27
+
+# clean rule for target.
+effective-modern-c++/CMakeFiles/item27.dir/clean:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item27.dir/build.make effective-modern-c++/CMakeFiles/item27.dir/clean
+.PHONY : effective-modern-c++/CMakeFiles/item27.dir/clean
+
+#=============================================================================
+# Target rules for target effective-modern-c++/CMakeFiles/item14.dir
+
+# All Build rule for target.
+effective-modern-c++/CMakeFiles/item14.dir/all:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item14.dir/build.make effective-modern-c++/CMakeFiles/item14.dir/depend
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item14.dir/build.make effective-modern-c++/CMakeFiles/item14.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=64 "Built target item14"
+.PHONY : effective-modern-c++/CMakeFiles/item14.dir/all
+
+# Build rule for subdir invocation for target.
+effective-modern-c++/CMakeFiles/item14.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-modern-c++/CMakeFiles/item14.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
+.PHONY : effective-modern-c++/CMakeFiles/item14.dir/rule
+
+# Convenience name for target.
+item14: effective-modern-c++/CMakeFiles/item14.dir/rule
+
+.PHONY : item14
+
+# clean rule for target.
+effective-modern-c++/CMakeFiles/item14.dir/clean:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item14.dir/build.make effective-modern-c++/CMakeFiles/item14.dir/clean
+.PHONY : effective-modern-c++/CMakeFiles/item14.dir/clean
+
+#=============================================================================
+# Target rules for target effective-modern-c++/CMakeFiles/item31.dir
+
+# All Build rule for target.
+effective-modern-c++/CMakeFiles/item31.dir/all:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item31.dir/build.make effective-modern-c++/CMakeFiles/item31.dir/depend
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item31.dir/build.make effective-modern-c++/CMakeFiles/item31.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=81 "Built target item31"
+.PHONY : effective-modern-c++/CMakeFiles/item31.dir/all
+
+# Build rule for subdir invocation for target.
+effective-modern-c++/CMakeFiles/item31.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-modern-c++/CMakeFiles/item31.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
+.PHONY : effective-modern-c++/CMakeFiles/item31.dir/rule
+
+# Convenience name for target.
+item31: effective-modern-c++/CMakeFiles/item31.dir/rule
+
+.PHONY : item31
+
+# clean rule for target.
+effective-modern-c++/CMakeFiles/item31.dir/clean:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item31.dir/build.make effective-modern-c++/CMakeFiles/item31.dir/clean
+.PHONY : effective-modern-c++/CMakeFiles/item31.dir/clean
+
+#=============================================================================
+# Target rules for target effective-modern-c++/CMakeFiles/item19.dir
+
+# All Build rule for target.
+effective-modern-c++/CMakeFiles/item19.dir/all:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item19.dir/build.make effective-modern-c++/CMakeFiles/item19.dir/depend
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item19.dir/build.make effective-modern-c++/CMakeFiles/item19.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=69 "Built target item19"
+.PHONY : effective-modern-c++/CMakeFiles/item19.dir/all
+
+# Build rule for subdir invocation for target.
+effective-modern-c++/CMakeFiles/item19.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-modern-c++/CMakeFiles/item19.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
+.PHONY : effective-modern-c++/CMakeFiles/item19.dir/rule
+
+# Convenience name for target.
+item19: effective-modern-c++/CMakeFiles/item19.dir/rule
+
+.PHONY : item19
+
+# clean rule for target.
+effective-modern-c++/CMakeFiles/item19.dir/clean:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item19.dir/build.make effective-modern-c++/CMakeFiles/item19.dir/clean
+.PHONY : effective-modern-c++/CMakeFiles/item19.dir/clean
+
+#=============================================================================
+# Target rules for target effective-modern-c++/CMakeFiles/item40.dir
+
+# All Build rule for target.
+effective-modern-c++/CMakeFiles/item40.dir/all:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item40.dir/build.make effective-modern-c++/CMakeFiles/item40.dir/depend
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item40.dir/build.make effective-modern-c++/CMakeFiles/item40.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=90 "Built target item40"
+.PHONY : effective-modern-c++/CMakeFiles/item40.dir/all
+
+# Build rule for subdir invocation for target.
+effective-modern-c++/CMakeFiles/item40.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-modern-c++/CMakeFiles/item40.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
+.PHONY : effective-modern-c++/CMakeFiles/item40.dir/rule
+
+# Convenience name for target.
+item40: effective-modern-c++/CMakeFiles/item40.dir/rule
+
+.PHONY : item40
+
+# clean rule for target.
+effective-modern-c++/CMakeFiles/item40.dir/clean:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item40.dir/build.make effective-modern-c++/CMakeFiles/item40.dir/clean
+.PHONY : effective-modern-c++/CMakeFiles/item40.dir/clean
+
+#=============================================================================
+# Target rules for target effective-modern-c++/CMakeFiles/item28.dir
+
+# All Build rule for target.
+effective-modern-c++/CMakeFiles/item28.dir/all:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item28.dir/build.make effective-modern-c++/CMakeFiles/item28.dir/depend
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item28.dir/build.make effective-modern-c++/CMakeFiles/item28.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=78 "Built target item28"
+.PHONY : effective-modern-c++/CMakeFiles/item28.dir/all
+
+# Build rule for subdir invocation for target.
+effective-modern-c++/CMakeFiles/item28.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-modern-c++/CMakeFiles/item28.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
+.PHONY : effective-modern-c++/CMakeFiles/item28.dir/rule
+
+# Convenience name for target.
+item28: effective-modern-c++/CMakeFiles/item28.dir/rule
+
+.PHONY : item28
+
+# clean rule for target.
+effective-modern-c++/CMakeFiles/item28.dir/clean:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item28.dir/build.make effective-modern-c++/CMakeFiles/item28.dir/clean
+.PHONY : effective-modern-c++/CMakeFiles/item28.dir/clean
+
+#=============================================================================
+# Target rules for target effective-modern-c++/CMakeFiles/item03.dir
+
+# All Build rule for target.
+effective-modern-c++/CMakeFiles/item03.dir/all:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item03.dir/build.make effective-modern-c++/CMakeFiles/item03.dir/depend
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item03.dir/build.make effective-modern-c++/CMakeFiles/item03.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=53 "Built target item03"
+.PHONY : effective-modern-c++/CMakeFiles/item03.dir/all
+
+# Build rule for subdir invocation for target.
+effective-modern-c++/CMakeFiles/item03.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-modern-c++/CMakeFiles/item03.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
+.PHONY : effective-modern-c++/CMakeFiles/item03.dir/rule
+
+# Convenience name for target.
+item03: effective-modern-c++/CMakeFiles/item03.dir/rule
+
+.PHONY : item03
+
+# clean rule for target.
+effective-modern-c++/CMakeFiles/item03.dir/clean:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item03.dir/build.make effective-modern-c++/CMakeFiles/item03.dir/clean
+.PHONY : effective-modern-c++/CMakeFiles/item03.dir/clean
+
+#=============================================================================
+# Target rules for target effective-modern-c++/CMakeFiles/item17.dir
+
+# All Build rule for target.
+effective-modern-c++/CMakeFiles/item17.dir/all:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item17.dir/build.make effective-modern-c++/CMakeFiles/item17.dir/depend
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item17.dir/build.make effective-modern-c++/CMakeFiles/item17.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=67 "Built target item17"
+.PHONY : effective-modern-c++/CMakeFiles/item17.dir/all
+
+# Build rule for subdir invocation for target.
+effective-modern-c++/CMakeFiles/item17.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-modern-c++/CMakeFiles/item17.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
+.PHONY : effective-modern-c++/CMakeFiles/item17.dir/rule
+
+# Convenience name for target.
+item17: effective-modern-c++/CMakeFiles/item17.dir/rule
+
+.PHONY : item17
+
+# clean rule for target.
+effective-modern-c++/CMakeFiles/item17.dir/clean:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item17.dir/build.make effective-modern-c++/CMakeFiles/item17.dir/clean
+.PHONY : effective-modern-c++/CMakeFiles/item17.dir/clean
+
+#=============================================================================
+# Target rules for target effective-modern-c++/CMakeFiles/item18.dir
+
+# All Build rule for target.
+effective-modern-c++/CMakeFiles/item18.dir/all:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item18.dir/build.make effective-modern-c++/CMakeFiles/item18.dir/depend
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item18.dir/build.make effective-modern-c++/CMakeFiles/item18.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=68 "Built target item18"
+.PHONY : effective-modern-c++/CMakeFiles/item18.dir/all
+
+# Build rule for subdir invocation for target.
+effective-modern-c++/CMakeFiles/item18.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-modern-c++/CMakeFiles/item18.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
+.PHONY : effective-modern-c++/CMakeFiles/item18.dir/rule
+
+# Convenience name for target.
+item18: effective-modern-c++/CMakeFiles/item18.dir/rule
+
+.PHONY : item18
+
+# clean rule for target.
+effective-modern-c++/CMakeFiles/item18.dir/clean:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item18.dir/build.make effective-modern-c++/CMakeFiles/item18.dir/clean
+.PHONY : effective-modern-c++/CMakeFiles/item18.dir/clean
+
+#=============================================================================
+# Target rules for target effective-modern-c++/CMakeFiles/item20.dir
+
+# All Build rule for target.
+effective-modern-c++/CMakeFiles/item20.dir/all:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item20.dir/build.make effective-modern-c++/CMakeFiles/item20.dir/depend
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item20.dir/build.make effective-modern-c++/CMakeFiles/item20.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=70 "Built target item20"
+.PHONY : effective-modern-c++/CMakeFiles/item20.dir/all
+
+# Build rule for subdir invocation for target.
+effective-modern-c++/CMakeFiles/item20.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-modern-c++/CMakeFiles/item20.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
+.PHONY : effective-modern-c++/CMakeFiles/item20.dir/rule
+
+# Convenience name for target.
+item20: effective-modern-c++/CMakeFiles/item20.dir/rule
+
+.PHONY : item20
+
+# clean rule for target.
+effective-modern-c++/CMakeFiles/item20.dir/clean:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item20.dir/build.make effective-modern-c++/CMakeFiles/item20.dir/clean
+.PHONY : effective-modern-c++/CMakeFiles/item20.dir/clean
 
 #=============================================================================
 # Target rules for target effective-stl-c++/CMakeFiles/effective_stl_07.dir
@@ -1562,7 +2693,7 @@ effective-modern-c++/CMakeFiles/effective_modern_c++_04.dir/clean:
 effective-stl-c++/CMakeFiles/effective_stl_07.dir/all:
 	$(MAKE) $(MAKESILENT) -f effective-stl-c++/CMakeFiles/effective_stl_07.dir/build.make effective-stl-c++/CMakeFiles/effective_stl_07.dir/depend
 	$(MAKE) $(MAKESILENT) -f effective-stl-c++/CMakeFiles/effective_stl_07.dir/build.make effective-stl-c++/CMakeFiles/effective_stl_07.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=19 "Built target effective_stl_07"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=9 "Built target effective_stl_07"
 .PHONY : effective-stl-c++/CMakeFiles/effective_stl_07.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1589,12 +2720,12 @@ effective-stl-c++/CMakeFiles/effective_stl_07.dir/clean:
 effective-stl-c++/CMakeFiles/effective_stl_05.dir/all:
 	$(MAKE) $(MAKESILENT) -f effective-stl-c++/CMakeFiles/effective_stl_05.dir/build.make effective-stl-c++/CMakeFiles/effective_stl_05.dir/depend
 	$(MAKE) $(MAKESILENT) -f effective-stl-c++/CMakeFiles/effective_stl_05.dir/build.make effective-stl-c++/CMakeFiles/effective_stl_05.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=15,16 "Built target effective_stl_05"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=7 "Built target effective_stl_05"
 .PHONY : effective-stl-c++/CMakeFiles/effective_stl_05.dir/all
 
 # Build rule for subdir invocation for target.
 effective-stl-c++/CMakeFiles/effective_stl_05.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-stl-c++/CMakeFiles/effective_stl_05.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
 .PHONY : effective-stl-c++/CMakeFiles/effective_stl_05.dir/rule
@@ -1616,7 +2747,7 @@ effective-stl-c++/CMakeFiles/effective_stl_05.dir/clean:
 effective-stl-c++/CMakeFiles/effective_stl_01.dir/all:
 	$(MAKE) $(MAKESILENT) -f effective-stl-c++/CMakeFiles/effective_stl_01.dir/build.make effective-stl-c++/CMakeFiles/effective_stl_01.dir/depend
 	$(MAKE) $(MAKESILENT) -f effective-stl-c++/CMakeFiles/effective_stl_01.dir/build.make effective-stl-c++/CMakeFiles/effective_stl_01.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=9 "Built target effective_stl_01"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=3 "Built target effective_stl_01"
 .PHONY : effective-stl-c++/CMakeFiles/effective_stl_01.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1643,12 +2774,12 @@ effective-stl-c++/CMakeFiles/effective_stl_01.dir/clean:
 effective-stl-c++/CMakeFiles/effective_stl_06.dir/all:
 	$(MAKE) $(MAKESILENT) -f effective-stl-c++/CMakeFiles/effective_stl_06.dir/build.make effective-stl-c++/CMakeFiles/effective_stl_06.dir/depend
 	$(MAKE) $(MAKESILENT) -f effective-stl-c++/CMakeFiles/effective_stl_06.dir/build.make effective-stl-c++/CMakeFiles/effective_stl_06.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=17,18 "Built target effective_stl_06"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=8 "Built target effective_stl_06"
 .PHONY : effective-stl-c++/CMakeFiles/effective_stl_06.dir/all
 
 # Build rule for subdir invocation for target.
 effective-stl-c++/CMakeFiles/effective_stl_06.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-stl-c++/CMakeFiles/effective_stl_06.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
 .PHONY : effective-stl-c++/CMakeFiles/effective_stl_06.dir/rule
@@ -1670,12 +2801,12 @@ effective-stl-c++/CMakeFiles/effective_stl_06.dir/clean:
 effective-stl-c++/CMakeFiles/effective_stl_02.dir/all:
 	$(MAKE) $(MAKESILENT) -f effective-stl-c++/CMakeFiles/effective_stl_02.dir/build.make effective-stl-c++/CMakeFiles/effective_stl_02.dir/depend
 	$(MAKE) $(MAKESILENT) -f effective-stl-c++/CMakeFiles/effective_stl_02.dir/build.make effective-stl-c++/CMakeFiles/effective_stl_02.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=10,11 "Built target effective_stl_02"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=4 "Built target effective_stl_02"
 .PHONY : effective-stl-c++/CMakeFiles/effective_stl_02.dir/all
 
 # Build rule for subdir invocation for target.
 effective-stl-c++/CMakeFiles/effective_stl_02.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-stl-c++/CMakeFiles/effective_stl_02.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
 .PHONY : effective-stl-c++/CMakeFiles/effective_stl_02.dir/rule
@@ -1697,12 +2828,12 @@ effective-stl-c++/CMakeFiles/effective_stl_02.dir/clean:
 effective-stl-c++/CMakeFiles/effective_stl_03.dir/all:
 	$(MAKE) $(MAKESILENT) -f effective-stl-c++/CMakeFiles/effective_stl_03.dir/build.make effective-stl-c++/CMakeFiles/effective_stl_03.dir/depend
 	$(MAKE) $(MAKESILENT) -f effective-stl-c++/CMakeFiles/effective_stl_03.dir/build.make effective-stl-c++/CMakeFiles/effective_stl_03.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=12,13 "Built target effective_stl_03"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=5 "Built target effective_stl_03"
 .PHONY : effective-stl-c++/CMakeFiles/effective_stl_03.dir/all
 
 # Build rule for subdir invocation for target.
 effective-stl-c++/CMakeFiles/effective_stl_03.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective-stl-c++/CMakeFiles/effective_stl_03.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
 .PHONY : effective-stl-c++/CMakeFiles/effective_stl_03.dir/rule
@@ -1724,7 +2855,7 @@ effective-stl-c++/CMakeFiles/effective_stl_03.dir/clean:
 effective-stl-c++/CMakeFiles/effective_stl_04.dir/all:
 	$(MAKE) $(MAKESILENT) -f effective-stl-c++/CMakeFiles/effective_stl_04.dir/build.make effective-stl-c++/CMakeFiles/effective_stl_04.dir/depend
 	$(MAKE) $(MAKESILENT) -f effective-stl-c++/CMakeFiles/effective_stl_04.dir/build.make effective-stl-c++/CMakeFiles/effective_stl_04.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=14 "Built target effective_stl_04"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=6 "Built target effective_stl_04"
 .PHONY : effective-stl-c++/CMakeFiles/effective_stl_04.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1751,12 +2882,12 @@ effective-stl-c++/CMakeFiles/effective_stl_04.dir/clean:
 more-effective-c++/CMakeFiles/more_effective_c++_01.dir/all:
 	$(MAKE) $(MAKESILENT) -f more-effective-c++/CMakeFiles/more_effective_c++_01.dir/build.make more-effective-c++/CMakeFiles/more_effective_c++_01.dir/depend
 	$(MAKE) $(MAKESILENT) -f more-effective-c++/CMakeFiles/more_effective_c++_01.dir/build.make more-effective-c++/CMakeFiles/more_effective_c++_01.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=88,89 "Built target more_effective_c++_01"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=93 "Built target more_effective_c++_01"
 .PHONY : more-effective-c++/CMakeFiles/more_effective_c++_01.dir/all
 
 # Build rule for subdir invocation for target.
 more-effective-c++/CMakeFiles/more_effective_c++_01.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 more-effective-c++/CMakeFiles/more_effective_c++_01.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
 .PHONY : more-effective-c++/CMakeFiles/more_effective_c++_01.dir/rule
@@ -1778,12 +2909,12 @@ more-effective-c++/CMakeFiles/more_effective_c++_01.dir/clean:
 more-effective-c++/CMakeFiles/more_effective_c++_06.dir/all:
 	$(MAKE) $(MAKESILENT) -f more-effective-c++/CMakeFiles/more_effective_c++_06.dir/build.make more-effective-c++/CMakeFiles/more_effective_c++_06.dir/depend
 	$(MAKE) $(MAKESILENT) -f more-effective-c++/CMakeFiles/more_effective_c++_06.dir/build.make more-effective-c++/CMakeFiles/more_effective_c++_06.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=96,97 "Built target more_effective_c++_06"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=98 "Built target more_effective_c++_06"
 .PHONY : more-effective-c++/CMakeFiles/more_effective_c++_06.dir/all
 
 # Build rule for subdir invocation for target.
 more-effective-c++/CMakeFiles/more_effective_c++_06.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 more-effective-c++/CMakeFiles/more_effective_c++_06.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
 .PHONY : more-effective-c++/CMakeFiles/more_effective_c++_06.dir/rule
@@ -1805,7 +2936,7 @@ more-effective-c++/CMakeFiles/more_effective_c++_06.dir/clean:
 more-effective-c++/CMakeFiles/more_effective_c++_02.dir/all:
 	$(MAKE) $(MAKESILENT) -f more-effective-c++/CMakeFiles/more_effective_c++_02.dir/build.make more-effective-c++/CMakeFiles/more_effective_c++_02.dir/depend
 	$(MAKE) $(MAKESILENT) -f more-effective-c++/CMakeFiles/more_effective_c++_02.dir/build.make more-effective-c++/CMakeFiles/more_effective_c++_02.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=90 "Built target more_effective_c++_02"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=94 "Built target more_effective_c++_02"
 .PHONY : more-effective-c++/CMakeFiles/more_effective_c++_02.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1832,7 +2963,7 @@ more-effective-c++/CMakeFiles/more_effective_c++_02.dir/clean:
 more-effective-c++/CMakeFiles/more_effective_c++_05.dir/all:
 	$(MAKE) $(MAKESILENT) -f more-effective-c++/CMakeFiles/more_effective_c++_05.dir/build.make more-effective-c++/CMakeFiles/more_effective_c++_05.dir/depend
 	$(MAKE) $(MAKESILENT) -f more-effective-c++/CMakeFiles/more_effective_c++_05.dir/build.make more-effective-c++/CMakeFiles/more_effective_c++_05.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=95 "Built target more_effective_c++_05"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=97 "Built target more_effective_c++_05"
 .PHONY : more-effective-c++/CMakeFiles/more_effective_c++_05.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1859,12 +2990,12 @@ more-effective-c++/CMakeFiles/more_effective_c++_05.dir/clean:
 more-effective-c++/CMakeFiles/more_effective_c++_04.dir/all:
 	$(MAKE) $(MAKESILENT) -f more-effective-c++/CMakeFiles/more_effective_c++_04.dir/build.make more-effective-c++/CMakeFiles/more_effective_c++_04.dir/depend
 	$(MAKE) $(MAKESILENT) -f more-effective-c++/CMakeFiles/more_effective_c++_04.dir/build.make more-effective-c++/CMakeFiles/more_effective_c++_04.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=93,94 "Built target more_effective_c++_04"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=96 "Built target more_effective_c++_04"
 .PHONY : more-effective-c++/CMakeFiles/more_effective_c++_04.dir/all
 
 # Build rule for subdir invocation for target.
 more-effective-c++/CMakeFiles/more_effective_c++_04.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 more-effective-c++/CMakeFiles/more_effective_c++_04.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
 .PHONY : more-effective-c++/CMakeFiles/more_effective_c++_04.dir/rule
@@ -1886,12 +3017,12 @@ more-effective-c++/CMakeFiles/more_effective_c++_04.dir/clean:
 more-effective-c++/CMakeFiles/more_effective_c++_03.dir/all:
 	$(MAKE) $(MAKESILENT) -f more-effective-c++/CMakeFiles/more_effective_c++_03.dir/build.make more-effective-c++/CMakeFiles/more_effective_c++_03.dir/depend
 	$(MAKE) $(MAKESILENT) -f more-effective-c++/CMakeFiles/more_effective_c++_03.dir/build.make more-effective-c++/CMakeFiles/more_effective_c++_03.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=91,92 "Built target more_effective_c++_03"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles --progress-num=95 "Built target more_effective_c++_03"
 .PHONY : more-effective-c++/CMakeFiles/more_effective_c++_03.dir/all
 
 # Build rule for subdir invocation for target.
 more-effective-c++/CMakeFiles/more_effective_c++_03.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 more-effective-c++/CMakeFiles/more_effective_c++_03.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/gaosm/Downloads/dev/effective-gather/cmake-build-debug/CMakeFiles 0
 .PHONY : more-effective-c++/CMakeFiles/more_effective_c++_03.dir/rule

@@ -73,15 +73,15 @@ effective-c++/CMakeFiles/item-15.dir/item-15.cc.o: effective-c++/CMakeFiles/item
 effective-c++/CMakeFiles/item-15.dir/item-15.cc.o: ../effective-c++/item-15.cc
 effective-c++/CMakeFiles/item-15.dir/item-15.cc.o: effective-c++/CMakeFiles/item-15.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/gaosm/Downloads/dev/effective-gather/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object effective-c++/CMakeFiles/item-15.dir/item-15.cc.o"
-	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-c++ && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT effective-c++/CMakeFiles/item-15.dir/item-15.cc.o -MF CMakeFiles/item-15.dir/item-15.cc.o.d -o CMakeFiles/item-15.dir/item-15.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-15.cc
+	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-c++ && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT effective-c++/CMakeFiles/item-15.dir/item-15.cc.o -MF CMakeFiles/item-15.dir/item-15.cc.o.d -o CMakeFiles/item-15.dir/item-15.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-15.cc
 
 effective-c++/CMakeFiles/item-15.dir/item-15.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/item-15.dir/item-15.cc.i"
-	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-c++ && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-15.cc > CMakeFiles/item-15.dir/item-15.cc.i
+	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-c++ && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-15.cc > CMakeFiles/item-15.dir/item-15.cc.i
 
 effective-c++/CMakeFiles/item-15.dir/item-15.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/item-15.dir/item-15.cc.s"
-	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-c++ && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-15.cc -o CMakeFiles/item-15.dir/item-15.cc.s
+	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-c++ && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-15.cc -o CMakeFiles/item-15.dir/item-15.cc.s
 
 # Object files for target item-15
 item__15_OBJECTS = \

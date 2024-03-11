@@ -1,1 +1,1 @@
-/usr/bin/c++ CMakeFiles/effective_modern_c++_05.dir/effective_modern_c++_05.cc.o -o ../bin/effective_modern_c++_05 
+/usr/bin/g++ CMakeFiles/effective_modern_c++_05.dir/effective_modern_c++_05.cc.o -o ../bin/effective_modern_c++_05 

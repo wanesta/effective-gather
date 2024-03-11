@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item05.cc
+cassert
+-
+unordered_map
+-
+vector
+-
+iostream
+-
+memory
+-
+functional
+-
+boost/type_index.hpp
+-
+

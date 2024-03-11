@@ -47,10 +47,10 @@ int main() {
     }
 
     {
-        std::auto_ptr<YaWenInvestment> pInv1(
+        std::shared_ptr<YaWenInvestment> pInv1(
                 (YaWenInvestment *)Investment::CreateInvestment(1));
         std::cout << "pInv1 point to: " << pInv1.get() << std::endl;
-        std::auto_ptr<YaWenInvestment> pInv2(pInv1);
+        std::shared_ptr<YaWenInvestment> pInv2(pInv1);
         std::cout << "pInv1 point to: " << pInv1.get()
                   << std::endl;
         std::cout << "pInv2 point to: " << pInv2.get() << std::endl;

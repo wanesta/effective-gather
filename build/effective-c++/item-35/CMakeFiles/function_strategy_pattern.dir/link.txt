@@ -1,1 +1,1 @@
-/usr/bin/c++ CMakeFiles/function_strategy_pattern.dir/function_strategy_pattern.cc.o CMakeFiles/function_strategy_pattern.dir/classic_strategy_pattern.cc.o -o ../../bin/function_strategy_pattern 
+/usr/bin/g++ -g CMakeFiles/function_strategy_pattern.dir/function_strategy_pattern.cc.o CMakeFiles/function_strategy_pattern.dir/classic_strategy_pattern.cc.o -o ../../bin/function_strategy_pattern 

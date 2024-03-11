@@ -1,1 +1,1 @@
-/usr/bin/c++ CMakeFiles/more_effective_c++_06.dir/more_effective_c++_06.cc.o -o ../bin/more_effective_c++_06 
+/usr/bin/g++ -g CMakeFiles/more_effective_c++_06.dir/more_effective_c++_06.cc.o -o ../bin/more_effective_c++_06 

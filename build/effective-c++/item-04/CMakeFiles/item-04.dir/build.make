@@ -73,29 +73,29 @@ effective-c++/item-04/CMakeFiles/item-04.dir/item-04.cc.o: effective-c++/item-04
 effective-c++/item-04/CMakeFiles/item-04.dir/item-04.cc.o: ../effective-c++/item-04/item-04.cc
 effective-c++/item-04/CMakeFiles/item-04.dir/item-04.cc.o: effective-c++/item-04/CMakeFiles/item-04.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/gaosm/Downloads/dev/effective-gather/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object effective-c++/item-04/CMakeFiles/item-04.dir/item-04.cc.o"
-	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-04 && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT effective-c++/item-04/CMakeFiles/item-04.dir/item-04.cc.o -MF CMakeFiles/item-04.dir/item-04.cc.o.d -o CMakeFiles/item-04.dir/item-04.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-04/item-04.cc
+	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-04 && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT effective-c++/item-04/CMakeFiles/item-04.dir/item-04.cc.o -MF CMakeFiles/item-04.dir/item-04.cc.o.d -o CMakeFiles/item-04.dir/item-04.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-04/item-04.cc
 
 effective-c++/item-04/CMakeFiles/item-04.dir/item-04.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/item-04.dir/item-04.cc.i"
-	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-04 && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-04/item-04.cc > CMakeFiles/item-04.dir/item-04.cc.i
+	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-04 && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-04/item-04.cc > CMakeFiles/item-04.dir/item-04.cc.i
 
 effective-c++/item-04/CMakeFiles/item-04.dir/item-04.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/item-04.dir/item-04.cc.s"
-	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-04 && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-04/item-04.cc -o CMakeFiles/item-04.dir/item-04.cc.s
+	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-04 && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-04/item-04.cc -o CMakeFiles/item-04.dir/item-04.cc.s
 
 effective-c++/item-04/CMakeFiles/item-04.dir/directory.cc.o: effective-c++/item-04/CMakeFiles/item-04.dir/flags.make
 effective-c++/item-04/CMakeFiles/item-04.dir/directory.cc.o: ../effective-c++/item-04/directory.cc
 effective-c++/item-04/CMakeFiles/item-04.dir/directory.cc.o: effective-c++/item-04/CMakeFiles/item-04.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/gaosm/Downloads/dev/effective-gather/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object effective-c++/item-04/CMakeFiles/item-04.dir/directory.cc.o"
-	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-04 && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT effective-c++/item-04/CMakeFiles/item-04.dir/directory.cc.o -MF CMakeFiles/item-04.dir/directory.cc.o.d -o CMakeFiles/item-04.dir/directory.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-04/directory.cc
+	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-04 && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT effective-c++/item-04/CMakeFiles/item-04.dir/directory.cc.o -MF CMakeFiles/item-04.dir/directory.cc.o.d -o CMakeFiles/item-04.dir/directory.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-04/directory.cc
 
 effective-c++/item-04/CMakeFiles/item-04.dir/directory.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/item-04.dir/directory.cc.i"
-	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-04 && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-04/directory.cc > CMakeFiles/item-04.dir/directory.cc.i
+	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-04 && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-04/directory.cc > CMakeFiles/item-04.dir/directory.cc.i
 
 effective-c++/item-04/CMakeFiles/item-04.dir/directory.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/item-04.dir/directory.cc.s"
-	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-04 && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-04/directory.cc -o CMakeFiles/item-04.dir/directory.cc.s
+	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-04 && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-04/directory.cc -o CMakeFiles/item-04.dir/directory.cc.s
 
 # Object files for target item-04
 item__04_OBJECTS = \

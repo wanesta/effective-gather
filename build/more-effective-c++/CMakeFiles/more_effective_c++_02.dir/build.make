@@ -73,15 +73,15 @@ more-effective-c++/CMakeFiles/more_effective_c++_02.dir/more_effective_c++_02.cc
 more-effective-c++/CMakeFiles/more_effective_c++_02.dir/more_effective_c++_02.cc.o: ../more-effective-c++/more_effective_c++_02.cc
 more-effective-c++/CMakeFiles/more_effective_c++_02.dir/more_effective_c++_02.cc.o: more-effective-c++/CMakeFiles/more_effective_c++_02.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/gaosm/Downloads/dev/effective-gather/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object more-effective-c++/CMakeFiles/more_effective_c++_02.dir/more_effective_c++_02.cc.o"
-	cd /home/gaosm/Downloads/dev/effective-gather/build/more-effective-c++ && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT more-effective-c++/CMakeFiles/more_effective_c++_02.dir/more_effective_c++_02.cc.o -MF CMakeFiles/more_effective_c++_02.dir/more_effective_c++_02.cc.o.d -o CMakeFiles/more_effective_c++_02.dir/more_effective_c++_02.cc.o -c /home/gaosm/Downloads/dev/effective-gather/more-effective-c++/more_effective_c++_02.cc
+	cd /home/gaosm/Downloads/dev/effective-gather/build/more-effective-c++ && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT more-effective-c++/CMakeFiles/more_effective_c++_02.dir/more_effective_c++_02.cc.o -MF CMakeFiles/more_effective_c++_02.dir/more_effective_c++_02.cc.o.d -o CMakeFiles/more_effective_c++_02.dir/more_effective_c++_02.cc.o -c /home/gaosm/Downloads/dev/effective-gather/more-effective-c++/more_effective_c++_02.cc
 
 more-effective-c++/CMakeFiles/more_effective_c++_02.dir/more_effective_c++_02.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/more_effective_c++_02.dir/more_effective_c++_02.cc.i"
-	cd /home/gaosm/Downloads/dev/effective-gather/build/more-effective-c++ && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/gaosm/Downloads/dev/effective-gather/more-effective-c++/more_effective_c++_02.cc > CMakeFiles/more_effective_c++_02.dir/more_effective_c++_02.cc.i
+	cd /home/gaosm/Downloads/dev/effective-gather/build/more-effective-c++ && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/gaosm/Downloads/dev/effective-gather/more-effective-c++/more_effective_c++_02.cc > CMakeFiles/more_effective_c++_02.dir/more_effective_c++_02.cc.i
 
 more-effective-c++/CMakeFiles/more_effective_c++_02.dir/more_effective_c++_02.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/more_effective_c++_02.dir/more_effective_c++_02.cc.s"
-	cd /home/gaosm/Downloads/dev/effective-gather/build/more-effective-c++ && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/gaosm/Downloads/dev/effective-gather/more-effective-c++/more_effective_c++_02.cc -o CMakeFiles/more_effective_c++_02.dir/more_effective_c++_02.cc.s
+	cd /home/gaosm/Downloads/dev/effective-gather/build/more-effective-c++ && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/gaosm/Downloads/dev/effective-gather/more-effective-c++/more_effective_c++_02.cc -o CMakeFiles/more_effective_c++_02.dir/more_effective_c++_02.cc.s
 
 # Object files for target more_effective_c++_02
 more_effective_c_______02_OBJECTS = \

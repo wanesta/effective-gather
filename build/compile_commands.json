@@ -1,0 +1,517 @@
+[
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-c++ -g -std=gnu++14 -o CMakeFiles/item-03.dir/item-03.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-03.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-c++/item-03.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-c++ -g -std=gnu++14 -o CMakeFiles/item-05.dir/item-05.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-05.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-c++/item-05.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-c++ -g -std=gnu++14 -o CMakeFiles/item-06.dir/item-06.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-06.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-c++/item-06.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-c++ -g -std=gnu++14 -o CMakeFiles/item-07.dir/item-07.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-07.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-c++/item-07.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-c++ -g -std=gnu++14 -o CMakeFiles/item-08.dir/item-08.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-08.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-c++/item-08.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-c++ -g -std=gnu++14 -o CMakeFiles/item-09.dir/item-09.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-09.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-c++/item-09.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-c++ -g -std=gnu++14 -o CMakeFiles/item-10.dir/item-10.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-10.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-c++/item-10.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-c++ -g -std=gnu++14 -o CMakeFiles/item-11.dir/item-11.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-11.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-c++/item-11.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-c++ -g -std=gnu++14 -o CMakeFiles/item-12.dir/item-12.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-12.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-c++/item-12.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-c++ -g -std=gnu++14 -o CMakeFiles/item-13.dir/item-13.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-13.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-c++/item-13.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-c++ -g -std=gnu++14 -o CMakeFiles/item-14.dir/item-14.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-14.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-c++/item-14.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-c++ -g -std=gnu++14 -o CMakeFiles/item-15.dir/item-15.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-15.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-c++/item-15.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-c++ -g -std=gnu++14 -o CMakeFiles/item-16.dir/item-16.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-16.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-c++/item-16.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-c++ -g -std=gnu++14 -o CMakeFiles/item-17.dir/item-17.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-17.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-c++/item-17.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-c++ -g -std=gnu++14 -o CMakeFiles/item-18.dir/item-18.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-18.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-c++/item-18.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-c++ -g -std=gnu++14 -o CMakeFiles/item-19.dir/item-19.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-19.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-c++/item-19.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-c++ -g -std=gnu++14 -o CMakeFiles/item-20.dir/item-20.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-20.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-c++/item-20.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-c++ -g -std=gnu++14 -o CMakeFiles/item-21.dir/item-21.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-21.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-c++/item-21.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-c++ -g -std=gnu++14 -o CMakeFiles/item-22.dir/item-22.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-22.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-c++/item-22.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-c++ -g -std=gnu++14 -o CMakeFiles/item-24.dir/item-24.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-24.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-c++/item-24.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-c++ -g -std=gnu++14 -o CMakeFiles/item-25.dir/item-25.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-25.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-c++/item-25.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-c++ -g -std=gnu++14 -o CMakeFiles/item-26.dir/item-26.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-26.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-c++/item-26.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-c++ -g -std=gnu++14 -o CMakeFiles/item-27.dir/item-27.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-27.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-c++/item-27.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-c++ -g -std=gnu++14 -o CMakeFiles/item-28.dir/item-28.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-28.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-c++/item-28.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-c++ -g -std=gnu++14 -o CMakeFiles/item-29.dir/item-29.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-29.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-c++/item-29.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-c++ -g -std=gnu++14 -o CMakeFiles/item-30.dir/item-30.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-30.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-c++/item-30.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-c++ -g -std=gnu++14 -o CMakeFiles/item-32.dir/item-32.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-32.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-c++/item-32.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-c++ -g -std=gnu++14 -o CMakeFiles/item-33.dir/item-33.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-33.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-c++/item-33.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-c++ -g -std=gnu++14 -o CMakeFiles/item-34.dir/item-34.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-34.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-c++/item-34.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-c++ -g -std=gnu++14 -o CMakeFiles/item-36.dir/item-36.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-36.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-c++/item-36.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-c++ -g -std=gnu++14 -o CMakeFiles/item-37.dir/item-37.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-37.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-c++/item-37.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-c++ -g -std=gnu++14 -o CMakeFiles/item-38.dir/item-38.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-38.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-c++/item-38.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-c++ -g -std=gnu++14 -o CMakeFiles/item-39.dir/item-39.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-39.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-c++/item-39.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-c++ -g -std=gnu++14 -o CMakeFiles/item-40.dir/item-40.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-40.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-c++/item-40.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-02",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-02 -I/home/gaosm/Downloads/dev/effective-gather/effective-c++/item-02 -g -std=gnu++14 -o CMakeFiles/item-02.dir/item-02.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-02/item-02.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-c++/item-02/item-02.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-04",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-04 -I/home/gaosm/Downloads/dev/effective-gather/effective-c++/item-04 -g -std=gnu++14 -o CMakeFiles/item-04.dir/item-04.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-04/item-04.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-c++/item-04/item-04.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-04",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-04 -I/home/gaosm/Downloads/dev/effective-gather/effective-c++/item-04 -g -std=gnu++14 -o CMakeFiles/item-04.dir/directory.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-04/directory.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-c++/item-04/directory.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-23",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-23 -I/home/gaosm/Downloads/dev/effective-gather/effective-c++/item-23 -g -std=gnu++14 -o CMakeFiles/webbrower.dir/webbrower.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-23/webbrower.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-c++/item-23/webbrower.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-23",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-23 -I/home/gaosm/Downloads/dev/effective-gather/effective-c++/item-23 -g -std=gnu++14 -o CMakeFiles/webbrower.dir/webbrowerbookmarks.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-23/webbrowerbookmarks.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-c++/item-23/webbrowerbookmarks.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-31",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-31 -I/home/gaosm/Downloads/dev/effective-gather/effective-c++/item-31 -g -std=gnu++14 -o CMakeFiles/item-31.dir/item-31.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-31/item-31.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-c++/item-31/item-31.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-31",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-31 -I/home/gaosm/Downloads/dev/effective-gather/effective-c++/item-31 -g -std=gnu++14 -o CMakeFiles/item-31.dir/Address.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-31/Address.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-c++/item-31/Address.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-31",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-31 -I/home/gaosm/Downloads/dev/effective-gather/effective-c++/item-31 -g -std=gnu++14 -o CMakeFiles/item-31.dir/Date.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-31/Date.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-c++/item-31/Date.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-31",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-31 -I/home/gaosm/Downloads/dev/effective-gather/effective-c++/item-31 -g -std=gnu++14 -o CMakeFiles/item-31.dir/Person.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-31/Person.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-c++/item-31/Person.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-31",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-31 -I/home/gaosm/Downloads/dev/effective-gather/effective-c++/item-31 -g -std=gnu++14 -o CMakeFiles/item-31.dir/PersonImpl.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-31/PersonImpl.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-c++/item-31/PersonImpl.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-35",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-35 -I/home/gaosm/Downloads/dev/effective-gather/effective-c++/item-35 -g -std=gnu++14 -o CMakeFiles/function_strategy_pattern.dir/function_strategy_pattern.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-35/function_strategy_pattern.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-c++/item-35/function_strategy_pattern.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-35",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-35 -I/home/gaosm/Downloads/dev/effective-gather/effective-c++/item-35 -g -std=gnu++14 -o CMakeFiles/function_strategy_pattern.dir/classic_strategy_pattern.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-35/classic_strategy_pattern.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-c++/item-35/classic_strategy_pattern.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++ -g -std=gnu++14 -o CMakeFiles/base-1.dir/base-1.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/base-1.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/base-1.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++ -g -std=gnu++14 -o CMakeFiles/base-2.dir/base-2.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/base-2.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/base-2.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++ -g -std=gnu++14 -o CMakeFiles/item01.dir/item01.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item01.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item01.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++ -g -std=gnu++14 -o CMakeFiles/item02.dir/item02.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item02.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item02.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++ -g -std=gnu++14 -o CMakeFiles/item03.dir/item03.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item03.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item03.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++ -g -std=gnu++14 -o CMakeFiles/item04.dir/item04.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item04.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item04.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++ -g -std=gnu++14 -o CMakeFiles/item05.dir/item05.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item05.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item05.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++ -g -std=gnu++14 -o CMakeFiles/item06.dir/item06.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item06.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item06.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++ -g -std=gnu++14 -o CMakeFiles/item07.dir/item07.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item07.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item07.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++ -g -std=gnu++14 -o CMakeFiles/item08.dir/item08.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item08.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item08.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++ -g -std=gnu++14 -o CMakeFiles/item09.dir/item09.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item09.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item09.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++ -g -std=gnu++14 -o CMakeFiles/item10.dir/item10.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item10.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item10.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++ -g -std=gnu++14 -o CMakeFiles/item11.dir/item11.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item11.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item11.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++ -g -std=gnu++14 -o CMakeFiles/item12.dir/item12.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item12.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item12.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++ -g -std=gnu++14 -o CMakeFiles/item13.dir/item13.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item13.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item13.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++ -g -std=gnu++14 -o CMakeFiles/item14.dir/item14.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item14.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item14.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++ -g -std=gnu++14 -o CMakeFiles/item15.dir/item15.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item15.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item15.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++ -g -std=gnu++14 -o CMakeFiles/item16.dir/item16.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item16.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item16.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++ -g -std=gnu++14 -o CMakeFiles/item17.dir/item17.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item17.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item17.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++ -g -std=gnu++14 -o CMakeFiles/item18.dir/item18.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item18.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item18.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++ -g -std=gnu++14 -o CMakeFiles/item19.dir/item19.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item19.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item19.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++ -g -std=gnu++14 -o CMakeFiles/item20.dir/item20.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item20.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item20.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++ -g -std=gnu++14 -o CMakeFiles/item21.dir/item21.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item21.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item21.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++ -g -std=gnu++14 -o CMakeFiles/item22.dir/item22.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item22.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item22.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++ -g -std=gnu++14 -o CMakeFiles/item23.dir/item23.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item23.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item23.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++ -g -std=gnu++14 -o CMakeFiles/item24.dir/item24.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item24.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item24.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++ -g -std=gnu++14 -o CMakeFiles/item25.dir/item25.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item25.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item25.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++ -g -std=gnu++14 -o CMakeFiles/item26.dir/item26.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item26.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item26.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++ -g -std=gnu++14 -o CMakeFiles/item27.dir/item27.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item27.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item27.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++ -g -std=gnu++14 -o CMakeFiles/item28.dir/item28.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item28.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item28.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++ -g -std=gnu++14 -o CMakeFiles/item29.dir/item29.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item29.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item29.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++ -g -std=gnu++14 -o CMakeFiles/item30.dir/item30.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item30.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item30.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++ -g -std=gnu++14 -o CMakeFiles/item31.dir/item31.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item31.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item31.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++ -g -std=gnu++14 -o CMakeFiles/item32.dir/item32.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item32.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item32.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++ -g -std=gnu++14 -o CMakeFiles/item33.dir/item33.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item33.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item33.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++ -g -std=gnu++14 -o CMakeFiles/item34.dir/item34.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item34.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item34.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++ -g -std=gnu++14 -o CMakeFiles/item35.dir/item35.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item35.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item35.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++ -g -std=gnu++14 -o CMakeFiles/item36.dir/item36.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item36.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item36.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++ -g -std=gnu++14 -o CMakeFiles/item37.dir/item37.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item37.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item37.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++ -g -std=gnu++14 -o CMakeFiles/item38.dir/item38.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item38.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item38.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++ -g -std=gnu++14 -o CMakeFiles/item39.dir/item39.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item39.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item39.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++ -g -std=gnu++14 -o CMakeFiles/item40.dir/item40.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item40.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item40.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++ -g -std=gnu++14 -o CMakeFiles/item41.dir/item41.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item41.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item41.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++ -g -std=gnu++14 -o CMakeFiles/item42.dir/item42.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item42.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item42.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-stl-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-stl-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-stl-c++ -g -std=gnu++14 -o CMakeFiles/effective_stl_01.dir/effective_stl_01.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-stl-c++/effective_stl_01.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-stl-c++/effective_stl_01.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-stl-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-stl-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-stl-c++ -g -std=gnu++14 -o CMakeFiles/effective_stl_02.dir/effective_stl_02.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-stl-c++/effective_stl_02.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-stl-c++/effective_stl_02.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-stl-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-stl-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-stl-c++ -g -std=gnu++14 -o CMakeFiles/effective_stl_03.dir/effective_stl_03.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-stl-c++/effective_stl_03.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-stl-c++/effective_stl_03.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-stl-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-stl-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-stl-c++ -g -std=gnu++14 -o CMakeFiles/effective_stl_04.dir/effective_stl_04.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-stl-c++/effective_stl_04.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-stl-c++/effective_stl_04.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-stl-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-stl-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-stl-c++ -g -std=gnu++14 -o CMakeFiles/effective_stl_05.dir/effective_stl_05.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-stl-c++/effective_stl_05.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-stl-c++/effective_stl_05.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-stl-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-stl-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-stl-c++ -g -std=gnu++14 -o CMakeFiles/effective_stl_06.dir/effective_stl_06.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-stl-c++/effective_stl_06.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-stl-c++/effective_stl_06.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/effective-stl-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/effective-stl-c++ -I/home/gaosm/Downloads/dev/effective-gather/effective-stl-c++ -g -std=gnu++14 -o CMakeFiles/effective_stl_07.dir/effective_stl_07.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-stl-c++/effective_stl_07.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/effective-stl-c++/effective_stl_07.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/more-effective-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/more-effective-c++ -I/home/gaosm/Downloads/dev/effective-gather/more-effective-c++ -g -std=gnu++14 -o CMakeFiles/more_effective_c++_01.dir/more_effective_c++_01.cc.o -c /home/gaosm/Downloads/dev/effective-gather/more-effective-c++/more_effective_c++_01.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/more-effective-c++/more_effective_c++_01.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/more-effective-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/more-effective-c++ -I/home/gaosm/Downloads/dev/effective-gather/more-effective-c++ -g -std=gnu++14 -o CMakeFiles/more_effective_c++_02.dir/more_effective_c++_02.cc.o -c /home/gaosm/Downloads/dev/effective-gather/more-effective-c++/more_effective_c++_02.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/more-effective-c++/more_effective_c++_02.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/more-effective-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/more-effective-c++ -I/home/gaosm/Downloads/dev/effective-gather/more-effective-c++ -g -std=gnu++14 -o CMakeFiles/more_effective_c++_03.dir/more_effective_c++_03.cc.o -c /home/gaosm/Downloads/dev/effective-gather/more-effective-c++/more_effective_c++_03.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/more-effective-c++/more_effective_c++_03.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/more-effective-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/more-effective-c++ -I/home/gaosm/Downloads/dev/effective-gather/more-effective-c++ -g -std=gnu++14 -o CMakeFiles/more_effective_c++_04.dir/more_effective_c++_04.cc.o -c /home/gaosm/Downloads/dev/effective-gather/more-effective-c++/more_effective_c++_04.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/more-effective-c++/more_effective_c++_04.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/more-effective-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/more-effective-c++ -I/home/gaosm/Downloads/dev/effective-gather/more-effective-c++ -g -std=gnu++14 -o CMakeFiles/more_effective_c++_05.dir/more_effective_c++_05.cc.o -c /home/gaosm/Downloads/dev/effective-gather/more-effective-c++/more_effective_c++_05.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/more-effective-c++/more_effective_c++_05.cc"
+},
+{
+  "directory": "/home/gaosm/Downloads/dev/effective-gather/build/more-effective-c++",
+  "command": "/usr/bin/g++  -I/home/gaosm/Downloads/dev/effective-gather/build/more-effective-c++ -I/home/gaosm/Downloads/dev/effective-gather/more-effective-c++ -g -std=gnu++14 -o CMakeFiles/more_effective_c++_06.dir/more_effective_c++_06.cc.o -c /home/gaosm/Downloads/dev/effective-gather/more-effective-c++/more_effective_c++_06.cc",
+  "file": "/home/gaosm/Downloads/dev/effective-gather/more-effective-c++/more_effective_c++_06.cc"
+}
+]

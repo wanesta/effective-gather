@@ -9,4 +9,10 @@
 /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-40.cc
 iostream
 -
+memory
+-
+string.h
+-
+cstring
+-
 

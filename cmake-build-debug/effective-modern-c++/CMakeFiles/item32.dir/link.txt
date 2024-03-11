@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/item32.dir/item32.cc.o -o ../bin/item32 

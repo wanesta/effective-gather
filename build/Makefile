@@ -559,695 +559,6 @@ item-40/fast:
 .PHONY : item-40/fast
 
 #=============================================================================
-# Target rules for targets named effective_c++_item_01
-
-# Build rule for target.
-effective_c++_item_01: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective_c++_item_01
-.PHONY : effective_c++_item_01
-
-# fast build rule for target.
-effective_c++_item_01/fast:
-	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_item_01.dir/build.make effective-c++/CMakeFiles/effective_c++_item_01.dir/build
-.PHONY : effective_c++_item_01/fast
-
-#=============================================================================
-# Target rules for targets named effective_c++_item_02
-
-# Build rule for target.
-effective_c++_item_02: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective_c++_item_02
-.PHONY : effective_c++_item_02
-
-# fast build rule for target.
-effective_c++_item_02/fast:
-	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_item_02.dir/build.make effective-c++/CMakeFiles/effective_c++_item_02.dir/build
-.PHONY : effective_c++_item_02/fast
-
-#=============================================================================
-# Target rules for targets named effective_c++_item_03
-
-# Build rule for target.
-effective_c++_item_03: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective_c++_item_03
-.PHONY : effective_c++_item_03
-
-# fast build rule for target.
-effective_c++_item_03/fast:
-	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_item_03.dir/build.make effective-c++/CMakeFiles/effective_c++_item_03.dir/build
-.PHONY : effective_c++_item_03/fast
-
-#=============================================================================
-# Target rules for targets named effective_c++_item_04
-
-# Build rule for target.
-effective_c++_item_04: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective_c++_item_04
-.PHONY : effective_c++_item_04
-
-# fast build rule for target.
-effective_c++_item_04/fast:
-	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_item_04.dir/build.make effective-c++/CMakeFiles/effective_c++_item_04.dir/build
-.PHONY : effective_c++_item_04/fast
-
-#=============================================================================
-# Target rules for targets named effective_c++_item_05
-
-# Build rule for target.
-effective_c++_item_05: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective_c++_item_05
-.PHONY : effective_c++_item_05
-
-# fast build rule for target.
-effective_c++_item_05/fast:
-	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_item_05.dir/build.make effective-c++/CMakeFiles/effective_c++_item_05.dir/build
-.PHONY : effective_c++_item_05/fast
-
-#=============================================================================
-# Target rules for targets named effective_c++_item_06
-
-# Build rule for target.
-effective_c++_item_06: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective_c++_item_06
-.PHONY : effective_c++_item_06
-
-# fast build rule for target.
-effective_c++_item_06/fast:
-	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_item_06.dir/build.make effective-c++/CMakeFiles/effective_c++_item_06.dir/build
-.PHONY : effective_c++_item_06/fast
-
-#=============================================================================
-# Target rules for targets named effective_c++_item_07
-
-# Build rule for target.
-effective_c++_item_07: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective_c++_item_07
-.PHONY : effective_c++_item_07
-
-# fast build rule for target.
-effective_c++_item_07/fast:
-	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_item_07.dir/build.make effective-c++/CMakeFiles/effective_c++_item_07.dir/build
-.PHONY : effective_c++_item_07/fast
-
-#=============================================================================
-# Target rules for targets named effective_c++_item_08
-
-# Build rule for target.
-effective_c++_item_08: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective_c++_item_08
-.PHONY : effective_c++_item_08
-
-# fast build rule for target.
-effective_c++_item_08/fast:
-	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_item_08.dir/build.make effective-c++/CMakeFiles/effective_c++_item_08.dir/build
-.PHONY : effective_c++_item_08/fast
-
-#=============================================================================
-# Target rules for targets named effective_c++_item_09
-
-# Build rule for target.
-effective_c++_item_09: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective_c++_item_09
-.PHONY : effective_c++_item_09
-
-# fast build rule for target.
-effective_c++_item_09/fast:
-	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_item_09.dir/build.make effective-c++/CMakeFiles/effective_c++_item_09.dir/build
-.PHONY : effective_c++_item_09/fast
-
-#=============================================================================
-# Target rules for targets named effective_c++_item_10
-
-# Build rule for target.
-effective_c++_item_10: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective_c++_item_10
-.PHONY : effective_c++_item_10
-
-# fast build rule for target.
-effective_c++_item_10/fast:
-	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_item_10.dir/build.make effective-c++/CMakeFiles/effective_c++_item_10.dir/build
-.PHONY : effective_c++_item_10/fast
-
-#=============================================================================
-# Target rules for targets named effective_C++_item_11
-
-# Build rule for target.
-effective_C++_item_11: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective_C++_item_11
-.PHONY : effective_C++_item_11
-
-# fast build rule for target.
-effective_C++_item_11/fast:
-	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_C++_item_11.dir/build.make effective-c++/CMakeFiles/effective_C++_item_11.dir/build
-.PHONY : effective_C++_item_11/fast
-
-#=============================================================================
-# Target rules for targets named effective_c++_item_12
-
-# Build rule for target.
-effective_c++_item_12: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective_c++_item_12
-.PHONY : effective_c++_item_12
-
-# fast build rule for target.
-effective_c++_item_12/fast:
-	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_item_12.dir/build.make effective-c++/CMakeFiles/effective_c++_item_12.dir/build
-.PHONY : effective_c++_item_12/fast
-
-#=============================================================================
-# Target rules for targets named effective_c++_item_13
-
-# Build rule for target.
-effective_c++_item_13: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective_c++_item_13
-.PHONY : effective_c++_item_13
-
-# fast build rule for target.
-effective_c++_item_13/fast:
-	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_item_13.dir/build.make effective-c++/CMakeFiles/effective_c++_item_13.dir/build
-.PHONY : effective_c++_item_13/fast
-
-#=============================================================================
-# Target rules for targets named effective_c++_item_14
-
-# Build rule for target.
-effective_c++_item_14: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective_c++_item_14
-.PHONY : effective_c++_item_14
-
-# fast build rule for target.
-effective_c++_item_14/fast:
-	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_item_14.dir/build.make effective-c++/CMakeFiles/effective_c++_item_14.dir/build
-.PHONY : effective_c++_item_14/fast
-
-#=============================================================================
-# Target rules for targets named effective_c++_item_15
-
-# Build rule for target.
-effective_c++_item_15: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective_c++_item_15
-.PHONY : effective_c++_item_15
-
-# fast build rule for target.
-effective_c++_item_15/fast:
-	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_item_15.dir/build.make effective-c++/CMakeFiles/effective_c++_item_15.dir/build
-.PHONY : effective_c++_item_15/fast
-
-#=============================================================================
-# Target rules for targets named effective_c++_item_16
-
-# Build rule for target.
-effective_c++_item_16: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective_c++_item_16
-.PHONY : effective_c++_item_16
-
-# fast build rule for target.
-effective_c++_item_16/fast:
-	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_item_16.dir/build.make effective-c++/CMakeFiles/effective_c++_item_16.dir/build
-.PHONY : effective_c++_item_16/fast
-
-#=============================================================================
-# Target rules for targets named effective_c++_item_17
-
-# Build rule for target.
-effective_c++_item_17: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective_c++_item_17
-.PHONY : effective_c++_item_17
-
-# fast build rule for target.
-effective_c++_item_17/fast:
-	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_item_17.dir/build.make effective-c++/CMakeFiles/effective_c++_item_17.dir/build
-.PHONY : effective_c++_item_17/fast
-
-#=============================================================================
-# Target rules for targets named effective_c++_item_18
-
-# Build rule for target.
-effective_c++_item_18: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective_c++_item_18
-.PHONY : effective_c++_item_18
-
-# fast build rule for target.
-effective_c++_item_18/fast:
-	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_item_18.dir/build.make effective-c++/CMakeFiles/effective_c++_item_18.dir/build
-.PHONY : effective_c++_item_18/fast
-
-#=============================================================================
-# Target rules for targets named effective_c++_item_19
-
-# Build rule for target.
-effective_c++_item_19: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective_c++_item_19
-.PHONY : effective_c++_item_19
-
-# fast build rule for target.
-effective_c++_item_19/fast:
-	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_item_19.dir/build.make effective-c++/CMakeFiles/effective_c++_item_19.dir/build
-.PHONY : effective_c++_item_19/fast
-
-#=============================================================================
-# Target rules for targets named effective_c++_item_20
-
-# Build rule for target.
-effective_c++_item_20: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective_c++_item_20
-.PHONY : effective_c++_item_20
-
-# fast build rule for target.
-effective_c++_item_20/fast:
-	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_item_20.dir/build.make effective-c++/CMakeFiles/effective_c++_item_20.dir/build
-.PHONY : effective_c++_item_20/fast
-
-#=============================================================================
-# Target rules for targets named effective_c++_item_21
-
-# Build rule for target.
-effective_c++_item_21: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective_c++_item_21
-.PHONY : effective_c++_item_21
-
-# fast build rule for target.
-effective_c++_item_21/fast:
-	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_item_21.dir/build.make effective-c++/CMakeFiles/effective_c++_item_21.dir/build
-.PHONY : effective_c++_item_21/fast
-
-#=============================================================================
-# Target rules for targets named effective_c++_item_22
-
-# Build rule for target.
-effective_c++_item_22: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective_c++_item_22
-.PHONY : effective_c++_item_22
-
-# fast build rule for target.
-effective_c++_item_22/fast:
-	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_item_22.dir/build.make effective-c++/CMakeFiles/effective_c++_item_22.dir/build
-.PHONY : effective_c++_item_22/fast
-
-#=============================================================================
-# Target rules for targets named effective_c++_item_23
-
-# Build rule for target.
-effective_c++_item_23: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective_c++_item_23
-.PHONY : effective_c++_item_23
-
-# fast build rule for target.
-effective_c++_item_23/fast:
-	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_item_23.dir/build.make effective-c++/CMakeFiles/effective_c++_item_23.dir/build
-.PHONY : effective_c++_item_23/fast
-
-#=============================================================================
-# Target rules for targets named effective_c++_item_24
-
-# Build rule for target.
-effective_c++_item_24: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective_c++_item_24
-.PHONY : effective_c++_item_24
-
-# fast build rule for target.
-effective_c++_item_24/fast:
-	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_item_24.dir/build.make effective-c++/CMakeFiles/effective_c++_item_24.dir/build
-.PHONY : effective_c++_item_24/fast
-
-#=============================================================================
-# Target rules for targets named effective_c++_item_25
-
-# Build rule for target.
-effective_c++_item_25: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective_c++_item_25
-.PHONY : effective_c++_item_25
-
-# fast build rule for target.
-effective_c++_item_25/fast:
-	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_item_25.dir/build.make effective-c++/CMakeFiles/effective_c++_item_25.dir/build
-.PHONY : effective_c++_item_25/fast
-
-#=============================================================================
-# Target rules for targets named effective_c++_item_26
-
-# Build rule for target.
-effective_c++_item_26: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective_c++_item_26
-.PHONY : effective_c++_item_26
-
-# fast build rule for target.
-effective_c++_item_26/fast:
-	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_item_26.dir/build.make effective-c++/CMakeFiles/effective_c++_item_26.dir/build
-.PHONY : effective_c++_item_26/fast
-
-#=============================================================================
-# Target rules for targets named effective_c++_item_27
-
-# Build rule for target.
-effective_c++_item_27: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective_c++_item_27
-.PHONY : effective_c++_item_27
-
-# fast build rule for target.
-effective_c++_item_27/fast:
-	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_item_27.dir/build.make effective-c++/CMakeFiles/effective_c++_item_27.dir/build
-.PHONY : effective_c++_item_27/fast
-
-#=============================================================================
-# Target rules for targets named effective_c++_item_28
-
-# Build rule for target.
-effective_c++_item_28: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective_c++_item_28
-.PHONY : effective_c++_item_28
-
-# fast build rule for target.
-effective_c++_item_28/fast:
-	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_item_28.dir/build.make effective-c++/CMakeFiles/effective_c++_item_28.dir/build
-.PHONY : effective_c++_item_28/fast
-
-#=============================================================================
-# Target rules for targets named effective_c++_item_29
-
-# Build rule for target.
-effective_c++_item_29: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective_c++_item_29
-.PHONY : effective_c++_item_29
-
-# fast build rule for target.
-effective_c++_item_29/fast:
-	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_item_29.dir/build.make effective-c++/CMakeFiles/effective_c++_item_29.dir/build
-.PHONY : effective_c++_item_29/fast
-
-#=============================================================================
-# Target rules for targets named effective_c++_item_30
-
-# Build rule for target.
-effective_c++_item_30: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective_c++_item_30
-.PHONY : effective_c++_item_30
-
-# fast build rule for target.
-effective_c++_item_30/fast:
-	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_item_30.dir/build.make effective-c++/CMakeFiles/effective_c++_item_30.dir/build
-.PHONY : effective_c++_item_30/fast
-
-#=============================================================================
-# Target rules for targets named effective_c++_item_31
-
-# Build rule for target.
-effective_c++_item_31: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective_c++_item_31
-.PHONY : effective_c++_item_31
-
-# fast build rule for target.
-effective_c++_item_31/fast:
-	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_item_31.dir/build.make effective-c++/CMakeFiles/effective_c++_item_31.dir/build
-.PHONY : effective_c++_item_31/fast
-
-#=============================================================================
-# Target rules for targets named effective_c++_item_33
-
-# Build rule for target.
-effective_c++_item_33: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective_c++_item_33
-.PHONY : effective_c++_item_33
-
-# fast build rule for target.
-effective_c++_item_33/fast:
-	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_item_33.dir/build.make effective-c++/CMakeFiles/effective_c++_item_33.dir/build
-.PHONY : effective_c++_item_33/fast
-
-#=============================================================================
-# Target rules for targets named effective_c++_item_34
-
-# Build rule for target.
-effective_c++_item_34: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective_c++_item_34
-.PHONY : effective_c++_item_34
-
-# fast build rule for target.
-effective_c++_item_34/fast:
-	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_item_34.dir/build.make effective-c++/CMakeFiles/effective_c++_item_34.dir/build
-.PHONY : effective_c++_item_34/fast
-
-#=============================================================================
-# Target rules for targets named effective_c++_item_36
-
-# Build rule for target.
-effective_c++_item_36: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective_c++_item_36
-.PHONY : effective_c++_item_36
-
-# fast build rule for target.
-effective_c++_item_36/fast:
-	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_item_36.dir/build.make effective-c++/CMakeFiles/effective_c++_item_36.dir/build
-.PHONY : effective_c++_item_36/fast
-
-#=============================================================================
-# Target rules for targets named effective_c++_item_37
-
-# Build rule for target.
-effective_c++_item_37: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective_c++_item_37
-.PHONY : effective_c++_item_37
-
-# fast build rule for target.
-effective_c++_item_37/fast:
-	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_item_37.dir/build.make effective-c++/CMakeFiles/effective_c++_item_37.dir/build
-.PHONY : effective_c++_item_37/fast
-
-#=============================================================================
-# Target rules for targets named effective_c++_item_38
-
-# Build rule for target.
-effective_c++_item_38: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective_c++_item_38
-.PHONY : effective_c++_item_38
-
-# fast build rule for target.
-effective_c++_item_38/fast:
-	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_item_38.dir/build.make effective-c++/CMakeFiles/effective_c++_item_38.dir/build
-.PHONY : effective_c++_item_38/fast
-
-#=============================================================================
-# Target rules for targets named effective_c++_item_39
-
-# Build rule for target.
-effective_c++_item_39: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective_c++_item_39
-.PHONY : effective_c++_item_39
-
-# fast build rule for target.
-effective_c++_item_39/fast:
-	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_item_39.dir/build.make effective-c++/CMakeFiles/effective_c++_item_39.dir/build
-.PHONY : effective_c++_item_39/fast
-
-#=============================================================================
-# Target rules for targets named effective_c++_item_40
-
-# Build rule for target.
-effective_c++_item_40: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective_c++_item_40
-.PHONY : effective_c++_item_40
-
-# fast build rule for target.
-effective_c++_item_40/fast:
-	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_item_40.dir/build.make effective-c++/CMakeFiles/effective_c++_item_40.dir/build
-.PHONY : effective_c++_item_40/fast
-
-#=============================================================================
-# Target rules for targets named effective_c++_item_41
-
-# Build rule for target.
-effective_c++_item_41: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective_c++_item_41
-.PHONY : effective_c++_item_41
-
-# fast build rule for target.
-effective_c++_item_41/fast:
-	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_item_41.dir/build.make effective-c++/CMakeFiles/effective_c++_item_41.dir/build
-.PHONY : effective_c++_item_41/fast
-
-#=============================================================================
-# Target rules for targets named effective_c++_item_42
-
-# Build rule for target.
-effective_c++_item_42: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective_c++_item_42
-.PHONY : effective_c++_item_42
-
-# fast build rule for target.
-effective_c++_item_42/fast:
-	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_item_42.dir/build.make effective-c++/CMakeFiles/effective_c++_item_42.dir/build
-.PHONY : effective_c++_item_42/fast
-
-#=============================================================================
-# Target rules for targets named effective_c++_item_43
-
-# Build rule for target.
-effective_c++_item_43: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective_c++_item_43
-.PHONY : effective_c++_item_43
-
-# fast build rule for target.
-effective_c++_item_43/fast:
-	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_item_43.dir/build.make effective-c++/CMakeFiles/effective_c++_item_43.dir/build
-.PHONY : effective_c++_item_43/fast
-
-#=============================================================================
-# Target rules for targets named effective_c++_item_44
-
-# Build rule for target.
-effective_c++_item_44: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective_c++_item_44
-.PHONY : effective_c++_item_44
-
-# fast build rule for target.
-effective_c++_item_44/fast:
-	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_item_44.dir/build.make effective-c++/CMakeFiles/effective_c++_item_44.dir/build
-.PHONY : effective_c++_item_44/fast
-
-#=============================================================================
-# Target rules for targets named effective_c++_item_45
-
-# Build rule for target.
-effective_c++_item_45: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective_c++_item_45
-.PHONY : effective_c++_item_45
-
-# fast build rule for target.
-effective_c++_item_45/fast:
-	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_item_45.dir/build.make effective-c++/CMakeFiles/effective_c++_item_45.dir/build
-.PHONY : effective_c++_item_45/fast
-
-#=============================================================================
-# Target rules for targets named effective_c++_item_46
-
-# Build rule for target.
-effective_c++_item_46: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective_c++_item_46
-.PHONY : effective_c++_item_46
-
-# fast build rule for target.
-effective_c++_item_46/fast:
-	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_item_46.dir/build.make effective-c++/CMakeFiles/effective_c++_item_46.dir/build
-.PHONY : effective_c++_item_46/fast
-
-#=============================================================================
-# Target rules for targets named effective_c++_item_47
-
-# Build rule for target.
-effective_c++_item_47: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective_c++_item_47
-.PHONY : effective_c++_item_47
-
-# fast build rule for target.
-effective_c++_item_47/fast:
-	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_item_47.dir/build.make effective-c++/CMakeFiles/effective_c++_item_47.dir/build
-.PHONY : effective_c++_item_47/fast
-
-#=============================================================================
-# Target rules for targets named effective_c++_item_48
-
-# Build rule for target.
-effective_c++_item_48: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective_c++_item_48
-.PHONY : effective_c++_item_48
-
-# fast build rule for target.
-effective_c++_item_48/fast:
-	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_item_48.dir/build.make effective-c++/CMakeFiles/effective_c++_item_48.dir/build
-.PHONY : effective_c++_item_48/fast
-
-#=============================================================================
-# Target rules for targets named effective_c++_item_49
-
-# Build rule for target.
-effective_c++_item_49: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective_c++_item_49
-.PHONY : effective_c++_item_49
-
-# fast build rule for target.
-effective_c++_item_49/fast:
-	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_item_49.dir/build.make effective-c++/CMakeFiles/effective_c++_item_49.dir/build
-.PHONY : effective_c++_item_49/fast
-
-#=============================================================================
-# Target rules for targets named effective_c++_item_50
-
-# Build rule for target.
-effective_c++_item_50: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective_c++_item_50
-.PHONY : effective_c++_item_50
-
-# fast build rule for target.
-effective_c++_item_50/fast:
-	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_item_50.dir/build.make effective-c++/CMakeFiles/effective_c++_item_50.dir/build
-.PHONY : effective_c++_item_50/fast
-
-#=============================================================================
-# Target rules for targets named effective_c++_item_51
-
-# Build rule for target.
-effective_c++_item_51: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective_c++_item_51
-.PHONY : effective_c++_item_51
-
-# fast build rule for target.
-effective_c++_item_51/fast:
-	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_item_51.dir/build.make effective-c++/CMakeFiles/effective_c++_item_51.dir/build
-.PHONY : effective_c++_item_51/fast
-
-#=============================================================================
-# Target rules for targets named effective_c++_item_52
-
-# Build rule for target.
-effective_c++_item_52: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective_c++_item_52
-.PHONY : effective_c++_item_52
-
-# fast build rule for target.
-effective_c++_item_52/fast:
-	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_item_52.dir/build.make effective-c++/CMakeFiles/effective_c++_item_52.dir/build
-.PHONY : effective_c++_item_52/fast
-
-#=============================================================================
-# Target rules for targets named effective_c++_item_53
-
-# Build rule for target.
-effective_c++_item_53: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective_c++_item_53
-.PHONY : effective_c++_item_53
-
-# fast build rule for target.
-effective_c++_item_53/fast:
-	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_item_53.dir/build.make effective-c++/CMakeFiles/effective_c++_item_53.dir/build
-.PHONY : effective_c++_item_53/fast
-
-#=============================================================================
-# Target rules for targets named effective_c++_item_54
-
-# Build rule for target.
-effective_c++_item_54: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective_c++_item_54
-.PHONY : effective_c++_item_54
-
-# fast build rule for target.
-effective_c++_item_54/fast:
-	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_item_54.dir/build.make effective-c++/CMakeFiles/effective_c++_item_54.dir/build
-.PHONY : effective_c++_item_54/fast
-
-#=============================================================================
-# Target rules for targets named effective_c++_item_55
-
-# Build rule for target.
-effective_c++_item_55: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective_c++_item_55
-.PHONY : effective_c++_item_55
-
-# fast build rule for target.
-effective_c++_item_55/fast:
-	$(MAKE) $(MAKESILENT) -f effective-c++/CMakeFiles/effective_c++_item_55.dir/build.make effective-c++/CMakeFiles/effective_c++_item_55.dir/build
-.PHONY : effective_c++_item_55/fast
-
-#=============================================================================
 # Target rules for targets named item-02
 
 # Build rule for target.
@@ -1313,69 +624,576 @@ function_strategy_pattern/fast:
 .PHONY : function_strategy_pattern/fast
 
 #=============================================================================
-# Target rules for targets named effective_modern_c++_01
+# Target rules for targets named base-1
 
 # Build rule for target.
-effective_modern_c++_01: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective_modern_c++_01
-.PHONY : effective_modern_c++_01
+base-1: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 base-1
+.PHONY : base-1
 
 # fast build rule for target.
-effective_modern_c++_01/fast:
-	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/effective_modern_c++_01.dir/build.make effective-modern-c++/CMakeFiles/effective_modern_c++_01.dir/build
-.PHONY : effective_modern_c++_01/fast
+base-1/fast:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/base-1.dir/build.make effective-modern-c++/CMakeFiles/base-1.dir/build
+.PHONY : base-1/fast
 
 #=============================================================================
-# Target rules for targets named effective_modern_c++_02
+# Target rules for targets named base-2
 
 # Build rule for target.
-effective_modern_c++_02: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective_modern_c++_02
-.PHONY : effective_modern_c++_02
+base-2: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 base-2
+.PHONY : base-2
 
 # fast build rule for target.
-effective_modern_c++_02/fast:
-	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/effective_modern_c++_02.dir/build.make effective-modern-c++/CMakeFiles/effective_modern_c++_02.dir/build
-.PHONY : effective_modern_c++_02/fast
+base-2/fast:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/base-2.dir/build.make effective-modern-c++/CMakeFiles/base-2.dir/build
+.PHONY : base-2/fast
 
 #=============================================================================
-# Target rules for targets named effective_modern_c++_03
+# Target rules for targets named item01
 
 # Build rule for target.
-effective_modern_c++_03: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective_modern_c++_03
-.PHONY : effective_modern_c++_03
+item01: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 item01
+.PHONY : item01
 
 # fast build rule for target.
-effective_modern_c++_03/fast:
-	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/effective_modern_c++_03.dir/build.make effective-modern-c++/CMakeFiles/effective_modern_c++_03.dir/build
-.PHONY : effective_modern_c++_03/fast
+item01/fast:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item01.dir/build.make effective-modern-c++/CMakeFiles/item01.dir/build
+.PHONY : item01/fast
 
 #=============================================================================
-# Target rules for targets named effective_modern_c++_04
+# Target rules for targets named item02
 
 # Build rule for target.
-effective_modern_c++_04: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective_modern_c++_04
-.PHONY : effective_modern_c++_04
+item02: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 item02
+.PHONY : item02
 
 # fast build rule for target.
-effective_modern_c++_04/fast:
-	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/effective_modern_c++_04.dir/build.make effective-modern-c++/CMakeFiles/effective_modern_c++_04.dir/build
-.PHONY : effective_modern_c++_04/fast
+item02/fast:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item02.dir/build.make effective-modern-c++/CMakeFiles/item02.dir/build
+.PHONY : item02/fast
 
 #=============================================================================
-# Target rules for targets named effective_modern_c++_05
+# Target rules for targets named item03
 
 # Build rule for target.
-effective_modern_c++_05: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 effective_modern_c++_05
-.PHONY : effective_modern_c++_05
+item03: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 item03
+.PHONY : item03
 
 # fast build rule for target.
-effective_modern_c++_05/fast:
-	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/effective_modern_c++_05.dir/build.make effective-modern-c++/CMakeFiles/effective_modern_c++_05.dir/build
-.PHONY : effective_modern_c++_05/fast
+item03/fast:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item03.dir/build.make effective-modern-c++/CMakeFiles/item03.dir/build
+.PHONY : item03/fast
+
+#=============================================================================
+# Target rules for targets named item04
+
+# Build rule for target.
+item04: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 item04
+.PHONY : item04
+
+# fast build rule for target.
+item04/fast:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item04.dir/build.make effective-modern-c++/CMakeFiles/item04.dir/build
+.PHONY : item04/fast
+
+#=============================================================================
+# Target rules for targets named item05
+
+# Build rule for target.
+item05: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 item05
+.PHONY : item05
+
+# fast build rule for target.
+item05/fast:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item05.dir/build.make effective-modern-c++/CMakeFiles/item05.dir/build
+.PHONY : item05/fast
+
+#=============================================================================
+# Target rules for targets named item06
+
+# Build rule for target.
+item06: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 item06
+.PHONY : item06
+
+# fast build rule for target.
+item06/fast:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item06.dir/build.make effective-modern-c++/CMakeFiles/item06.dir/build
+.PHONY : item06/fast
+
+#=============================================================================
+# Target rules for targets named item07
+
+# Build rule for target.
+item07: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 item07
+.PHONY : item07
+
+# fast build rule for target.
+item07/fast:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item07.dir/build.make effective-modern-c++/CMakeFiles/item07.dir/build
+.PHONY : item07/fast
+
+#=============================================================================
+# Target rules for targets named item08
+
+# Build rule for target.
+item08: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 item08
+.PHONY : item08
+
+# fast build rule for target.
+item08/fast:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item08.dir/build.make effective-modern-c++/CMakeFiles/item08.dir/build
+.PHONY : item08/fast
+
+#=============================================================================
+# Target rules for targets named item09
+
+# Build rule for target.
+item09: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 item09
+.PHONY : item09
+
+# fast build rule for target.
+item09/fast:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item09.dir/build.make effective-modern-c++/CMakeFiles/item09.dir/build
+.PHONY : item09/fast
+
+#=============================================================================
+# Target rules for targets named item10
+
+# Build rule for target.
+item10: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 item10
+.PHONY : item10
+
+# fast build rule for target.
+item10/fast:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item10.dir/build.make effective-modern-c++/CMakeFiles/item10.dir/build
+.PHONY : item10/fast
+
+#=============================================================================
+# Target rules for targets named item11
+
+# Build rule for target.
+item11: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 item11
+.PHONY : item11
+
+# fast build rule for target.
+item11/fast:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item11.dir/build.make effective-modern-c++/CMakeFiles/item11.dir/build
+.PHONY : item11/fast
+
+#=============================================================================
+# Target rules for targets named item12
+
+# Build rule for target.
+item12: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 item12
+.PHONY : item12
+
+# fast build rule for target.
+item12/fast:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item12.dir/build.make effective-modern-c++/CMakeFiles/item12.dir/build
+.PHONY : item12/fast
+
+#=============================================================================
+# Target rules for targets named item13
+
+# Build rule for target.
+item13: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 item13
+.PHONY : item13
+
+# fast build rule for target.
+item13/fast:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item13.dir/build.make effective-modern-c++/CMakeFiles/item13.dir/build
+.PHONY : item13/fast
+
+#=============================================================================
+# Target rules for targets named item14
+
+# Build rule for target.
+item14: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 item14
+.PHONY : item14
+
+# fast build rule for target.
+item14/fast:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item14.dir/build.make effective-modern-c++/CMakeFiles/item14.dir/build
+.PHONY : item14/fast
+
+#=============================================================================
+# Target rules for targets named item15
+
+# Build rule for target.
+item15: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 item15
+.PHONY : item15
+
+# fast build rule for target.
+item15/fast:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item15.dir/build.make effective-modern-c++/CMakeFiles/item15.dir/build
+.PHONY : item15/fast
+
+#=============================================================================
+# Target rules for targets named item16
+
+# Build rule for target.
+item16: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 item16
+.PHONY : item16
+
+# fast build rule for target.
+item16/fast:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item16.dir/build.make effective-modern-c++/CMakeFiles/item16.dir/build
+.PHONY : item16/fast
+
+#=============================================================================
+# Target rules for targets named item17
+
+# Build rule for target.
+item17: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 item17
+.PHONY : item17
+
+# fast build rule for target.
+item17/fast:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item17.dir/build.make effective-modern-c++/CMakeFiles/item17.dir/build
+.PHONY : item17/fast
+
+#=============================================================================
+# Target rules for targets named item18
+
+# Build rule for target.
+item18: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 item18
+.PHONY : item18
+
+# fast build rule for target.
+item18/fast:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item18.dir/build.make effective-modern-c++/CMakeFiles/item18.dir/build
+.PHONY : item18/fast
+
+#=============================================================================
+# Target rules for targets named item19
+
+# Build rule for target.
+item19: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 item19
+.PHONY : item19
+
+# fast build rule for target.
+item19/fast:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item19.dir/build.make effective-modern-c++/CMakeFiles/item19.dir/build
+.PHONY : item19/fast
+
+#=============================================================================
+# Target rules for targets named item20
+
+# Build rule for target.
+item20: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 item20
+.PHONY : item20
+
+# fast build rule for target.
+item20/fast:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item20.dir/build.make effective-modern-c++/CMakeFiles/item20.dir/build
+.PHONY : item20/fast
+
+#=============================================================================
+# Target rules for targets named item21
+
+# Build rule for target.
+item21: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 item21
+.PHONY : item21
+
+# fast build rule for target.
+item21/fast:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item21.dir/build.make effective-modern-c++/CMakeFiles/item21.dir/build
+.PHONY : item21/fast
+
+#=============================================================================
+# Target rules for targets named item22
+
+# Build rule for target.
+item22: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 item22
+.PHONY : item22
+
+# fast build rule for target.
+item22/fast:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item22.dir/build.make effective-modern-c++/CMakeFiles/item22.dir/build
+.PHONY : item22/fast
+
+#=============================================================================
+# Target rules for targets named item23
+
+# Build rule for target.
+item23: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 item23
+.PHONY : item23
+
+# fast build rule for target.
+item23/fast:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item23.dir/build.make effective-modern-c++/CMakeFiles/item23.dir/build
+.PHONY : item23/fast
+
+#=============================================================================
+# Target rules for targets named item24
+
+# Build rule for target.
+item24: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 item24
+.PHONY : item24
+
+# fast build rule for target.
+item24/fast:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item24.dir/build.make effective-modern-c++/CMakeFiles/item24.dir/build
+.PHONY : item24/fast
+
+#=============================================================================
+# Target rules for targets named item25
+
+# Build rule for target.
+item25: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 item25
+.PHONY : item25
+
+# fast build rule for target.
+item25/fast:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item25.dir/build.make effective-modern-c++/CMakeFiles/item25.dir/build
+.PHONY : item25/fast
+
+#=============================================================================
+# Target rules for targets named item26
+
+# Build rule for target.
+item26: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 item26
+.PHONY : item26
+
+# fast build rule for target.
+item26/fast:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item26.dir/build.make effective-modern-c++/CMakeFiles/item26.dir/build
+.PHONY : item26/fast
+
+#=============================================================================
+# Target rules for targets named item27
+
+# Build rule for target.
+item27: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 item27
+.PHONY : item27
+
+# fast build rule for target.
+item27/fast:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item27.dir/build.make effective-modern-c++/CMakeFiles/item27.dir/build
+.PHONY : item27/fast
+
+#=============================================================================
+# Target rules for targets named item28
+
+# Build rule for target.
+item28: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 item28
+.PHONY : item28
+
+# fast build rule for target.
+item28/fast:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item28.dir/build.make effective-modern-c++/CMakeFiles/item28.dir/build
+.PHONY : item28/fast
+
+#=============================================================================
+# Target rules for targets named item29
+
+# Build rule for target.
+item29: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 item29
+.PHONY : item29
+
+# fast build rule for target.
+item29/fast:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item29.dir/build.make effective-modern-c++/CMakeFiles/item29.dir/build
+.PHONY : item29/fast
+
+#=============================================================================
+# Target rules for targets named item30
+
+# Build rule for target.
+item30: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 item30
+.PHONY : item30
+
+# fast build rule for target.
+item30/fast:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item30.dir/build.make effective-modern-c++/CMakeFiles/item30.dir/build
+.PHONY : item30/fast
+
+#=============================================================================
+# Target rules for targets named item31
+
+# Build rule for target.
+item31: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 item31
+.PHONY : item31
+
+# fast build rule for target.
+item31/fast:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item31.dir/build.make effective-modern-c++/CMakeFiles/item31.dir/build
+.PHONY : item31/fast
+
+#=============================================================================
+# Target rules for targets named item32
+
+# Build rule for target.
+item32: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 item32
+.PHONY : item32
+
+# fast build rule for target.
+item32/fast:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item32.dir/build.make effective-modern-c++/CMakeFiles/item32.dir/build
+.PHONY : item32/fast
+
+#=============================================================================
+# Target rules for targets named item33
+
+# Build rule for target.
+item33: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 item33
+.PHONY : item33
+
+# fast build rule for target.
+item33/fast:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item33.dir/build.make effective-modern-c++/CMakeFiles/item33.dir/build
+.PHONY : item33/fast
+
+#=============================================================================
+# Target rules for targets named item34
+
+# Build rule for target.
+item34: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 item34
+.PHONY : item34
+
+# fast build rule for target.
+item34/fast:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item34.dir/build.make effective-modern-c++/CMakeFiles/item34.dir/build
+.PHONY : item34/fast
+
+#=============================================================================
+# Target rules for targets named item35
+
+# Build rule for target.
+item35: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 item35
+.PHONY : item35
+
+# fast build rule for target.
+item35/fast:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item35.dir/build.make effective-modern-c++/CMakeFiles/item35.dir/build
+.PHONY : item35/fast
+
+#=============================================================================
+# Target rules for targets named item36
+
+# Build rule for target.
+item36: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 item36
+.PHONY : item36
+
+# fast build rule for target.
+item36/fast:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item36.dir/build.make effective-modern-c++/CMakeFiles/item36.dir/build
+.PHONY : item36/fast
+
+#=============================================================================
+# Target rules for targets named item37
+
+# Build rule for target.
+item37: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 item37
+.PHONY : item37
+
+# fast build rule for target.
+item37/fast:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item37.dir/build.make effective-modern-c++/CMakeFiles/item37.dir/build
+.PHONY : item37/fast
+
+#=============================================================================
+# Target rules for targets named item38
+
+# Build rule for target.
+item38: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 item38
+.PHONY : item38
+
+# fast build rule for target.
+item38/fast:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item38.dir/build.make effective-modern-c++/CMakeFiles/item38.dir/build
+.PHONY : item38/fast
+
+#=============================================================================
+# Target rules for targets named item39
+
+# Build rule for target.
+item39: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 item39
+.PHONY : item39
+
+# fast build rule for target.
+item39/fast:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item39.dir/build.make effective-modern-c++/CMakeFiles/item39.dir/build
+.PHONY : item39/fast
+
+#=============================================================================
+# Target rules for targets named item40
+
+# Build rule for target.
+item40: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 item40
+.PHONY : item40
+
+# fast build rule for target.
+item40/fast:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item40.dir/build.make effective-modern-c++/CMakeFiles/item40.dir/build
+.PHONY : item40/fast
+
+#=============================================================================
+# Target rules for targets named item41
+
+# Build rule for target.
+item41: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 item41
+.PHONY : item41
+
+# fast build rule for target.
+item41/fast:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item41.dir/build.make effective-modern-c++/CMakeFiles/item41.dir/build
+.PHONY : item41/fast
+
+#=============================================================================
+# Target rules for targets named item42
+
+# Build rule for target.
+item42: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 item42
+.PHONY : item42
+
+# fast build rule for target.
+item42/fast:
+	$(MAKE) $(MAKESILENT) -f effective-modern-c++/CMakeFiles/item42.dir/build.make effective-modern-c++/CMakeFiles/item42.dir/build
+.PHONY : item42/fast
 
 #=============================================================================
 # Target rules for targets named effective_stl_01
@@ -1554,64 +1372,8 @@ help:
 	@echo "... depend"
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
-	@echo "... effective_C++_item_11"
-	@echo "... effective_c++_item_01"
-	@echo "... effective_c++_item_02"
-	@echo "... effective_c++_item_03"
-	@echo "... effective_c++_item_04"
-	@echo "... effective_c++_item_05"
-	@echo "... effective_c++_item_06"
-	@echo "... effective_c++_item_07"
-	@echo "... effective_c++_item_08"
-	@echo "... effective_c++_item_09"
-	@echo "... effective_c++_item_10"
-	@echo "... effective_c++_item_12"
-	@echo "... effective_c++_item_13"
-	@echo "... effective_c++_item_14"
-	@echo "... effective_c++_item_15"
-	@echo "... effective_c++_item_16"
-	@echo "... effective_c++_item_17"
-	@echo "... effective_c++_item_18"
-	@echo "... effective_c++_item_19"
-	@echo "... effective_c++_item_20"
-	@echo "... effective_c++_item_21"
-	@echo "... effective_c++_item_22"
-	@echo "... effective_c++_item_23"
-	@echo "... effective_c++_item_24"
-	@echo "... effective_c++_item_25"
-	@echo "... effective_c++_item_26"
-	@echo "... effective_c++_item_27"
-	@echo "... effective_c++_item_28"
-	@echo "... effective_c++_item_29"
-	@echo "... effective_c++_item_30"
-	@echo "... effective_c++_item_31"
-	@echo "... effective_c++_item_33"
-	@echo "... effective_c++_item_34"
-	@echo "... effective_c++_item_36"
-	@echo "... effective_c++_item_37"
-	@echo "... effective_c++_item_38"
-	@echo "... effective_c++_item_39"
-	@echo "... effective_c++_item_40"
-	@echo "... effective_c++_item_41"
-	@echo "... effective_c++_item_42"
-	@echo "... effective_c++_item_43"
-	@echo "... effective_c++_item_44"
-	@echo "... effective_c++_item_45"
-	@echo "... effective_c++_item_46"
-	@echo "... effective_c++_item_47"
-	@echo "... effective_c++_item_48"
-	@echo "... effective_c++_item_49"
-	@echo "... effective_c++_item_50"
-	@echo "... effective_c++_item_51"
-	@echo "... effective_c++_item_52"
-	@echo "... effective_c++_item_53"
-	@echo "... effective_c++_item_54"
-	@echo "... effective_c++_item_55"
-	@echo "... effective_modern_c++_01"
-	@echo "... effective_modern_c++_02"
-	@echo "... effective_modern_c++_03"
-	@echo "... effective_modern_c++_04"
-	@echo "... effective_modern_c++_05"
+	@echo "... base-1"
+	@echo "... base-2"
 	@echo "... effective_stl_01"
 	@echo "... effective_stl_02"
 	@echo "... effective_stl_03"
@@ -1657,6 +1419,48 @@ help:
 	@echo "... item-38"
 	@echo "... item-39"
 	@echo "... item-40"
+	@echo "... item01"
+	@echo "... item02"
+	@echo "... item03"
+	@echo "... item04"
+	@echo "... item05"
+	@echo "... item06"
+	@echo "... item07"
+	@echo "... item08"
+	@echo "... item09"
+	@echo "... item10"
+	@echo "... item11"
+	@echo "... item12"
+	@echo "... item13"
+	@echo "... item14"
+	@echo "... item15"
+	@echo "... item16"
+	@echo "... item17"
+	@echo "... item18"
+	@echo "... item19"
+	@echo "... item20"
+	@echo "... item21"
+	@echo "... item22"
+	@echo "... item23"
+	@echo "... item24"
+	@echo "... item25"
+	@echo "... item26"
+	@echo "... item27"
+	@echo "... item28"
+	@echo "... item29"
+	@echo "... item30"
+	@echo "... item31"
+	@echo "... item32"
+	@echo "... item33"
+	@echo "... item34"
+	@echo "... item35"
+	@echo "... item36"
+	@echo "... item37"
+	@echo "... item38"
+	@echo "... item39"
+	@echo "... item40"
+	@echo "... item41"
+	@echo "... item42"
 	@echo "... more_effective_c++_01"
 	@echo "... more_effective_c++_02"
 	@echo "... more_effective_c++_03"
