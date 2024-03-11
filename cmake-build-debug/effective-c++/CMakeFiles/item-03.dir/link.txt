@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/item-03.dir/item-03.cc.o -o ../bin/item-03 
