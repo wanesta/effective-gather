@@ -1,1 +1,1 @@
-/usr/bin/g++ -g CMakeFiles/item39.dir/item39.cc.o -o ../bin/item39 
+/usr/bin/c++ CMakeFiles/item39.dir/item39.cc.o -o ../bin/item39 

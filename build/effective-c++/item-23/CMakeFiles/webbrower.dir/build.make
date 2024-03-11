@@ -73,29 +73,29 @@ effective-c++/item-23/CMakeFiles/webbrower.dir/webbrower.cc.o: effective-c++/ite
 effective-c++/item-23/CMakeFiles/webbrower.dir/webbrower.cc.o: ../effective-c++/item-23/webbrower.cc
 effective-c++/item-23/CMakeFiles/webbrower.dir/webbrower.cc.o: effective-c++/item-23/CMakeFiles/webbrower.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/gaosm/Downloads/dev/effective-gather/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object effective-c++/item-23/CMakeFiles/webbrower.dir/webbrower.cc.o"
-	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-23 && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT effective-c++/item-23/CMakeFiles/webbrower.dir/webbrower.cc.o -MF CMakeFiles/webbrower.dir/webbrower.cc.o.d -o CMakeFiles/webbrower.dir/webbrower.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-23/webbrower.cc
+	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-23 && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT effective-c++/item-23/CMakeFiles/webbrower.dir/webbrower.cc.o -MF CMakeFiles/webbrower.dir/webbrower.cc.o.d -o CMakeFiles/webbrower.dir/webbrower.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-23/webbrower.cc
 
 effective-c++/item-23/CMakeFiles/webbrower.dir/webbrower.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/webbrower.dir/webbrower.cc.i"
-	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-23 && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-23/webbrower.cc > CMakeFiles/webbrower.dir/webbrower.cc.i
+	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-23 && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-23/webbrower.cc > CMakeFiles/webbrower.dir/webbrower.cc.i
 
 effective-c++/item-23/CMakeFiles/webbrower.dir/webbrower.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/webbrower.dir/webbrower.cc.s"
-	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-23 && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-23/webbrower.cc -o CMakeFiles/webbrower.dir/webbrower.cc.s
+	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-23 && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-23/webbrower.cc -o CMakeFiles/webbrower.dir/webbrower.cc.s
 
 effective-c++/item-23/CMakeFiles/webbrower.dir/webbrowerbookmarks.cc.o: effective-c++/item-23/CMakeFiles/webbrower.dir/flags.make
 effective-c++/item-23/CMakeFiles/webbrower.dir/webbrowerbookmarks.cc.o: ../effective-c++/item-23/webbrowerbookmarks.cc
 effective-c++/item-23/CMakeFiles/webbrower.dir/webbrowerbookmarks.cc.o: effective-c++/item-23/CMakeFiles/webbrower.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/gaosm/Downloads/dev/effective-gather/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object effective-c++/item-23/CMakeFiles/webbrower.dir/webbrowerbookmarks.cc.o"
-	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-23 && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT effective-c++/item-23/CMakeFiles/webbrower.dir/webbrowerbookmarks.cc.o -MF CMakeFiles/webbrower.dir/webbrowerbookmarks.cc.o.d -o CMakeFiles/webbrower.dir/webbrowerbookmarks.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-23/webbrowerbookmarks.cc
+	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-23 && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT effective-c++/item-23/CMakeFiles/webbrower.dir/webbrowerbookmarks.cc.o -MF CMakeFiles/webbrower.dir/webbrowerbookmarks.cc.o.d -o CMakeFiles/webbrower.dir/webbrowerbookmarks.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-23/webbrowerbookmarks.cc
 
 effective-c++/item-23/CMakeFiles/webbrower.dir/webbrowerbookmarks.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/webbrower.dir/webbrowerbookmarks.cc.i"
-	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-23 && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-23/webbrowerbookmarks.cc > CMakeFiles/webbrower.dir/webbrowerbookmarks.cc.i
+	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-23 && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-23/webbrowerbookmarks.cc > CMakeFiles/webbrower.dir/webbrowerbookmarks.cc.i
 
 effective-c++/item-23/CMakeFiles/webbrower.dir/webbrowerbookmarks.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/webbrower.dir/webbrowerbookmarks.cc.s"
-	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-23 && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-23/webbrowerbookmarks.cc -o CMakeFiles/webbrower.dir/webbrowerbookmarks.cc.s
+	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-c++/item-23 && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/gaosm/Downloads/dev/effective-gather/effective-c++/item-23/webbrowerbookmarks.cc -o CMakeFiles/webbrower.dir/webbrowerbookmarks.cc.s
 
 # Object files for target webbrower
 webbrower_OBJECTS = \

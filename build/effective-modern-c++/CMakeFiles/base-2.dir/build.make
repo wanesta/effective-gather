@@ -73,15 +73,15 @@ effective-modern-c++/CMakeFiles/base-2.dir/base-2.cc.o: effective-modern-c++/CMa
 effective-modern-c++/CMakeFiles/base-2.dir/base-2.cc.o: ../effective-modern-c++/base-2.cc
 effective-modern-c++/CMakeFiles/base-2.dir/base-2.cc.o: effective-modern-c++/CMakeFiles/base-2.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/gaosm/Downloads/dev/effective-gather/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object effective-modern-c++/CMakeFiles/base-2.dir/base-2.cc.o"
-	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++ && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT effective-modern-c++/CMakeFiles/base-2.dir/base-2.cc.o -MF CMakeFiles/base-2.dir/base-2.cc.o.d -o CMakeFiles/base-2.dir/base-2.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/base-2.cc
+	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++ && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT effective-modern-c++/CMakeFiles/base-2.dir/base-2.cc.o -MF CMakeFiles/base-2.dir/base-2.cc.o.d -o CMakeFiles/base-2.dir/base-2.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/base-2.cc
 
 effective-modern-c++/CMakeFiles/base-2.dir/base-2.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/base-2.dir/base-2.cc.i"
-	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++ && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/base-2.cc > CMakeFiles/base-2.dir/base-2.cc.i
+	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++ && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/base-2.cc > CMakeFiles/base-2.dir/base-2.cc.i
 
 effective-modern-c++/CMakeFiles/base-2.dir/base-2.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/base-2.dir/base-2.cc.s"
-	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++ && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/base-2.cc -o CMakeFiles/base-2.dir/base-2.cc.s
+	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++ && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/base-2.cc -o CMakeFiles/base-2.dir/base-2.cc.s
 
 # Object files for target base-2
 base__2_OBJECTS = \

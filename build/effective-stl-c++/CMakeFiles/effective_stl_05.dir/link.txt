@@ -1,1 +1,1 @@
-/usr/bin/g++ -g CMakeFiles/effective_stl_05.dir/effective_stl_05.cc.o -o ../bin/effective_stl_05 
+/usr/bin/c++ CMakeFiles/effective_stl_05.dir/effective_stl_05.cc.o -o ../bin/effective_stl_05 

@@ -73,15 +73,15 @@ effective-modern-c++/CMakeFiles/item29.dir/item29.cc.o: effective-modern-c++/CMa
 effective-modern-c++/CMakeFiles/item29.dir/item29.cc.o: ../effective-modern-c++/item29.cc
 effective-modern-c++/CMakeFiles/item29.dir/item29.cc.o: effective-modern-c++/CMakeFiles/item29.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/gaosm/Downloads/dev/effective-gather/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object effective-modern-c++/CMakeFiles/item29.dir/item29.cc.o"
-	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++ && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT effective-modern-c++/CMakeFiles/item29.dir/item29.cc.o -MF CMakeFiles/item29.dir/item29.cc.o.d -o CMakeFiles/item29.dir/item29.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item29.cc
+	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++ && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT effective-modern-c++/CMakeFiles/item29.dir/item29.cc.o -MF CMakeFiles/item29.dir/item29.cc.o.d -o CMakeFiles/item29.dir/item29.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item29.cc
 
 effective-modern-c++/CMakeFiles/item29.dir/item29.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/item29.dir/item29.cc.i"
-	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++ && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item29.cc > CMakeFiles/item29.dir/item29.cc.i
+	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++ && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item29.cc > CMakeFiles/item29.dir/item29.cc.i
 
 effective-modern-c++/CMakeFiles/item29.dir/item29.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/item29.dir/item29.cc.s"
-	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++ && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item29.cc -o CMakeFiles/item29.dir/item29.cc.s
+	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-modern-c++ && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/gaosm/Downloads/dev/effective-gather/effective-modern-c++/item29.cc -o CMakeFiles/item29.dir/item29.cc.s
 
 # Object files for target item29
 item29_OBJECTS = \

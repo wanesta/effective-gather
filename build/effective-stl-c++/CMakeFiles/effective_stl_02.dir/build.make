@@ -73,15 +73,15 @@ effective-stl-c++/CMakeFiles/effective_stl_02.dir/effective_stl_02.cc.o: effecti
 effective-stl-c++/CMakeFiles/effective_stl_02.dir/effective_stl_02.cc.o: ../effective-stl-c++/effective_stl_02.cc
 effective-stl-c++/CMakeFiles/effective_stl_02.dir/effective_stl_02.cc.o: effective-stl-c++/CMakeFiles/effective_stl_02.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/gaosm/Downloads/dev/effective-gather/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object effective-stl-c++/CMakeFiles/effective_stl_02.dir/effective_stl_02.cc.o"
-	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-stl-c++ && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT effective-stl-c++/CMakeFiles/effective_stl_02.dir/effective_stl_02.cc.o -MF CMakeFiles/effective_stl_02.dir/effective_stl_02.cc.o.d -o CMakeFiles/effective_stl_02.dir/effective_stl_02.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-stl-c++/effective_stl_02.cc
+	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-stl-c++ && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT effective-stl-c++/CMakeFiles/effective_stl_02.dir/effective_stl_02.cc.o -MF CMakeFiles/effective_stl_02.dir/effective_stl_02.cc.o.d -o CMakeFiles/effective_stl_02.dir/effective_stl_02.cc.o -c /home/gaosm/Downloads/dev/effective-gather/effective-stl-c++/effective_stl_02.cc
 
 effective-stl-c++/CMakeFiles/effective_stl_02.dir/effective_stl_02.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/effective_stl_02.dir/effective_stl_02.cc.i"
-	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-stl-c++ && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/gaosm/Downloads/dev/effective-gather/effective-stl-c++/effective_stl_02.cc > CMakeFiles/effective_stl_02.dir/effective_stl_02.cc.i
+	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-stl-c++ && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/gaosm/Downloads/dev/effective-gather/effective-stl-c++/effective_stl_02.cc > CMakeFiles/effective_stl_02.dir/effective_stl_02.cc.i
 
 effective-stl-c++/CMakeFiles/effective_stl_02.dir/effective_stl_02.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/effective_stl_02.dir/effective_stl_02.cc.s"
-	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-stl-c++ && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/gaosm/Downloads/dev/effective-gather/effective-stl-c++/effective_stl_02.cc -o CMakeFiles/effective_stl_02.dir/effective_stl_02.cc.s
+	cd /home/gaosm/Downloads/dev/effective-gather/build/effective-stl-c++ && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/gaosm/Downloads/dev/effective-gather/effective-stl-c++/effective_stl_02.cc -o CMakeFiles/effective_stl_02.dir/effective_stl_02.cc.s
 
 # Object files for target effective_stl_02
 effective_stl_02_OBJECTS = \
