@@ -18,12 +18,23 @@
     3.非常两引用=常量, int &r4 = a; 报错
     4.引用如果在等号右侧，请忽略引用
     5.非常量 = 常量引用
+    const int * p  指针指向的对象是常量，也称为底层const。指针本身是可变的，可以指向其他地方，但不能通过指针修改指向的整数的值
+    int * const p  指针本身是常量，也称为顶层const。 指针不能只想其他地方，但可以通过指针修改指向的整数的值
+    int const * p  指针指向的对象是常量，也称为底层const。 指针本身是可变的，可以指向其他地方，但不能通过指针修改指向的整数的值。
+    const int const * p 这是错误的声明方式。
+    const int * const p 指针指向的对象是常量，指针本身也是常量。指针不能指向其他地方，也不能通过指针修改指向的整数的值。
  *
  */
 template<typename T>
 void forwarder(T && arg){
 
 }
+
+template <typename Container, typename Index>
+auto authAndAccess(Container& c, Index i) -> decltype(c[i]){
+    return c[i];
+}
+
 void otherFunction(int& x){
     std::cout<< "Lvalue reference : " << x << std::endl;
 }
