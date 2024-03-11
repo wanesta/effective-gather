@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/effective_gather.dir/main.cpp.o -o effective_gather 

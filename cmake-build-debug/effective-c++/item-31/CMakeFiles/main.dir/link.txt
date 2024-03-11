@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/main.dir/main.cc.o CMakeFiles/main.dir/Address.cc.o CMakeFiles/main.dir/Date.cc.o CMakeFiles/main.dir/Person.cc.o CMakeFiles/main.dir/PersonImpl.cc.o -o ../../bin/main 

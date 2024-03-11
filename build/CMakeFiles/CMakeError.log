@@ -1,25 +1,25 @@
 Performing C SOURCE FILE Test CMAKE_HAVE_LIBC_PTHREAD failed with the following output:
 Change Dir: /home/gaosm/Downloads/dev/effective-gather/build/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/usr/bin/make -f Makefile cmTC_b7dac/fast && /usr/bin/make  -f CMakeFiles/cmTC_b7dac.dir/build.make CMakeFiles/cmTC_b7dac.dir/build
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_4f02b/fast && /usr/bin/make  -f CMakeFiles/cmTC_4f02b.dir/build.make CMakeFiles/cmTC_4f02b.dir/build
 make[1]: Entering directory '/home/gaosm/Downloads/dev/effective-gather/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_b7dac.dir/src.c.o
-/usr/bin/cc -DCMAKE_HAVE_LIBC_PTHREAD   -o CMakeFiles/cmTC_b7dac.dir/src.c.o -c /home/gaosm/Downloads/dev/effective-gather/build/CMakeFiles/CMakeTmp/src.c
-Linking C executable cmTC_b7dac
-/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b7dac.dir/link.txt --verbose=1
-/usr/bin/cc CMakeFiles/cmTC_b7dac.dir/src.c.o -o cmTC_b7dac 
-CMakeFiles/cmTC_b7dac.dir/src.c.o: In function `main':
+Building C object CMakeFiles/cmTC_4f02b.dir/src.c.o
+/usr/bin/cc -DCMAKE_HAVE_LIBC_PTHREAD   -o CMakeFiles/cmTC_4f02b.dir/src.c.o -c /home/gaosm/Downloads/dev/effective-gather/build/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_4f02b
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_4f02b.dir/link.txt --verbose=1
+/usr/bin/cc CMakeFiles/cmTC_4f02b.dir/src.c.o -o cmTC_4f02b 
+CMakeFiles/cmTC_4f02b.dir/src.c.o: In function `main':
 src.c:(.text+0x3e): undefined reference to `pthread_create'
 src.c:(.text+0x4a): undefined reference to `pthread_detach'
 src.c:(.text+0x56): undefined reference to `pthread_cancel'
 src.c:(.text+0x67): undefined reference to `pthread_join'
 src.c:(.text+0x7b): undefined reference to `pthread_atfork'
 collect2: error: ld returned 1 exit status
-CMakeFiles/cmTC_b7dac.dir/build.make:98: recipe for target 'cmTC_b7dac' failed
-make[1]: *** [cmTC_b7dac] Error 1
+CMakeFiles/cmTC_4f02b.dir/build.make:98: recipe for target 'cmTC_4f02b' failed
+make[1]: *** [cmTC_4f02b] Error 1
 make[1]: Leaving directory '/home/gaosm/Downloads/dev/effective-gather/build/CMakeFiles/CMakeTmp'
-Makefile:127: recipe for target 'cmTC_b7dac/fast' failed
-make: *** [cmTC_b7dac/fast] Error 2
+Makefile:127: recipe for target 'cmTC_4f02b/fast' failed
+make: *** [cmTC_4f02b/fast] Error 2
 
 
 Source file was:
@@ -46,20 +46,20 @@ int main(void)
 Determining if the function pthread_create exists in the pthreads failed with the following output:
 Change Dir: /home/gaosm/Downloads/dev/effective-gather/build/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/usr/bin/make -f Makefile cmTC_4400a/fast && /usr/bin/make  -f CMakeFiles/cmTC_4400a.dir/build.make CMakeFiles/cmTC_4400a.dir/build
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_64355/fast && /usr/bin/make  -f CMakeFiles/cmTC_64355.dir/build.make CMakeFiles/cmTC_64355.dir/build
 make[1]: Entering directory '/home/gaosm/Downloads/dev/effective-gather/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_4400a.dir/CheckFunctionExists.c.o
-/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create -o CMakeFiles/cmTC_4400a.dir/CheckFunctionExists.c.o -c /usr/local/share/cmake-3.22/Modules/CheckFunctionExists.c
-Linking C executable cmTC_4400a
-/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_4400a.dir/link.txt --verbose=1
-/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=pthread_create CMakeFiles/cmTC_4400a.dir/CheckFunctionExists.c.o -o cmTC_4400a  -lpthreads 
+Building C object CMakeFiles/cmTC_64355.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create -o CMakeFiles/cmTC_64355.dir/CheckFunctionExists.c.o -c /usr/local/share/cmake-3.22/Modules/CheckFunctionExists.c
+Linking C executable cmTC_64355
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_64355.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=pthread_create CMakeFiles/cmTC_64355.dir/CheckFunctionExists.c.o -o cmTC_64355  -lpthreads 
 /usr/bin/ld: cannot find -lpthreads
 collect2: error: ld returned 1 exit status
-CMakeFiles/cmTC_4400a.dir/build.make:98: recipe for target 'cmTC_4400a' failed
-make[1]: *** [cmTC_4400a] Error 1
+CMakeFiles/cmTC_64355.dir/build.make:98: recipe for target 'cmTC_64355' failed
+make[1]: *** [cmTC_64355] Error 1
 make[1]: Leaving directory '/home/gaosm/Downloads/dev/effective-gather/build/CMakeFiles/CMakeTmp'
-Makefile:127: recipe for target 'cmTC_4400a/fast' failed
-make: *** [cmTC_4400a/fast] Error 2
+Makefile:127: recipe for target 'cmTC_64355/fast' failed
+make: *** [cmTC_64355/fast] Error 2
 
 
 

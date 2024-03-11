@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/effective_modern_c++_01.dir/effective_modern_c++_01.cc.o -o ../bin/effective_modern_c++_01 

@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/effective_stl_04.dir/effective_stl_04.cc.o -o ../bin/effective_stl_04 
