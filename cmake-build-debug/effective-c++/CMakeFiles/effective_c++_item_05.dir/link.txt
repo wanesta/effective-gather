@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/effective_c++_item_05.dir/effective_c++_item_05.cc.o -o ../bin/effective_c++_item_05 

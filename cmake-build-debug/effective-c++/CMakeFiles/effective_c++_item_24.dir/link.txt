@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/effective_c++_item_24.dir/effective_c++_item_24.cc.o -o ../bin/effective_c++_item_24 
