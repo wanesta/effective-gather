@@ -2,6 +2,7 @@
 #include <tuple>
 #include <string>
 #include <cassert>
+#include <iostream>
 
 template<typename T>
 decltype(auto) simple_typeid(const T& param)
@@ -33,8 +34,22 @@ std::vector<Widget> createVec()
   return std::vector<Widget>(10);
 }
 
+template<typename T>
+void f(const T& param){
+    std::cout << "T    " << typeid(T).name() << std::endl;
+
+    std::cout << "param= " << typeid(param).name() << std::endl;
+}
+
+
 int main()
 {
+
+    std::vector<Widget> createVec();
+    const auto vw = createVec();
+    if(!vw.empty()){
+        f(&vw[0]);
+    }
   {
     const int theAnswer = 42;
     auto x = theAnswer;
